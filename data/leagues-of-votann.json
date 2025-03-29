@@ -1,0 +1,2196 @@
+{
+  "leagues-of-votann": {
+    "Einhyr-Champion": {
+      "Movement": "5\"",
+      "Toughness": "6",
+      "Save": "2+",
+      "Wounds": "5",
+      "Leadership": "7+",
+      "OC": "1",
+      "Wargear Options": [
+        "This model’s mass hammer can be replaced with 1 darkstar axe.",
+        "This model’s weavefield crest can be replaced with 1 teleport crest."
+      ],
+      "Abilities": [
+        "CORE: Leader",
+        "FACTION: Eye of the Ancestors",
+        "Exemplar of the Einhyr: While this model is leading a unit, you can re-roll Charge rolls made for that unit.",
+        "Mass Driver Accelerators: Each time this model ends a Charge move, you can select one enemy unit within Engagement Range of this unit and roll one D6: on a 2-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers D3+3 mortal wounds.",
+        "WARGEAR ABILITIES",
+        "Teleport Crest: While the bearer is leading a unit, models in that unit have the Deep Strike ability.",
+        "Weavefield Crest: The bearer has a 4+ invulnerable save."
+      ],
+      "Unit Composition": [
+        "1 Einhyr Champion",
+        "This model is equipped with: Autoch-pattern combi-bolter; mass hammer; weavefield crest.",
+        "1 model",
+        "60",
+        "LEADER",
+        "This model can be attached to the following unit:",
+        "Einhyr Hearthguard"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "EXO-ARMOUR",
+        "EINHYR CHAMPION"
+      ],
+      "Faction Keywords": [
+        "LEAGUES OF VOTANN"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "MATERIALISATION MATRICES",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNYIELDING AGGRESSION",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SUPERIOR CRAFTSMANSHIP",
+          "CP": "2CP",
+          "Source": "HEARTHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "SURE OF PURPOSE",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "WEAVEFIELD FLARE",
+          "CP": "1CP",
+          "Source": "HEARTHFIRE STRIKE – BATTLE TACTIC"
+        },
+        {
+          "Name": "PAN-SPECTRAL VISUALISER",
+          "CP": "1CP",
+          "Source": "HEARTHFIRE STRIKE – BATTLE TACTIC"
+        },
+        {
+          "Name": "GRAVITRONIC PULSE",
+          "CP": "1CP",
+          "Source": "HEARTHFIRE STRIKE – BATTLE TACTIC"
+        },
+        {
+          "Name": "ORDERED RETREAT",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ANCESTRAL SENTENCE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "NEWFOUND NEMESIS",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "REACTIVE REPRISAL",
+          "CP": "2CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "VOID ARMOUR",
+          "CP": "1CP",
+          "Source": "OATHBAND – WARGEAR"
+        },
+        {
+          "Name": "WARRIOR PRIDE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "RELIC CYPHER",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "CORRIDOR COVERED",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – BATTLE TACTIC"
+        },
+        {
+          "Name": "JUDGED AND PUNISHED",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Ruthless Efficiency"
+    },
+    "Grimnyr": {
+      "Movement": "5\"",
+      "Toughness": "5",
+      "Save": "4+",
+      "Wounds": "4",
+      "Leadership": "6+",
+      "OC": "1",
+      "Invulnerable Save": "4+",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Leader",
+        "FACTION: Eye of the Ancestors",
+        "Fortify (Psychic): While this model is leading a unit, improve the Toughness characteristic of models in that unit by 1.",
+        "Grimnyr’s Regard: Once per battle, after this model’s unit fails a Battle-shock test, this model can use this ability. If it does, that unit is no longer Battle-shocked."
+      ],
+      "Unit Composition": [
+        "1 Grimnyr",
+        "2 CORVs*",
+        "* If this unit’s Grimnyr model is ever destroyed, all of this unit’s remaining CORV models are also destroyed."
+      ],
+      "Faction Keywords": [
+        "LEAGUES OF VOTANN"
+      ],
+      "Points": [
+        {
+          "Models": "3",
+          "Cost": "65"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "MATERIALISATION MATRICES",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNYIELDING AGGRESSION",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SUPERIOR CRAFTSMANSHIP",
+          "CP": "2CP",
+          "Source": "HEARTHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "SURE OF PURPOSE",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ORDERED RETREAT",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ANCESTRAL SENTENCE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "NEWFOUND NEMESIS",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "REACTIVE REPRISAL",
+          "CP": "2CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "VOID ARMOUR",
+          "CP": "1CP",
+          "Source": "OATHBAND – WARGEAR"
+        },
+        {
+          "Name": "WARRIOR PRIDE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "RELIC CYPHER",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "CORRIDOR COVERED",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – BATTLE TACTIC"
+        },
+        {
+          "Name": "JUDGED AND PUNISHED",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Ruthless Efficiency"
+    },
+    "Hearthkyn-Warriors": {
+      "Movement": "5\"",
+      "Toughness": "5",
+      "Save": "4+",
+      "Wounds": "1",
+      "Leadership": "7+",
+      "OC": "2",
+      "Wargear Options": [
+        "All models in this unit can each have their Autoch-pattern bolter replaced with 1 ion blaster.",
+        "Up to 2 Hearthkyn Warriors can each have their Autoch-pattern bolter or ion blaster replaced with one of the following:",
+        "1 HYLas auto rifle*",
+        "1 HYLas rotary cannon*",
+        "1 L7 missile launcher*",
+        "1 EtaCarn plasma beamer*",
+        "1 magna-rail rifle*",
+        "1 Kin melee weapon",
+        "Up to 3 different Hearthkyn Warriors equipped with either an Autoch-pattern bolter or an ion blaster can each be equipped with one of the following (to a maximum of 1 of each per unit):",
+        "1 medipack**",
+        "1 comms array**",
+        "1 pan spectral scanner**",
+        "The Theyn’s Autoch-pattern bolt pistol can be replaced with one of the following:",
+        "1 ion pistol",
+        "1 EtaCarn plasma pistol",
+        "The Theyn’s Autoch-pattern bolter or ion blaster can be replaced with 1 Kin melee weapon."
+      ],
+      "Abilities": [
+        "FACTION: Eye of the Ancestors",
+        "Luck Has. Need Keeps. Toil Earns: At the end of your Command phase, if this unit is within range of an objective marker you control, that objective marker remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn.",
+        "WARGEAR ABILITIES",
+        "Pan Spectral Scanner: Ranged weapons equipped by models in the bearer’s unit have the [IGNORES COVER] ability.",
+        "Comms Array: Each time you target the bearer’s unit with a Stratagem, roll one D6: on a 5+, you gain 1CP.",
+        "Medipack: Models in the bearer’s unit have the Feel No Pain 6+ ability.",
+        "Weavefield Crest: The bearer has a 4+ invulnerable save."
+      ],
+      "Unit Composition": [
+        "1 Theyn",
+        "9 Hearthkyn Warriors",
+        "Every model is equipped with: Autoch-pattern bolt pistol; Autoch-pattern bolter; close combat weapon."
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "BATTLELINE",
+        "GRENADES",
+        "HEARTHKYN WARRIORS"
+      ],
+      "Faction Keywords": [
+        "LEAGUES OF VOTANN"
+      ],
+      "Points": [
+        {
+          "Models": "10",
+          "Cost": "100"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GRENADE",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "MATERIALISATION MATRICES",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNYIELDING AGGRESSION",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SUPERIOR CRAFTSMANSHIP",
+          "CP": "2CP",
+          "Source": "HEARTHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "SURE OF PURPOSE",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ORDERED RETREAT",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ANCESTRAL SENTENCE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "NEWFOUND NEMESIS",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "REACTIVE REPRISAL",
+          "CP": "2CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "VOID ARMOUR",
+          "CP": "1CP",
+          "Source": "OATHBAND – WARGEAR"
+        },
+        {
+          "Name": "WARRIOR PRIDE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "RELIC CYPHER",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "CORRIDOR COVERED",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – BATTLE TACTIC"
+        },
+        {
+          "Name": "JUDGED AND PUNISHED",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – BATTLE TACTIC"
+        },
+        {
+          "Name": "POINT-BLANK FIRE",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – BATTLE TACTIC"
+        }
+      ],
+      "Led By": [
+        "Brôkhyr Iron-master",
+        "Grimnyr",
+        "Kâhl",
+        "Ûthar the Destined"
+      ],
+      "Detachment Ability": "Ruthless Efficiency"
+    },
+    "Sagitaur": {
+      "Movement": "12\"",
+      "Toughness": "10",
+      "Save": "3+",
+      "Wounds": "9",
+      "Leadership": "7+",
+      "OC": "3",
+      "Wargear Options": [
+        "This model’s HYLas beam cannon can be replaced with one of the following:",
+        "1 L7 missile launcher and 1 Sagitaur missile launcher",
+        "1 MATR autocannon"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise 1, Scouts 6\"",
+        "FACTION: Eye of the Ancestors",
+        "Blistering Advance: Units can disembark from this TRANSPORT after it has Advanced. Units that do so count as having made a Normal move that phase, and cannot declare a charge in the same turn, but can otherwise act normally in the remainder of the turn."
+      ],
+      "Unit Composition": [
+        "1 Sagitaur",
+        "This model is equipped with: HYLas beam cannon; twin bolt cannon; armoured wheels.",
+        "1 model",
+        "115",
+        "TRANSPORT",
+        "This model has a transport capacity of 6 LEAGUES OF VOTANN INFANTRY models. It cannot transport EXO-ARMOUR or EXO-FRAME models."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "TRANSPORT",
+        "DEDICATED TRANSPORT",
+        "SAGITAUR"
+      ],
+      "Faction Keywords": [
+        "LEAGUES OF VOTANN"
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "MATERIALISATION MATRICES",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SUPERIOR CRAFTSMANSHIP",
+          "CP": "2CP",
+          "Source": "HEARTHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "SURE OF PURPOSE",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ORDERED RETREAT",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ANCESTRAL SENTENCE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "REACTIVE REPRISAL",
+          "CP": "2CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "VOID ARMOUR",
+          "CP": "1CP",
+          "Source": "OATHBAND – WARGEAR"
+        },
+        {
+          "Name": "WARRIOR PRIDE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Ruthless Efficiency"
+    },
+    "Cthonian-Beserks": {
+      "Movement": "5\"",
+      "Toughness": "5",
+      "Save": "6+",
+      "Wounds": "2",
+      "Leadership": "7+",
+      "OC": "1",
+      "Wargear Options": [
+        "All models in this unit can each have their heavy plasma axe replaced with 1 concussion maul.",
+        "For every 5 models in this unit, 1 model that is not equipped with a mole grenade launcher can have its heavy plasma axe or concussion maul replaced with 1 twin concussion gauntlet.",
+        "For every 5 models in this unit, 1 model that is not equipped with a twin concussion gauntlet can be equipped with 1 mole grenade launcher. If a model is equipped with a mole grenade launcher, add 1 to its Wounds and Attacks characteristics.*"
+      ],
+      "Abilities": [
+        "CORE: Feel No Pain 5+",
+        "FACTION: Eye of the Ancestors",
+        "Cyberstimms: Each time a model in this unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6: on a 4+, do not remove it from play. The destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play.",
+        "Subterranean Explosives: In your Shooting phase, after this unit has shot, select one enemy unit (excluding MONSTERS and VEHICLES) that was hit by one or more of this unit’s mole grenade launchers this phase and roll one D6. On a 4+, until the end of your opponent’s next turn, that enemy unit is shaken. While a unit is shaken, subtract 2\" from its Move characteristic and subtract 2 from Advance and Charge rolls made for it."
+      ],
+      "Unit Composition": [
+        "5-10 Cthonian Beserks",
+        "Every model is equipped with: heavy plasma axe.",
+        "5 models",
+        "100"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "CTHONIAN BESERKS"
+      ],
+      "Faction Keywords": [
+        "LEAGUES OF VOTANN"
+      ],
+      "Points": [
+        {
+          "Models": "5",
+          "Cost": "100"
+        },
+        {
+          "Models": "10",
+          "Cost": "200"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "MATERIALISATION MATRICES",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNYIELDING AGGRESSION",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SUPERIOR CRAFTSMANSHIP",
+          "CP": "2CP",
+          "Source": "HEARTHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "SURE OF PURPOSE",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ORDERED RETREAT",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ANCESTRAL SENTENCE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "NEWFOUND NEMESIS",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "REACTIVE REPRISAL",
+          "CP": "2CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "VOID ARMOUR",
+          "CP": "1CP",
+          "Source": "OATHBAND – WARGEAR"
+        },
+        {
+          "Name": "WARRIOR PRIDE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "RELIC CYPHER",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "CORRIDOR COVERED",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – BATTLE TACTIC"
+        },
+        {
+          "Name": "JUDGED AND PUNISHED",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Ruthless Efficiency"
+    },
+    "Einhyr-Hearthguard": {
+      "Movement": "5\"",
+      "Toughness": "6",
+      "Save": "2+",
+      "Wounds": "2",
+      "Leadership": "7+",
+      "OC": "1",
+      "Wargear Options": [
+        "All models in this unit can each have their EtaCarn plasma gun replaced with 1 volkanite disintegrator.",
+        "All models in this unit can each have their concussion gauntlet replaced with 1 plasma blade gauntlet.",
+        "The Hesyr’s concussion gauntlet or plasma blade gauntlet can be replaced with 1 concussion hammer.",
+        "The Hesyr’s weavefield crest can be replaced with 1 teleport crest."
+      ],
+      "Abilities": [
+        "FACTION: Eye of the Ancestors",
+        "Oathband Bodyguard: While a CHARACTER is leading this unit, each time an attack targets this unit, if the Strength characteristic of that attack is greater than this unit’s Toughness characteristic, subtract 1 from the Wound roll.",
+        "WARGEAR ABILITIES",
+        "Teleport Crest: Models in the bearer’s unit have the Deep Strike ability.",
+        "Weavefield Crest: The bearer has a 4+ invulnerable save."
+      ],
+      "Unit Composition": [
+        "1 Hesyr",
+        "4-9 Hearthguard",
+        "Every model is equipped with: EtaCarn plasma gun; exo-armour grenade launcher; concussion gauntlet."
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "EXO-ARMOUR",
+        "EINHYR HEARTHGUARD"
+      ],
+      "Faction Keywords": [
+        "LEAGUES OF VOTANN"
+      ],
+      "Points": [
+        {
+          "Models": "5",
+          "Cost": "150"
+        },
+        {
+          "Models": "10",
+          "Cost": "320"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "MATERIALISATION MATRICES",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNYIELDING AGGRESSION",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BRËKKEKNOTS",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "FURY OF THE HEARTH",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "SUPERIOR CRAFTSMANSHIP",
+          "CP": "2CP",
+          "Source": "HEARTHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "SURE OF PURPOSE",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "WEAVEFIELD FLARE",
+          "CP": "1CP",
+          "Source": "HEARTHFIRE STRIKE – BATTLE TACTIC"
+        },
+        {
+          "Name": "ECONOMY OF AGGRESSION",
+          "CP": "1CP",
+          "Source": "HEARTHFIRE STRIKE – BATTLE TACTIC"
+        },
+        {
+          "Name": "PAN-SPECTRAL VISUALISER",
+          "CP": "1CP",
+          "Source": "HEARTHFIRE STRIKE – BATTLE TACTIC"
+        },
+        {
+          "Name": "GRAVITRONIC PULSE",
+          "CP": "1CP",
+          "Source": "HEARTHFIRE STRIKE – BATTLE TACTIC"
+        },
+        {
+          "Name": "ORDERED RETREAT",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ANCESTRAL SENTENCE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "NEWFOUND NEMESIS",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "REACTIVE REPRISAL",
+          "CP": "2CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "VOID ARMOUR",
+          "CP": "1CP",
+          "Source": "OATHBAND – WARGEAR"
+        },
+        {
+          "Name": "WARRIOR PRIDE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "RELIC CYPHER",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "CORRIDOR COVERED",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – BATTLE TACTIC"
+        },
+        {
+          "Name": "JUDGED AND PUNISHED",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – BATTLE TACTIC"
+        }
+      ],
+      "Led By": [
+        "Einhyr Champion",
+        "Kâhl",
+        "Ûthar the Destined"
+      ],
+      "Detachment Ability": "Ruthless Efficiency"
+    },
+    "Hekaton-Land-Fortress": {
+      "Movement": "10\"",
+      "Toughness": "12",
+      "Save": "2+",
+      "Wounds": "16",
+      "Leadership": "7+",
+      "OC": "5",
+      "Wargear Options": [
+        "This model can do one of the following:",
+        "Replace 1 twin bolt cannon with 1 twin ion beamer",
+        "Replace 2 twin bolt cannons with 2 twin ion beamers",
+        "This model’s cyclic ion cannon can be replaced with one of the following:",
+        "1 SP heavy conversion beamer",
+        "1 heavy magna-rail cannon",
+        "This model’s pan spectral scanner can be replaced with 1 Hekaton warhead."
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6",
+        "FACTION: Eye of the Ancestors",
+        "Fire Support: In your Shooting phase, after this model has shot, select one enemy unit it scored one or more hits against this phase. Until the end of the phase, each time a friendly model that disembarked from this Transport this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll.",
+        "WARGEAR ABILITIES",
+        "Pan spectral scanner: Ranged weapons equipped by the bearer have the [IGNORES COVER] ability."
+      ],
+      "Unit Composition": [
+        "1 Hekaton Land Fortress",
+        "This model is equipped with: cyclic ion cannon; MATR autocannon; 2 twin bolt cannons; armoured wheels; pan spectral scanner.",
+        "1 model",
+        "225",
+        "DAMAGED: 1-5 WOUNDS REMAINING",
+        "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
+        "TRANSPORT",
+        "This model has a transport capacity of 12 LEAGUES OF VOTANN INFANTRY models. Each EXO-ARMOUR model takes up the space of 2 models and each EXO-FRAME model takes up the space of 3 models."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "TRANSPORT",
+        "HEKATON LAND FORTRESS"
+      ],
+      "Faction Keywords": [
+        "LEAGUES OF VOTANN"
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "MATERIALISATION MATRICES",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SUPERIOR CRAFTSMANSHIP",
+          "CP": "2CP",
+          "Source": "HEARTHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "SURE OF PURPOSE",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ORDERED RETREAT",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ANCESTRAL SENTENCE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "REACTIVE REPRISAL",
+          "CP": "2CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "VOID ARMOUR",
+          "CP": "1CP",
+          "Source": "OATHBAND – WARGEAR"
+        },
+        {
+          "Name": "WARRIOR PRIDE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Ruthless Efficiency"
+    },
+    "Hernkyn-Pioneers": {
+      "Movement": "12\"",
+      "Toughness": "6",
+      "Save": "4+",
+      "Wounds": "3",
+      "Leadership": "7+",
+      "OC": "2",
+      "Wargear Options": [
+        "For every 3 models in this unit, 1 model can be equipped with one of the following (if a model is equipped with any of these weapons, add 1 to its Wounds characteristic):",
+        "1 HYLas rotary cannon",
+        "1 ion beamer",
+        "Up to 3 different models that are not equipped with either a HYLas rotary cannon or an ion beamer can each be equipped with 1 of the following (to a maximum of 1 of each per unit):",
+        "1 comms array*",
+        "1 pan spectral scanner*",
+        "1 rollbar searchlight*"
+      ],
+      "Abilities": [
+        "CORE: Scouts 9\"",
+        "FACTION: Eye of the Ancestors",
+        "Outflanking Mag-Riders: At the end of your opponent’s turn, if this unit is within 6\" of any battlefield edge and is not within Engagement Range of any enemy units, you can remove this unit from the battlefield and place it into Strategic Reserves.",
+        "WARGEAR ABILITIES",
+        "Comms Array: Each time you target the bearer’s unit with a Stratagem, roll one D6: on a 5+, you gain 1CP.",
+        "Pan Spectral Scanner: Ranged weapons equipped by models in the bearer’s unit have the [IGNORES COVER] ability.",
+        "Rollbar Searchlight: Each time a model in the bearer’s unit makes an attack that targets a unit that contains one or more models with the Stealth ability, add 1 to the Hit roll."
+      ],
+      "Unit Composition": [
+        "3-6 Hernkyn Pioneers",
+        "Every model is equipped with: bolt revolver; bolt shotgun; magna-coil autocannon; plasma knife.",
+        "3 models",
+        "90"
+      ],
+      "Keywords": [
+        "MOUNTED",
+        "GRENADES",
+        "FLY",
+        "HERNKYN PIONEERS"
+      ],
+      "Faction Keywords": [
+        "LEAGUES OF VOTANN"
+      ],
+      "Points": [
+        {
+          "Models": "3",
+          "Cost": "90"
+        },
+        {
+          "Models": "6",
+          "Cost": "180"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GRENADE",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "MATERIALISATION MATRICES",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SUPERIOR CRAFTSMANSHIP",
+          "CP": "2CP",
+          "Source": "HEARTHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "SURE OF PURPOSE",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ORDERED RETREAT",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ANCESTRAL SENTENCE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "NEWFOUND NEMESIS",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "REACTIVE REPRISAL",
+          "CP": "2CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "VOID ARMOUR",
+          "CP": "1CP",
+          "Source": "OATHBAND – WARGEAR"
+        },
+        {
+          "Name": "WARRIOR PRIDE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Ruthless Efficiency"
+    },
+    "Hernkyn-Yaegirs": {
+      "Movement": "6\"",
+      "Toughness": "5",
+      "Save": "5+",
+      "Wounds": "1",
+      "Leadership": "7+",
+      "OC": "1",
+      "Wargear Options": [
+        "All models in this unit can each have their bolt shotgun replaced with 1 bolt revolver and 1 plasma knife.",
+        "1 Hernkyn Yaegir can have its bolt revolver and plasma knife or its bolt shotgun replaced with 1 magna-coil rifle.",
+        "1 Hernkyn Yaegir can have its bolt revolver and plasma knife or its bolt shotgun replaced with 1 APM launcher."
+      ],
+      "Abilities": [
+        "CORE: Infiltrators",
+        "FACTION: Eye of the Ancestors",
+        "Pragmatic Hunters: Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of this unit, if this unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to D6\"."
+      ],
+      "Unit Composition": [
+        "1 Yaegir Theyn",
+        "9 Hernkyn Yaegirs",
+        "Every model is equipped with: bolt shotgun; close combat weapon.",
+        "10 models",
+        "90"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "GRENADES",
+        "HERNKYN YAEGIRS"
+      ],
+      "Faction Keywords": [
+        "LEAGUES OF VOTANN"
+      ],
+      "Points": [
+        {
+          "Models": "10",
+          "Cost": "90"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GRENADE",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "MATERIALISATION MATRICES",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNYIELDING AGGRESSION",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SUPERIOR CRAFTSMANSHIP",
+          "CP": "2CP",
+          "Source": "HEARTHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "SURE OF PURPOSE",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ORDERED RETREAT",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ANCESTRAL SENTENCE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "NEWFOUND NEMESIS",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "REACTIVE REPRISAL",
+          "CP": "2CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "VOID ARMOUR",
+          "CP": "1CP",
+          "Source": "OATHBAND – WARGEAR"
+        },
+        {
+          "Name": "WARRIOR PRIDE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "RELIC CYPHER",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "CORRIDOR COVERED",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – BATTLE TACTIC"
+        },
+        {
+          "Name": "JUDGED AND PUNISHED",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Ruthless Efficiency"
+    },
+    "Br%C3%B4khyr-Iron-master": {
+      "Movement": "5\"",
+      "Toughness": "5",
+      "Save": "4+",
+      "Wounds": "4",
+      "Leadership": "7+",
+      "OC": "1",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Leader",
+        "FACTION: Eye of the Ancestors",
+        "Multispectral Visor: While this model is leading a unit, each time a model in that unit makes a ranged attack, add 1 to the Hit roll.",
+        "Brôkhyr’s Guild: At the end of your Movement phase, this unit can repair one friendly LEAGUES OF VOTANN VEHICLE or EXO-FRAME model within 3\" of it. That model regains up to D3 lost wounds, or up to 3 lost wounds instead if this unit contains an Ironkyn Assistant. Each model can only be repaired once per turn."
+      ],
+      "Unit Composition": [
+        "1 Brôkhyr Iron-master",
+        "1 Ironkin Assistant*",
+        "3 E-COGs*",
+        "* If this unit’s Iron-master is ever destroyed, this unit’s Ironkyn Assistant and all remaining E-COGs are also destroyed."
+      ],
+      "Faction Keywords": [
+        "LEAGUES OF VOTANN"
+      ],
+      "Points": [
+        {
+          "Models": "5",
+          "Cost": "65"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "MATERIALISATION MATRICES",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNYIELDING AGGRESSION",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SUPERIOR CRAFTSMANSHIP",
+          "CP": "2CP",
+          "Source": "HEARTHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "SURE OF PURPOSE",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ORDERED RETREAT",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ANCESTRAL SENTENCE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "NEWFOUND NEMESIS",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "REACTIVE REPRISAL",
+          "CP": "2CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "VOID ARMOUR",
+          "CP": "1CP",
+          "Source": "OATHBAND – WARGEAR"
+        },
+        {
+          "Name": "WARRIOR PRIDE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "RELIC CYPHER",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "CORRIDOR COVERED",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – BATTLE TACTIC"
+        },
+        {
+          "Name": "JUDGED AND PUNISHED",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Ruthless Efficiency"
+    },
+    "K-hl": {
+      "Movement": "5\"",
+      "Toughness": "5",
+      "Save": "3+",
+      "Wounds": "4",
+      "Leadership": "7+",
+      "OC": "1",
+      "Invulnerable Save": "4+",
+      "Wargear Options": [
+        "This model’s Autoch-pattern combi-bolter can be replaced with 1 volkanite disintegrator.",
+        "This model’s forgewrought plasma axe can be replaced with 1 mass gauntlet.",
+        "This model’s rampart crest can be replaced with 1 teleport crest."
+      ],
+      "Abilities": [
+        "CORE: Leader",
+        "FACTION: Eye of the Ancestors",
+        "Kindred Hero: While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability.",
+        "Grim Efficiency: Once per battle round, in your Command phase, you can select one model from your army with this ability, then select one enemy unit that is visible to that model. That enemy unit gains 1 Judgement token.",
+        "WARGEAR ABILITIES",
+        "Rampart Crest: While this model is leading a unit, models in that unit have a 5+ invulnerable save.",
+        "Teleport Crest: While this model is leading a unit, models in that unit have the Deep Strike ability."
+      ],
+      "Unit Composition": [
+        "1 Kâhl",
+        "This model is equipped with: Autoch-pattern combi-bolter; forgewrought plasma axe; rampart crest.",
+        "1 model",
+        "70",
+        "LEADER",
+        "This model can be attached to the following units:",
+        "Einhyr Hearthguard",
+        "Hearthkyn Warriors"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "KÂHL"
+      ],
+      "Faction Keywords": [
+        "LEAGUES OF VOTANN"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "MATERIALISATION MATRICES",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNYIELDING AGGRESSION",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BRËKKEKNOTS",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "SUPERIOR CRAFTSMANSHIP",
+          "CP": "2CP",
+          "Source": "HEARTHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "SURE OF PURPOSE",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ORDERED RETREAT",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ANCESTRAL SENTENCE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "NEWFOUND NEMESIS",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "REACTIVE REPRISAL",
+          "CP": "2CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "VOID ARMOUR",
+          "CP": "1CP",
+          "Source": "OATHBAND – WARGEAR"
+        },
+        {
+          "Name": "WARRIOR PRIDE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "RELIC CYPHER",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "CORRIDOR COVERED",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – BATTLE TACTIC"
+        },
+        {
+          "Name": "JUDGED AND PUNISHED",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Ruthless Efficiency"
+    },
+    "%C3%9Bthar-the-Destined": {
+      "Movement": "5\"",
+      "Toughness": "5",
+      "Save": "3+",
+      "Wounds": "5",
+      "Leadership": "7+",
+      "OC": "1",
+      "Invulnerable Save": "4+",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Leader",
+        "FACTION: Eye of the Ancestors",
+        "Ancestral Fortune: Once per turn, you can change one Hit roll or one Wound roll made for this model to an unmodified 6.",
+        "The Destined: Each time an attack is allocated to this model, change the Damage characteristic of that attack to 1.",
+        "Grim Efficiency: Once per battle round, in your Command phase, you can select one model from your army with this ability, then select one enemy unit that is visible to that model. That enemy unit gains 1 Judgement token.",
+        "WARGEAR ABILITIES",
+        "Rampart Crest: While the bearer is leading a unit, models in that unit have a 5+ invulnerable save."
+      ],
+      "Unit Composition": [
+        "1 Ûthar the Destined – EPIC HERO",
+        "This model is equipped with: volkanite disintegrator; Blade of the Ancestors; rampart crest.",
+        "1 model",
+        "80",
+        "LEADER",
+        "This model can be attached to the following units:",
+        "Einhyr Hearthguard",
+        "Hearthkyn Warriors"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "EPIC HERO",
+        "ÛTHAR THE DESTINED"
+      ],
+      "Faction Keywords": [
+        "LEAGUES OF VOTANN"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "MATERIALISATION MATRICES",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNYIELDING AGGRESSION",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BRËKKEKNOTS",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "SUPERIOR CRAFTSMANSHIP",
+          "CP": "2CP",
+          "Source": "HEARTHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "SURE OF PURPOSE",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ORDERED RETREAT",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ANCESTRAL SENTENCE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "NEWFOUND NEMESIS",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "REACTIVE REPRISAL",
+          "CP": "2CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "VOID ARMOUR",
+          "CP": "1CP",
+          "Source": "OATHBAND – WARGEAR"
+        },
+        {
+          "Name": "WARRIOR PRIDE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "RELIC CYPHER",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "CORRIDOR COVERED",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – BATTLE TACTIC"
+        },
+        {
+          "Name": "JUDGED AND PUNISHED",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Ruthless Efficiency"
+    },
+    "Br%C3%B4khyr-Thunderkyn": {
+      "Movement": "5\"",
+      "Toughness": "6",
+      "Save": "3+",
+      "Wounds": "3",
+      "Leadership": "7+",
+      "OC": "1",
+      "Wargear Options": [
+        "All models in this unit can each have their bolt cannon replaced with 1 SP conversion beamer.",
+        "All models in this unit can each have their bolt cannon replaced with 1 graviton blast cannon."
+      ],
+      "Abilities": [
+        "FACTION: Eye of the Ancestors",
+        "Oathband Covering Fire: Each time you target this unit with the Fire Overwatch Stratagem, hits are scored on unmodified Hit rolls of 5+ when resolving that Stratagem."
+      ],
+      "Unit Composition": [
+        "3-6 Brôkhyr Thunderkyn",
+        "Every model is equipped with: bolt cannon; close combat weapon.",
+        "3 models",
+        "80"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "EXO-FRAME",
+        "BRÔKHYR THUNDERKYN"
+      ],
+      "Faction Keywords": [
+        "LEAGUES OF VOTANN"
+      ],
+      "Points": [
+        {
+          "Models": "3",
+          "Cost": "80"
+        },
+        {
+          "Models": "6",
+          "Cost": "160"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "MATERIALISATION MATRICES",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNYIELDING AGGRESSION",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SUPERIOR CRAFTSMANSHIP",
+          "CP": "2CP",
+          "Source": "HEARTHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "SURE OF PURPOSE",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ORDERED RETREAT",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ANCESTRAL SENTENCE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "NEWFOUND NEMESIS",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "REACTIVE REPRISAL",
+          "CP": "2CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "VOID ARMOUR",
+          "CP": "1CP",
+          "Source": "OATHBAND – WARGEAR"
+        },
+        {
+          "Name": "WARRIOR PRIDE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "RELIC CYPHER",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "CORRIDOR COVERED",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – BATTLE TACTIC"
+        },
+        {
+          "Name": "JUDGED AND PUNISHED",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Ruthless Efficiency"
+    }
+  }
+}

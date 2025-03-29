@@ -1,0 +1,4591 @@
+{
+  "chaos-knights": {
+    "Accursed-Cultists": {
+      "Movement": "6\"",
+      "Toughness": "4",
+      "Save": "6+",
+      "Wounds": "1",
+      "Leadership": "7+",
+      "OC": "1",
+      "Abilities": [
+        "CORE: Feel No Pain 6+, Scouts 6\"",
+        "FACTION: Dark Pacts",
+        "Accursed Horde: Each time an enemy unit has shot, if one or more models from this unit were destroyed as a result of those attacks, this unit can make a Horde move. To do so, roll one D6: this unit can be moved a number of inches up to the result, but this unit must finish that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of that enemy unit. A unit cannot make a Horde move while it is Battle-shocked."
+      ],
+      "Unit Composition": [
+        "3-6 Torments",
+        "5-10 Mutants",
+        "Every Torment is equipped with: hideous mutations."
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "CHAOS",
+        "DAMNED",
+        "ACCURSED CULTISTS"
+      ],
+      "Faction Keywords": [
+        "HERETIC ASTARTES"
+      ],
+      "Points": [
+        {
+          "Models": "8",
+          "Cost": "90"
+        },
+        {
+          "Models": "16",
+          "Cost": "195"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "WORTHLESS CHATTEL",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        }
+      ]
+    },
+    "Cultist-Mob": {
+      "Movement": "6\"",
+      "Toughness": "3",
+      "Save": "6+",
+      "Wounds": "1",
+      "Leadership": "7+",
+      "OC": "1",
+      "Wargear Options": [
+        "The Cultist Champion’s autopistol can be replaced with 1 bolt pistol."
+      ],
+      "Abilities": [
+        "FACTION: Dark Pacts",
+        "For the Dark Gods: At the end of your Command phase, if this unit is within range of an objective marker you control, that objective marker remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn."
+      ],
+      "Unit Composition": [
+        "1 Cultist Champion",
+        "9-19 Chaos Cultists",
+        "Every model is equipped with: autopistol; brutal assault weapon.",
+        "10 models",
+        "50"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "BATTLELINE",
+        "GRENADES",
+        "CHAOS",
+        "DAMNED",
+        "CULTIST MOB"
+      ],
+      "Faction Keywords": [
+        "HERETIC ASTARTES"
+      ],
+      "Points": [
+        {
+          "Models": "10",
+          "Cost": "50"
+        },
+        {
+          "Models": "20",
+          "Cost": "100"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GRENADE",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "WRETCHED MASSES",
+          "CP": "2CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        },
+        {
+          "Name": "WORTHLESS CHATTEL",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        }
+      ]
+    },
+    "Traitor-Guardsmen-Squad": {
+      "Movement": "6\"",
+      "Toughness": "3",
+      "Save": "5+",
+      "Wounds": "1",
+      "Leadership": "7+",
+      "OC": "2",
+      "Wargear Options": [
+        "Up to 3 Traitor Guardsmen can each have their lasgun replaced with one of the following (duplicates are not allowed):",
+        "1 Cultist grenade launcher",
+        "1 flamer",
+        "1 meltagun",
+        "1 plasma gun",
+        "1 Cultist sniper rifle",
+        "The Traitor Sergeant’s close combat weapon can be replaced with one of the following:",
+        "1 chainsword",
+        "1 power weapon",
+        "The Traitor Sergeant’s corrupted pistol can be replaced with 1 boltgun."
+      ],
+      "Abilities": [
+        "FACTION: Dark Pacts",
+        "Twisted Defence Force: While this unit is within range of an objective marker, each time a ranged attack targets this unit, models in this unit have the Benefit of Cover against that attack."
+      ],
+      "Unit Composition": [
+        "1 Traitor Sergeant",
+        "9 Traitor Guardsmen",
+        "The Traitor Sergeant is equipped with: corrupted pistol; close combat weapon."
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "GRENADES",
+        "CHAOS",
+        "DAMNED",
+        "TRAITOR GUARDSMEN SQUAD"
+      ],
+      "Faction Keywords": [
+        "HERETIC ASTARTES"
+      ],
+      "Points": [
+        {
+          "Models": "10",
+          "Cost": "70"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GRENADE",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "WRETCHED MASSES",
+          "CP": "2CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        },
+        {
+          "Name": "WORTHLESS CHATTEL",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        }
+      ]
+    },
+    "Renegade-Heavy-Weapons-Squad": {
+      "Movement": "6\"",
+      "Toughness": "3",
+      "Save": "5+",
+      "Wounds": "2",
+      "Leadership": "7+",
+      "OC": "2",
+      "Wargear Options": [
+        "Any numbers of models’ heavy stubbers can each be replaced with one of the following:",
+        "1 autocannon",
+        "1 heavy bolter",
+        "1 lascannon",
+        "1 missile launcher",
+        "1 mortar"
+      ],
+      "Abilities": [
+        "FACTION: Dark Pacts",
+        "Covering Fire: Each time you target this unit with the Fire Overwatch Stratagem, while resolving that Stratagem, hits are scored on unmodified Hit rolls of 5+."
+      ],
+      "Unit Composition": [
+        "3 Renegade Heavy Weapons Teams",
+        "Every model is equipped with: renegade firearm; heavy stubber; close combat weapons.",
+        "3 models",
+        "75",
+        "HEAVY WEAPONS TEAM",
+        "For the purposes of embarking within TRANSPORTS, each Renegade Heavy Weapons Team model counts as two models."
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "CHAOS",
+        "DAMNED",
+        "GRENADES",
+        "RENEGADE HEAVY WEAPONS SQUAD"
+      ],
+      "Faction Keywords": [
+        "HERETIC ASTARTES"
+      ],
+      "Points": [
+        {
+          "Models": "3",
+          "Cost": "75"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GRENADE",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "WRETCHED MASSES",
+          "CP": "2CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        },
+        {
+          "Name": "WORTHLESS CHATTEL",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        }
+      ]
+    },
+    "Negavolt-Cultists": {
+      "Movement": "6\"",
+      "Toughness": "3",
+      "Save": "7+",
+      "Wounds": "1",
+      "Leadership": "7+",
+      "OC": "1",
+      "Invulnerable Save": "5+",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Feel No Pain 5+",
+        "FACTION: Dark Pacts",
+        "Voltagheist Field: Each time this unit ends a Charge move, select one enemy unit within Engagement Range of it and roll one D6 for each model in this unit: for each 4+, that enemy unit suffers 1 mortal wound."
+      ],
+      "Unit Composition": [
+        "4 Negavolt Cultists",
+        "Every model is equipped with: electro-goads.",
+        "4 models",
+        "55",
+        "SERVANTS OF THE ABYSS",
+        "If a unit from your army with the Leader ability can be attached to a CULTIST MOB, it can be attached to this unit instead."
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "CHAOS",
+        "DAMNED",
+        "NEGAVOLT CULTISTS"
+      ],
+      "Faction Keywords": [
+        "HERETIC ASTARTES"
+      ],
+      "Points": [
+        {
+          "Models": "4",
+          "Cost": "55"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "WRETCHED MASSES",
+          "CP": "2CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        },
+        {
+          "Name": "WORTHLESS CHATTEL",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        }
+      ]
+    },
+    "Cultist-Firebrand": {
+      "Movement": "6\"",
+      "Toughness": "4",
+      "Save": "4+",
+      "Wounds": "4",
+      "Leadership": "6+",
+      "OC": "1",
+      "Abilities": [
+        "CORE: Leader",
+        "FACTION: Dark Pacts",
+        "Fiery Faith: While this model is leading a unit, you can re-roll Leadership tests taken for that unit.",
+        "Cursed Flames: In your Shooting phase, after this model has shot, select one enemy INFANTRY unit hit by one or more of those attacks. That unit must take a Battle-shock test."
+      ],
+      "Unit Composition": [
+        "1 Cultist Firebrand",
+        "This model is equipped with: balefire pike, close combat weapon.",
+        "1 model",
+        "45",
+        "LEADER",
+        "This model can be attached to the following units:"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "GRENADES",
+        "CHAOS",
+        "DAMNED",
+        "CULTIST FIREBRAND"
+      ],
+      "Faction Keywords": [
+        "HERETIC ASTARTES"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GRENADE",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "WRETCHED MASSES",
+          "CP": "2CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        }
+      ]
+    },
+    "Dark-Commune": {
+      "Movement": "6\"",
+      "Toughness": "3",
+      "Save": "6+",
+      "Wounds": "4",
+      "Leadership": "6+",
+      "OC": "1",
+      "Abilities": [
+        "CORE: Leader",
+        "FACTION: Dark Pacts",
+        "Faithful Flock: While this unit is leading a unit and contains a CULT DEMAGOGUE model, models in that unit have a 5+ invulnerable save.",
+        "Dark Ritual: Once per battle, in your Command phase, if this unit contains a CULT DEMAGOGUE model, it can use this ability. If it does, until the end of the turn, this unit can declare a charge in a turn in which it Advanced and each time a model in this unit makes an attack, add 1 to the Hit roll and add 1 to the Wound roll.",
+        "WARGEAR ABILITIES",
+        "Chaos Icon: Each time the bearer’s unit takes a Leadership test for the Dark Pacts ability, you can re-roll that test."
+      ],
+      "Unit Composition": [
+        "1 Cult Demagogue",
+        "1 Mindwitch",
+        "1 Iconarch",
+        "2 Blessed Blades",
+        "The Cult Demagogue is equipped with: autopistol; Commune stave."
+      ],
+      "Faction Keywords": [
+        "HERETIC ASTARTES"
+      ],
+      "Points": [
+        {
+          "Models": "5",
+          "Cost": "80"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GRENADE",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "WRETCHED MASSES",
+          "CP": "2CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        }
+      ]
+    },
+    "Rogue-Psyker": {
+      "Movement": "6\"",
+      "Toughness": "3",
+      "Save": "5+",
+      "Wounds": "3",
+      "Leadership": "7+",
+      "OC": "1",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Leader",
+        "FACTION: Dark Pacts",
+        "Cursed Wardings (Psychic): While this model is leading a unit, models in that unit have the Feel No Pain 4+ ability against Psychic Attacks.",
+        "Psychic Barrier (Psychic): At the start of your opponent’s Shooting phase, you can roll one D6: on a 1, this PSYKER’s unit suffers D3 mortal wounds; on a 2+, until the end of the phase, models in this PSYKER’s unit have a 4+ invulnerable save."
+      ],
+      "Unit Composition": [
+        "1 Rogue Psyker",
+        "This model is equipped with: laspistol; Psychic Strike; Chaos stave.",
+        "1 model",
+        "60",
+        "LEADER",
+        "This model can be attached to the following units:"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "PSYKER",
+        "CHAOS",
+        "DAMNED",
+        "ROGUE PSYKER"
+      ],
+      "Faction Keywords": [
+        "HERETIC ASTARTES"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "WRETCHED MASSES",
+          "CP": "2CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        }
+      ]
+    },
+    "Traitor-Enforcer": {
+      "Movement": "6\"",
+      "Toughness": "3",
+      "Save": "5+",
+      "Wounds": "3",
+      "Leadership": "6+",
+      "OC": "1",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Leader",
+        "FACTION: Dark Pacts",
+        "Brutal Example: Once per turn, while this unit is leading a unit and contains a TRAITOR ENFORCER model, you can target that unit with the Fire Overwatch Stratagem for 0CP, and can do so even if you have already targeted a different unit from your army with that Stratagem this turn. Each time you use this ability, one Bodyguard model in that unit is destroyed.",
+        "Mutated Bodyguard: While this unit contains a Traitor Ogryn model, CHARACTER models in this unit have the Feel No Pain 4+ ability."
+      ],
+      "Unit Composition": [
+        "1 Traitor Enforcer",
+        "1 Traitor Ogryn",
+        "The Traitor Enforcer is equipped with: bolt pistol; power fist."
+      ],
+      "Faction Keywords": [
+        "HERETIC ASTARTES"
+      ],
+      "Points": [
+        {
+          "Models": "2",
+          "Cost": "65"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GRENADE",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "WRETCHED MASSES",
+          "CP": "2CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        }
+      ]
+    },
+    "Renegade-Enforcer": {
+      "Movement": "6\"",
+      "Toughness": "3",
+      "Save": "5+",
+      "Wounds": "3",
+      "Leadership": "6+",
+      "OC": "1",
+      "Invulnerable Save": "5+",
+      "Wargear Options": [
+        "This model’s Enforcer pistol can be replaced with one of the following:",
+        "1 autogun",
+        "1 lasgun",
+        "1 shotgun",
+        "This model’s Enforcer melee weapon can be replaced with one of the following:",
+        "1 power fist",
+        "1 power weapon"
+      ],
+      "Abilities": [
+        "CORE: Leader",
+        "FACTION: Dark Pacts",
+        "Brutal Example: While this model is leading a unit, you can target that unit with the Insane Bravery Stratagem for 0CP, and can do so even if another unit from your army has already been targeted with that Stratagem this phase. Each time you use this ability, one Bodyguard model in that unit is destroyed.",
+        "Enforcer: This model’s unit is eligible to declare a charge in a turn in which it Fell Back."
+      ],
+      "Unit Composition": [
+        "1 Renegade Enforcer",
+        "This model is equipped with: Enforcer pistol; Enforcer melee weapon.",
+        "1 model",
+        "65",
+        "LEADER",
+        "This model can be attached to the following units:"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "CHAOS",
+        "DAMNED",
+        "GRENADES",
+        "CHARACTER",
+        "RENEGADE ENFORCER"
+      ],
+      "Faction Keywords": [
+        "HERETIC ASTARTES"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GRENADE",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "WRETCHED MASSES",
+          "CP": "2CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        }
+      ]
+    },
+    "Knight-Abominant": {
+      "Movement": "10\"",
+      "Toughness": "12",
+      "Save": "3+",
+      "Wounds": "22",
+      "Leadership": "6+",
+      "OC": "10",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6",
+        "FACTION: Harbingers of Dread, Super-heavy Walker",
+        "Vortex Terrors (Psychic): At the start of your Shooting phase, select one enemy unit within 12\" of this model. That enemy unit must take a Battle-shock test.",
+        "Warp Storms (Psychic): At the end of your Movement phase, roll one D6 for each enemy unit within 9\" of this model: on a 3+, that enemy unit suffers D3 mortal wounds."
+      ],
+      "Unit Composition": [
+        "1 Knight Abominant",
+        "This model is equipped with: diabolus heavy stubber; volkite combustor; balemace; electroscourge.",
+        "1 model",
+        "365",
+        "DAMAGED: 1-7 WOUNDS REMAINING",
+        "While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "TITANIC",
+        "TOWERING",
+        "ABHORRENT",
+        "PSYKER",
+        "CHARACTER",
+        "CHAOS",
+        "KNIGHT ABOMINANT"
+      ],
+      "Faction Keywords": [
+        "CHAOS KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "AVENGE THE MASTERS!",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNRESTRAINED RAGE",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "PRESERVE THE IDOLS",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SOUL HUNGER",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        },
+        {
+          "Name": "PTERRORSHADES",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "A LONG LEASH",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "KNIGHTS OF SHADE",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – EPIC DEED"
+        },
+        {
+          "Name": "DIABOLIC BULWARK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "DISDAIN FOR THE WEAK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Forged in Terror (Aura)"
+    },
+    "Knight-Desecrator": {
+      "Movement": "10\"",
+      "Toughness": "12",
+      "Save": "3+",
+      "Wounds": "22",
+      "Leadership": "6+",
+      "OC": "10",
+      "Wargear Options": [
+        "This model’s reaper chainsword can be replaced with 1 warpstrike claw."
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6",
+        "FACTION: Harbingers of Dread, Super-heavy Walker",
+        "Obsessive Ruthlessness: Each time this model makes a ranged attack against a Monster or Vehicle unit, that attack has the [DEVASTATING WOUNDS] ability.",
+        "Taskmaster (Aura): While a friendly WAR DOG model is within 9\" of this model, each time that War Dog model makes a ranged attack, re-roll a Hit roll of 1."
+      ],
+      "Unit Composition": [
+        "1 Knight Desecrator",
+        "This model is equipped with: desecrator laser destructor; diabolus heavy stubber; reaper chainsword.",
+        "1 model",
+        "400",
+        "DAMAGED: 1-7 WOUNDS REMAINING",
+        "While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "TITANIC",
+        "TOWERING",
+        "ABHORRENT",
+        "CHARACTER",
+        "CHAOS",
+        "KNIGHT DESECRATOR"
+      ],
+      "Faction Keywords": [
+        "CHAOS KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "AVENGE THE MASTERS!",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNRESTRAINED RAGE",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "PRESERVE THE IDOLS",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SOUL HUNGER",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        },
+        {
+          "Name": "PTERRORSHADES",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "A LONG LEASH",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "KNIGHTS OF SHADE",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – EPIC DEED"
+        },
+        {
+          "Name": "DIABOLIC BULWARK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "DISDAIN FOR THE WEAK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Forged in Terror (Aura)"
+    },
+    "Knight-Despoiler": {
+      "Movement": "10\"",
+      "Toughness": "12",
+      "Save": "3+",
+      "Wounds": "22",
+      "Leadership": "6+",
+      "OC": "10",
+      "Wargear Options": [
+        "This model’s daemonbreath meltagun can be replaced with 1 diabolus heavy stubber.",
+        "This model’s reaper chainsword can be replaced with 1 of the following:",
+        "1 daemonbreath thermal cannon",
+        "1 despoiler gatling cannon and 1 heavy darkflamer",
+        "1 despoiler battle cannon and 1 diabolus heavy stubber",
+        "This model’s warpstrike claw can be replaced with 1 of the following:",
+        "1 daemonbreath thermal cannon",
+        "1 despoiler gatling cannon and 1 heavy darkflamer",
+        "1 despoiler battle cannon and 1 diabolus heavy stubber",
+        "This model can be equipped with one of the following:",
+        "1 havoc missile pod",
+        "1 ruinspear rocket pod",
+        "1 hellstorm autocannons"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6",
+        "FACTION: Harbingers of Dread, Super-heavy Walker",
+        "Dread Dominion (Aura): While a friendly WAR DOG is within 9\" of this model, each time that WAR DOG takes a Battle-shock test, add 1 to that test.",
+        "Seething Hatred: Each time this model is selected to shoot or fight, you can re-roll one Hit roll or you can re-roll one Wound roll when resolving those attacks."
+      ],
+      "Unit Composition": [
+        "1 Knight Despoiler",
+        "This model is equipped with: daemonbreath meltagun; reaper chainsword; titanic feet; warpstrike claw.",
+        "1 model",
+        "400",
+        "DAMAGED: 1-7 WOUNDS REMAINING",
+        "While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "TITANIC",
+        "TOWERING",
+        "ABHORRENT",
+        "CHARACTER",
+        "CHAOS",
+        "KNIGHT DESPOILER"
+      ],
+      "Faction Keywords": [
+        "CHAOS KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "AVENGE THE MASTERS!",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNRESTRAINED RAGE",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "PRESERVE THE IDOLS",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SOUL HUNGER",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        },
+        {
+          "Name": "PTERRORSHADES",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "A LONG LEASH",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "KNIGHTS OF SHADE",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – EPIC DEED"
+        },
+        {
+          "Name": "DIABOLIC BULWARK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "DISDAIN FOR THE WEAK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Forged in Terror (Aura)"
+    },
+    "Knight-Rampager": {
+      "Movement": "12\"",
+      "Toughness": "12",
+      "Save": "3+",
+      "Wounds": "22",
+      "Leadership": "6+",
+      "OC": "10",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6",
+        "FACTION: Harbingers of Dread, Super-heavy Walker",
+        "Bloodlust: Each time this model makes a Charge move, until the end of the turn, its melee weapons have the [SUSTAINED HITS 1] ability. In addition, once per battle, this model is eligible to declare a charge in a turn in which it Advanced.",
+        "Frenzied Rampage (Aura): While a friendly WAR DOG model is within 9\" of this model, each time that WAR DOG model makes a melee attack, re-roll a Hit roll of 1."
+      ],
+      "Unit Composition": [
+        "1 Knight Rampager",
+        "This model is equipped with: diabolus heavy stubber; reaper chainsword; warpstrike claw.",
+        "1 model",
+        "380",
+        "DAMAGED: 1-7 WOUNDS REMAINING",
+        "While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "TITANIC",
+        "TOWERING",
+        "ABHORRENT",
+        "CHARACTER",
+        "CHAOS",
+        "KNIGHT RAMPAGER"
+      ],
+      "Faction Keywords": [
+        "CHAOS KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "AVENGE THE MASTERS!",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNRESTRAINED RAGE",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "PRESERVE THE IDOLS",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SOUL HUNGER",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        },
+        {
+          "Name": "PTERRORSHADES",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "A LONG LEASH",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "KNIGHTS OF SHADE",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – EPIC DEED"
+        },
+        {
+          "Name": "DIABOLIC BULWARK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "DISDAIN FOR THE WEAK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Forged in Terror (Aura)"
+    },
+    "Knight-Tyrant": {
+      "Movement": "8\"",
+      "Toughness": "13",
+      "Save": "2+",
+      "Wounds": "24",
+      "Leadership": "6+",
+      "OC": "10",
+      "Wargear Options": [
+        "This model’s brimstone volcano lance and ectoplasma decimator can be replaced with 1 darkflame cannon and 1 warpshock harpoon.",
+        "This model’s 2 gheiststrike missile launchers and twin desecrator cannon can be replaced with 1 gheiststrike missile launcher and 2 twin desecrator cannons."
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6+2",
+        "FACTION: Harbingers of Dread, Super-heavy Walker",
+        "Infernal Aegis (Aura): While a friendly WAR DOG model is within 6\" of this model, that WAR DOG model has the Benefit of Cover.",
+        "Bastion of Corruption: Enemy units that are set up on the battlefield as Reinforcements cannot be set up within 12\" of this model."
+      ],
+      "Unit Composition": [
+        "1 Knight Tyrant",
+        "This model is equipped with: brimstone volcano lance; ectoplasma decimator; 2 gheiststrike missile launchers; 2 twin daemonbreath meltaguns; twin desecrator cannon; titanic feet.",
+        "1 model",
+        "480",
+        "DAMAGED: 1-8 WOUNDS REMAINING",
+        "While this model has 1-8 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "TITANIC",
+        "TOWERING",
+        "CHARACTER",
+        "CHAOS",
+        "KNIGHT TYRANT"
+      ],
+      "Faction Keywords": [
+        "CHAOS KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "AVENGE THE MASTERS!",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNRESTRAINED RAGE",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "PRESERVE THE IDOLS",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SOUL HUNGER",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        },
+        {
+          "Name": "PTERRORSHADES",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "KNIGHTS OF SHADE",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – EPIC DEED"
+        },
+        {
+          "Name": "DIABOLIC BULWARK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "DISDAIN FOR THE WEAK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Forged in Terror (Aura)"
+    },
+    "War-Dog-Stalker": {
+      "Movement": "12\"",
+      "Toughness": "10",
+      "Save": "3+",
+      "Wounds": "12",
+      "Leadership": "7+",
+      "OC": "8",
+      "Wargear Options": [
+        "This model’s avenger chaincannon can be replaced with 1 daemonbreath spear.",
+        "This model’s diabolus heavy stubber can be replaced with 1 havoc multi-launcher.",
+        "This model’s slaughterclaw can be replaced with 1 reaper chaintalon."
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D3",
+        "FACTION: Harbingers of Dread",
+        "Stalker: Each time this model makes an attack that targets an enemy unit, if there are no other units from your opponent’s army within 6\" of that target, add 1 to the Wound roll."
+      ],
+      "Unit Composition": [
+        "1 War Dog Stalker",
+        "This model is equipped with: avenger chaincannon; diabolus heavy stubber; slaughterclaw.",
+        "1 model",
+        "140",
+        "DAMAGED: 1-4 WOUNDS REMAINING",
+        "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "BATTLELINE",
+        "CHARACTER",
+        "CHAOS",
+        "WAR DOG",
+        "STALKER"
+      ],
+      "Faction Keywords": [
+        "CHAOS KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "AVENGE THE MASTERS!",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNRESTRAINED RAGE",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "PRESERVE THE IDOLS",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SOUL HUNGER",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        },
+        {
+          "Name": "PTERRORSHADES",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "A LONG LEASH",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "KNIGHTS OF SHADE",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – EPIC DEED"
+        },
+        {
+          "Name": "DREAD HOUNDS",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "DIABOLIC BULWARK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "DISDAIN FOR THE WEAK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Forged in Terror (Aura)"
+    },
+    "Chaos-Cerastus-Knight-Acheron": {
+      "Movement": "12\"",
+      "Toughness": "12",
+      "Save": "3+",
+      "Wounds": "25",
+      "Leadership": "6+",
+      "OC": "10",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6+2",
+        "FACTION: Harbingers of Dread, Super-heavy Walker",
+        "Searing Flames: In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks made with an Acheron flame cannon. Until the end of the phase, that enemy unit cannot have the Benefit of Cover.",
+        "Unrestrained Terror (Aura): While a friendly WAR DOG model is within 6\" of this model, it is affected by this ability. At the start of the Fight phase, each enemy unit within Engagement Range of one or more WAR DOG units affected by this ability must take a Battle-shock test."
+      ],
+      "Unit Composition": [
+        "1 Chaos Cerastus Knight Acheron",
+        "This model is equipped with: Acheron flame cannon; twin heavy bolter; reaper chainfist.",
+        "1 model",
+        "420",
+        "DAMAGED: 1-8 WOUNDS REMAINING",
+        "While this model has 1-8 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "CHARACTER",
+        "TITANIC",
+        "TOWERING",
+        "CHAOS",
+        "CERASTUS",
+        "KNIGHT ACHERON"
+      ],
+      "Faction Keywords": [
+        "CHAOS KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "AVENGE THE MASTERS!",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNRESTRAINED RAGE",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "PRESERVE THE IDOLS",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SOUL HUNGER",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        },
+        {
+          "Name": "PTERRORSHADES",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "KNIGHTS OF SHADE",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – EPIC DEED"
+        },
+        {
+          "Name": "DIABOLIC BULWARK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "DISDAIN FOR THE WEAK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Forged in Terror (Aura)"
+    },
+    "Chaos-Cerastus-Knight-Atrapos": {
+      "Movement": "12\"",
+      "Toughness": "12",
+      "Save": "3+",
+      "Wounds": "25",
+      "Leadership": "6+",
+      "OC": "10",
+      "Invulnerable Save": "5+",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6+2",
+        "FACTION: Harbingers of Dread, Super-heavy Walker",
+        "Macro-extinction Protocols: Each time this model makes an attack that targets a MONSTER or VEHICLE unit, add 1 to the Hit roll. If that target is TITANIC or TOWERING, add 1 to the Wound roll as well.",
+        "Consumed with Hunger (Aura): While a friendly WAR DOG model is within 6\" of this model, each time that WAR DOG model makes an attack that targets a TITANIC or TOWERING unit, you can re-roll the Hit roll."
+      ],
+      "Unit Composition": [
+        "1 Chaos Cerastus Knight Atrapos",
+        "This model is equipped with: Atrapos lascutter; graviton singularity cannon.",
+        "1 model",
+        "420",
+        "DAMAGED: 1-8 WOUNDS REMAINING",
+        "While this model has 1-8 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "CHARACTER",
+        "TITANIC",
+        "TOWERING",
+        "CHAOS",
+        "CERASTUS",
+        "KNIGHT ATRAPOS"
+      ],
+      "Faction Keywords": [
+        "CHAOS KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "AVENGE THE MASTERS!",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNRESTRAINED RAGE",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "PRESERVE THE IDOLS",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SOUL HUNGER",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        },
+        {
+          "Name": "PTERRORSHADES",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "KNIGHTS OF SHADE",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – EPIC DEED"
+        },
+        {
+          "Name": "DIABOLIC BULWARK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "DISDAIN FOR THE WEAK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Forged in Terror (Aura)"
+    },
+    "Chaos-Cerastus-Knight-Castigator": {
+      "Movement": "12\"",
+      "Toughness": "12",
+      "Save": "3+",
+      "Wounds": "25",
+      "Leadership": "6+",
+      "OC": "10",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6+2",
+        "FACTION: Harbingers of Dread, Super-heavy Walker",
+        "Storm of Bolts: In your Shooting phase, after this model has shot, select one unit (excluding MONSTERS and VEHICLES) hit by one or more of those attacks. Until the start of your next turn, while this model is on the battlefield, that enemy unit is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll.",
+        "Offerings for the Dark Gods (Aura): While a friendly WAR DOG model is within 6\" of this model, ranged weapons equipped by that WAR DOG model have the [SUSTAINED HITS 1] ability."
+      ],
+      "Unit Composition": [
+        "1 Chaos Cerastus Knight Castigator",
+        "This model is equipped with: Castigator bolt cannon; tempest warblade.",
+        "1 model",
+        "445",
+        "DAMAGED: 1-8 WOUNDS REMAINING",
+        "While this model has 1-8 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "CHARACTER",
+        "TITANIC",
+        "TOWERING",
+        "CHAOS",
+        "CERASTUS",
+        "KNIGHT CASTIGATOR"
+      ],
+      "Faction Keywords": [
+        "CHAOS KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "AVENGE THE MASTERS!",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNRESTRAINED RAGE",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "PRESERVE THE IDOLS",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SOUL HUNGER",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        },
+        {
+          "Name": "PTERRORSHADES",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "KNIGHTS OF SHADE",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – EPIC DEED"
+        },
+        {
+          "Name": "DIABOLIC BULWARK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "DISDAIN FOR THE WEAK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Forged in Terror (Aura)"
+    },
+    "Chaos-Cerastus-Knight-Lancer": {
+      "Movement": "14\"",
+      "Toughness": "12",
+      "Save": "3+",
+      "Wounds": "25",
+      "Leadership": "6+",
+      "OC": "10",
+      "Invulnerable Save": "4+",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6+2",
+        "FACTION: Harbingers of Dread, Super-heavy Walker",
+        "Shock Charge: You can target this model with the Tank Shock Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase.",
+        "Dark Fervour (Aura): While a friendly WAR DOG model is within 6\" of this model, ranged weapons equipped by that War Dog model have the [ASSAULT] ability."
+      ],
+      "Unit Composition": [
+        "1 Chaos Cerastus Knight Lancer",
+        "This model is equipped with: Cerastus shock lance.",
+        "1 model",
+        "420",
+        "DAMAGED: 1-8 WOUNDS REMAINING",
+        "While this model has 1-8 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "CHARACTER",
+        "TITANIC",
+        "TOWERING",
+        "CHAOS",
+        "CERASTUS",
+        "KNIGHT LANCER"
+      ],
+      "Faction Keywords": [
+        "CHAOS KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "AVENGE THE MASTERS!",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNRESTRAINED RAGE",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "PRESERVE THE IDOLS",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SOUL HUNGER",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        },
+        {
+          "Name": "PTERRORSHADES",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "KNIGHTS OF SHADE",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – EPIC DEED"
+        },
+        {
+          "Name": "DIABOLIC BULWARK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "DISDAIN FOR THE WEAK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Forged in Terror (Aura)"
+    },
+    "Chaos-Questoris-Knight-Magaera": {
+      "Movement": "10\"",
+      "Toughness": "12",
+      "Save": "3+",
+      "Wounds": "22",
+      "Leadership": "6+",
+      "OC": "10",
+      "Invulnerable Save": "5+",
+      "Wargear Options": [
+        "This model’s reaper chainsword can be replaced with 1 hekaton siege claw and 1 twin rad cleanser."
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6",
+        "FACTION: Harbingers of Dread, Super-heavy Walker",
+        "Repair Auto-simulacra: At the end of your Command phase, this model regains up to D3 lost wounds.",
+        "Huntmaster (Aura): While a friendly WAR DOG model is within 6\" of this model, each time that WAR DOG model makes a ranged attack, you can ignore any or all modifiers to that attack’s Ballistic Skill characteristic and/or to the Hit roll."
+      ],
+      "Unit Composition": [
+        "1 Chaos Questoris Knight Magaera",
+        "This model is equipped with: lightning cannon; phased plasma-fusil; reaper chainsword.",
+        "1 model",
+        "435",
+        "DAMAGED: 1-7 WOUNDS REMAINING",
+        "While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "CHARACTER",
+        "TITANIC",
+        "TOWERING",
+        "CHAOS",
+        "ABHORRENT",
+        "KNIGHT MAGAERA"
+      ],
+      "Faction Keywords": [
+        "CHAOS KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "AVENGE THE MASTERS!",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNRESTRAINED RAGE",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "PRESERVE THE IDOLS",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SOUL HUNGER",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        },
+        {
+          "Name": "PTERRORSHADES",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "A LONG LEASH",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "KNIGHTS OF SHADE",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – EPIC DEED"
+        },
+        {
+          "Name": "DIABOLIC BULWARK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "DISDAIN FOR THE WEAK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Forged in Terror (Aura)"
+    },
+    "Chaos-Questoris-Knight-Styrix": {
+      "Movement": "10\"",
+      "Toughness": "12",
+      "Save": "3+",
+      "Wounds": "22",
+      "Leadership": "6+",
+      "OC": "10",
+      "Invulnerable Save": "5+",
+      "Wargear Options": [
+        "This model’s reaper chainsword can be replaced with 1 hekaton siege claw and 1 twin rad cleanser."
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6",
+        "FACTION: Harbingers of Dread, Super-heavy Walker",
+        "Huntmaster (Aura): While a friendly WAR DOG model is within 6\" of this model, each time that WAR DOG model makes a ranged attack, you can ignore any or all modifiers to that attack’s Ballistic Skill characteristic and/or to the Hit roll.",
+        "Grav-pinned: In your Shooting phase, after this model has shot, if an enemy INFANTRY unit was hit by one or more of those attacks made with a graviton crusher, until the end of your opponent’s next turn, that enemy unit is grav-pinned. While a unit is grav-pinned, subtract 2 from that unit’s Move characteristic and subtract 2 from Advance and Charge rolls made for that unit."
+      ],
+      "Unit Composition": [
+        "1 Chaos Questoris Knight Styrix",
+        "This model is equipped with: graviton crusher; volkite chierovile; reaper chainsword.",
+        "1 model",
+        "430",
+        "DAMAGED: 1-7 WOUNDS REMAINING",
+        "While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "CHARACTER",
+        "TITANIC",
+        "TOWERING",
+        "CHAOS",
+        "ABHORRENT",
+        "KNIGHT STYRIX"
+      ],
+      "Faction Keywords": [
+        "CHAOS KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "AVENGE THE MASTERS!",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNRESTRAINED RAGE",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "PRESERVE THE IDOLS",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SOUL HUNGER",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        },
+        {
+          "Name": "PTERRORSHADES",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "A LONG LEASH",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "KNIGHTS OF SHADE",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – EPIC DEED"
+        },
+        {
+          "Name": "DIABOLIC BULWARK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "DISDAIN FOR THE WEAK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Forged in Terror (Aura)"
+    },
+    "War-Dog-Brigand": {
+      "Movement": "12\"",
+      "Toughness": "10",
+      "Save": "3+",
+      "Wounds": "12",
+      "Leadership": "7+",
+      "OC": "8",
+      "Wargear Options": [
+        "This model’s diabolus heavy stubber can be replaced with 1 havoc multi-launcher."
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D3",
+        "FACTION: Harbingers of Dread",
+        "Brigand: Each time this model makes a ranged attack that targets the closest eligible enemy unit, improve the Armour Penetration characteristic of that attack by 1."
+      ],
+      "Unit Composition": [
+        "1 War Dog Brigand",
+        "This model is equipped with: avenger chaincannon; daemonbreath spear; diabolus heavy stubber; armoured feet.",
+        "1 model",
+        "165",
+        "DAMAGED: 1-4 WOUNDS REMAINING",
+        "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "BATTLELINE",
+        "CHAOS",
+        "WAR DOG",
+        "BRIGAND"
+      ],
+      "Faction Keywords": [
+        "CHAOS KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AVENGE THE MASTERS!",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNRESTRAINED RAGE",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "PRESERVE THE IDOLS",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SOUL HUNGER",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        },
+        {
+          "Name": "PTERRORSHADES",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "A LONG LEASH",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "KNIGHTS OF SHADE",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – EPIC DEED"
+        },
+        {
+          "Name": "DREAD HOUNDS",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "DIABOLIC BULWARK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "DISDAIN FOR THE WEAK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – BATTLE TACTIC"
+        }
+      ]
+    },
+    "War-Dog-Executioner": {
+      "Movement": "12\"",
+      "Toughness": "10",
+      "Save": "3+",
+      "Wounds": "12",
+      "Leadership": "7+",
+      "OC": "8",
+      "Wargear Options": [
+        "This model’s diabolus heavy stubber can be replaced with 1 daemonbreath meltagun."
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D3",
+        "FACTION: Harbingers of Dread",
+        "Executioner: Each time this model makes an attack that targets a unit Below Half-strength, add 1 to the Hit roll."
+      ],
+      "Unit Composition": [
+        "1 War Dog Executioner",
+        "This model is equipped with: diabolus heavy stubber; 2 War Dog autocannons; armoured feet.",
+        "1 model",
+        "130",
+        "DAMAGED: 1-4 WOUNDS REMAINING",
+        "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "BATTLELINE",
+        "CHAOS",
+        "WAR DOG",
+        "EXECUTIONER"
+      ],
+      "Faction Keywords": [
+        "CHAOS KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AVENGE THE MASTERS!",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNRESTRAINED RAGE",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "PRESERVE THE IDOLS",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SOUL HUNGER",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        },
+        {
+          "Name": "PTERRORSHADES",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "A LONG LEASH",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "KNIGHTS OF SHADE",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – EPIC DEED"
+        },
+        {
+          "Name": "DREAD HOUNDS",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "DIABOLIC BULWARK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "DISDAIN FOR THE WEAK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – BATTLE TACTIC"
+        }
+      ]
+    },
+    "War-Dog-Huntsman": {
+      "Movement": "12\"",
+      "Toughness": "10",
+      "Save": "3+",
+      "Wounds": "12",
+      "Leadership": "7+",
+      "OC": "8",
+      "Wargear Options": [
+        "This model’s diabolus heavy stubber can be replaced with 1 daemonbreath meltagun."
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D3",
+        "FACTION: Harbingers of Dread",
+        "Huntsman: Each time this model makes an attack against a MONSTER or VEHICLE unit, re-roll a Wound roll of 1 and re-roll a Damage roll of 1."
+      ],
+      "Unit Composition": [
+        "1 War Dog Huntsman",
+        "This model is equipped with: daemonbreath spear; diabolus heavy stubber; reaper chaintalon.",
+        "1 model",
+        "140",
+        "DAMAGED: 1-4 WOUNDS REMAINING",
+        "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "BATTLELINE",
+        "CHAOS",
+        "WAR DOG",
+        "HUNTSMAN"
+      ],
+      "Faction Keywords": [
+        "CHAOS KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AVENGE THE MASTERS!",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNRESTRAINED RAGE",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "PRESERVE THE IDOLS",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SOUL HUNGER",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        },
+        {
+          "Name": "PTERRORSHADES",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "A LONG LEASH",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "KNIGHTS OF SHADE",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – EPIC DEED"
+        },
+        {
+          "Name": "DREAD HOUNDS",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "DIABOLIC BULWARK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "DISDAIN FOR THE WEAK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – BATTLE TACTIC"
+        }
+      ]
+    },
+    "War-Dog-Karnivore": {
+      "Movement": "14\"",
+      "Toughness": "10",
+      "Save": "3+",
+      "Wounds": "12",
+      "Leadership": "7+",
+      "OC": "8",
+      "Wargear Options": [
+        "This model’s diabolus heavy stubber can be replaced with 1 havoc multi-launcher."
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D3",
+        "FACTION: Harbingers of Dread",
+        "Karnivore: You can re-roll Charge rolls made for this model."
+      ],
+      "Unit Composition": [
+        "1 War Dog Karnivore",
+        "This model is equipped with: diabolus heavy stubber; reaper chaintalon; slaughterclaw.",
+        "1 model",
+        "140",
+        "DAMAGED: 1-4 WOUNDS REMAINING",
+        "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "BATTLELINE",
+        "CHAOS",
+        "WAR DOG",
+        "KARNIVORE"
+      ],
+      "Faction Keywords": [
+        "CHAOS KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AVENGE THE MASTERS!",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNRESTRAINED RAGE",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "PRESERVE THE IDOLS",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SOUL HUNGER",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        },
+        {
+          "Name": "PTERRORSHADES",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "A LONG LEASH",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "KNIGHTS OF SHADE",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – EPIC DEED"
+        },
+        {
+          "Name": "DREAD HOUNDS",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "DIABOLIC BULWARK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "DISDAIN FOR THE WEAK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – BATTLE TACTIC"
+        }
+      ]
+    },
+    "War-Dog-Moirax": {
+      "Movement": "12\"",
+      "Toughness": "10",
+      "Save": "3+",
+      "Wounds": "12",
+      "Leadership": "7+",
+      "OC": "8",
+      "Wargear Options": [
+        "This model’s graviton pulsar can be replaced with one of the following;",
+        "1 siege claw and 1 rad cleanser",
+        "1 lightning lock",
+        "1 conversion beam cannon",
+        "1 volkite veuglaire",
+        "This model’s volkite veuglaire can be replaced with one of the following:",
+        "1 siege claw and 1 rad cleanser",
+        "1 graviton pulsar",
+        "1 lightning lock",
+        "1 conversion beam cannon"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D3",
+        "FACTION: Harbingers of Dread",
+        "Protection Protocols: You can target this unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase."
+      ],
+      "Unit Composition": [
+        "1 War Dog Moirax",
+        "This model is equipped with: graviton pulsar; volkite veuglaire; armoured feet.",
+        "1 model",
+        "160",
+        "DAMAGED: 1-4 WOUNDS REMAINING",
+        "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "BATTLELINE",
+        "CHAOS",
+        "WAR DOG",
+        "MOIRAX"
+      ],
+      "Faction Keywords": [
+        "CHAOS KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AVENGE THE MASTERS!",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNRESTRAINED RAGE",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "PRESERVE THE IDOLS",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SOUL HUNGER",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        },
+        {
+          "Name": "PTERRORSHADES",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "A LONG LEASH",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "KNIGHTS OF SHADE",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – EPIC DEED"
+        },
+        {
+          "Name": "DREAD HOUNDS",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "DIABOLIC BULWARK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "DISDAIN FOR THE WEAK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – BATTLE TACTIC"
+        }
+      ]
+    },
+    "Chaos-Acastus-Knight-Asterius": {
+      "Movement": "8\"",
+      "Toughness": "13",
+      "Save": "2+",
+      "Wounds": "30",
+      "Leadership": "6+",
+      "OC": "10",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise 2D6",
+        "FACTION: Harbingers of Dread, Super-heavy Walker",
+        "Sunderer of Fortresses: Each time this model makes an attack that targets a VEHICLE, improve the Strength and Damage characteristics of that attack by 1 (if that attack targets a FORTIFICATION, improve the Strength and Damage characteristics of that attack by 2 instead)."
+      ],
+      "Unit Composition": [
+        "1 Chaos Acastus Knight Asterius",
+        "This model is equipped with: 2 Asterius volkite culverins; karacnos mortar battery; 2 twin conversion beam cannons; titanic feet.",
+        "1 model",
+        "765",
+        "DAMAGED: 1-10 WOUNDS REMAINING",
+        "While this model has 1-10 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "TITANIC",
+        "TOWERING",
+        "CHAOS",
+        "ACASTUS",
+        "KNIGHT ASTERIUS"
+      ],
+      "Faction Keywords": [
+        "CHAOS KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AVENGE THE MASTERS!",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNRESTRAINED RAGE",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "PRESERVE THE IDOLS",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SOUL HUNGER",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        },
+        {
+          "Name": "PTERRORSHADES",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "KNIGHTS OF SHADE",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – EPIC DEED"
+        },
+        {
+          "Name": "DIABOLIC BULWARK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "DISDAIN FOR THE WEAK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Forged in Terror (Aura)"
+    },
+    "Chaos-Acastus-Knight-Porphyrion": {
+      "Movement": "8\"",
+      "Toughness": "13",
+      "Save": "2+",
+      "Wounds": "30",
+      "Leadership": "6+",
+      "OC": "10",
+      "Wargear Options": [
+        "This model’s 2 Acastus autocannons can each be replaced with one of the following:",
+        "2 lascannons",
+        "1 Acastus autocannon and 1 lascannon",
+        "This model’s Acastus ironstorm missile pod can be replaced with 1 helios defence missiles."
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise 2D6",
+        "FACTION: Harbingers of Dread, Super-heavy Walker",
+        "Bastion of Firepower: Each time this model Remains Stationary, until the end of the turn, ranged weapons equipped by this model have the [LETHAL HITS] ability."
+      ],
+      "Unit Composition": [
+        "1 Chaos Acastus Knight Porphyrion",
+        "This model is equipped with: 2 Acastus autocannons; Acastus ironstorm missile pod; 2 twin magna lascannons; titanic feet.",
+        "1 model",
+        "700",
+        "DAMAGED: 1-10 WOUNDS REMAINING",
+        "While this model has 1-10 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "TITANIC",
+        "TOWERING",
+        "CHAOS",
+        "ACASTUS",
+        "KNIGHT PORPHYRION"
+      ],
+      "Faction Keywords": [
+        "CHAOS KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AVENGE THE MASTERS!",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNRESTRAINED RAGE",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "PRESERVE THE IDOLS",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SOUL HUNGER",
+          "CP": "1CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        },
+        {
+          "Name": "PTERRORSHADES",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "KNIGHTS OF SHADE",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – EPIC DEED"
+        },
+        {
+          "Name": "DIABOLIC BULWARK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – WARGEAR"
+        },
+        {
+          "Name": "DISDAIN FOR THE WEAK",
+          "CP": "1CP",
+          "Source": "TRAITORIS LANCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Forged in Terror (Aura)"
+    },
+    "Cultist-Mob-with-Firearms": {
+      "Movement": "6\"",
+      "Toughness": "3",
+      "Save": "6+",
+      "Wounds": "1",
+      "Leadership": "7+",
+      "OC": "1",
+      "Wargear Options": [
+        "The Cultist Champion’s autopistol can be replaced with 1 bolt pistol.",
+        "Any number of models can each have their autogun and close combat weapon replaced with 1 autopistol and 1 brutal assault weapon.",
+        "For every 10 models in this unit, 1 Chaos Cultist’s autogun can be replaced with 1 flamer.",
+        "For every 10 models in this unit, 1 Chaos Cultist’s autogun can be replaced with 1 heavy stubber.",
+        "For every 10 models in this unit, 1 Chaos Cultist’s autogun can be replaced with 1 grenade launcher."
+      ],
+      "Abilities": [
+        "FACTION: Dark Pacts",
+        "For the Dark Gods: At the end of your Command phase, if this unit is within range of an objective marker you control, that objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+      ],
+      "Unit Composition": [
+        "1 Cultist Champion",
+        "9-19 Chaos Cultists",
+        "The Cultist Champion is equipped with: autopistol; brutal assault weapon."
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "BATTLELINE",
+        "GRENADES",
+        "CHAOS",
+        "DAMNED",
+        "CULTIST MOB WITH FIREARMS"
+      ],
+      "Faction Keywords": [
+        "HERETIC ASTARTES"
+      ],
+      "Points": [
+        {
+          "Models": "10",
+          "Cost": "50"
+        },
+        {
+          "Models": "20",
+          "Cost": "100"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GRENADE",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "WRETCHED MASSES",
+          "CP": "2CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        }
+      ]
+    },
+    "Fellgor-Beastmen": {
+      "Movement": "6\"",
+      "Toughness": "4",
+      "Save": "5+",
+      "Wounds": "1",
+      "Leadership": "7+",
+      "OC": "1",
+      "Wargear Options": [
+        "The Fellgor Champion’s bolt pistol can be replaced with 1 plasma pistol.",
+        "1 Fellgor Beastman’s close combat weapon can be replaced with 1 great weapon.",
+        "1 Fellgor Beastman’s close combat weapon can be replaced with 1 corrupted stave."
+      ],
+      "Abilities": [
+        "FACTION: Dark Pacts",
+        "Bestial Raiders: If this unit starts the game in Strategic Reserves, it can be set up in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules. If this unit is in Strategic Reserves, for the purposes of setting up this unit on the battlefield, treat the current battle round number as being one higher than it actually is."
+      ],
+      "Unit Composition": [
+        "1 Fellgor Champion",
+        "9 Fellgor Beastmen",
+        "The Fellgor Champion is equipped with: bolt pistol; chainsword."
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "GRENADES",
+        "CHAOS",
+        "DAMNED",
+        "FELLGOR BEASTMEN"
+      ],
+      "Faction Keywords": [
+        "HERETIC ASTARTES"
+      ],
+      "Points": [
+        {
+          "Models": "10",
+          "Cost": "85"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GRENADE",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "WRETCHED MASSES",
+          "CP": "2CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        }
+      ]
+    },
+    "Gellerpox-Infected": {
+      "Movement": "5\"",
+      "Toughness": "5",
+      "Save": "6+",
+      "Wounds": "4",
+      "Leadership": "7+",
+      "OC": "1",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Feel No Pain 5+",
+        "FACTION: Dark Pacts",
+        "Fearsome (Aura): While an enemy unit is within 6\" of this unit, each time that enemy unit takes a Battle-shock or Leadership test, subtract 1 from the result."
+      ],
+      "Unit Composition": [
+        "4 Nightmare Hulks",
+        "3 Gellerpox Mutants",
+        "Every Gellerpox Mutant is equipped with: brutal weapons."
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "CHAOS",
+        "DAMNED",
+        "NURGLE",
+        "GELLERPOX INFECTED"
+      ],
+      "Faction Keywords": [
+        "HERETIC ASTARTES"
+      ],
+      "Points": [
+        {
+          "Models": "7",
+          "Cost": "125"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "WRETCHED MASSES",
+          "CP": "2CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        }
+      ]
+    },
+    "Mutoid-Vermin": {
+      "Movement": "8\"",
+      "Toughness": "2",
+      "Save": "7+",
+      "Wounds": "1",
+      "Leadership": "8+",
+      "OC": "0",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Feel No Pain 6+",
+        "FACTION: Dark Pacts",
+        "Mischief Makers (Aura): While an enemy unit (excluding MONSTERS and VEHICLES) is within 6\" of this unit, each time a model in that unit makes a melee attack, subtract 1 from the Hit roll."
+      ],
+      "Unit Composition": [
+        "16 Mutoid Vermin",
+        "Every model is equipped with: diseased claws and fangs.",
+        "16 models",
+        "85"
+      ],
+      "Keywords": [
+        "SWARM",
+        "CHAOS",
+        "DAMNED",
+        "NURGLE",
+        "MUTOID VERMIN"
+      ],
+      "Faction Keywords": [
+        "HERETIC ASTARTES"
+      ],
+      "Points": [
+        {
+          "Models": "16",
+          "Cost": "85"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "WRETCHED MASSES",
+          "CP": "2CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        }
+      ]
+    },
+    "Renegade-Ogryn-Beast-Handler": {
+      "Movement": "6\"",
+      "Toughness": "6",
+      "Save": "5+",
+      "Wounds": "4",
+      "Leadership": "7+",
+      "OC": "1",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "FACTION: Dark Pacts",
+        "Beastmaster: While this unit contains an Ogryn Pack Master model, you can re-roll Charge rolls made for this unit, and each time a Chaos Mauler Hound model in this unit makes an attack, re-roll a Hit roll of 1."
+      ],
+      "Unit Composition": [
+        "1 Ogryn Pack Master",
+        "3 Chaos Mauler Hounds",
+        "The Ogryn Pack Master is equipped with: mauler goad and ripper claw."
+      ],
+      "Keywords": [
+        "BEASTS",
+        "CHAOS",
+        "DAMNED",
+        "RENEGADE OGRYN BEAST HANDLER"
+      ],
+      "Faction Keywords": [
+        "HERETIC ASTARTES"
+      ],
+      "Points": [
+        {
+          "Models": "4",
+          "Cost": "40"
+        },
+        {
+          "Models": "7",
+          "Cost": "70"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "WRETCHED MASSES",
+          "CP": "2CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        }
+      ]
+    },
+    "Renegade-Ogryn-Brutes": {
+      "Movement": "6\"",
+      "Toughness": "6",
+      "Save": "5+",
+      "Wounds": "3",
+      "Leadership": "7+",
+      "OC": "1",
+      "Wargear Options": [
+        "One model’s Ogryn weapon can be replaced with 1 Ogryn power drill."
+      ],
+      "Abilities": [
+        "FACTION: Dark Pacts",
+        "Ogryn Combat Stimms: Each time a model in this unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6. On a 4+, do not remove it from play; that destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
+      ],
+      "Unit Composition": [
+        "3 Renegade Ogryn Brutes",
+        "Every model is equipped with: Ogryn weapon.",
+        "3 models",
+        "95",
+        "OGRYNS",
+        "For the purposes of embarking within TRANSPORTS, each Renegade Ogryn Brute model counts as one TERMINATOR model."
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "CHAOS",
+        "DAMNED",
+        "RENEGADE OGRYN BRUTES"
+      ],
+      "Faction Keywords": [
+        "HERETIC ASTARTES"
+      ],
+      "Points": [
+        {
+          "Models": "3",
+          "Cost": "95"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "WRETCHED MASSES",
+          "CP": "2CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        }
+      ]
+    },
+    "Renegade-Plague-Ogryns": {
+      "Movement": "5\"",
+      "Toughness": "7",
+      "Save": "5+",
+      "Wounds": "3",
+      "Leadership": "7+",
+      "OC": "1",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Feel No Pain 6+",
+        "FACTION: Dark Pacts",
+        "Wall of Muscle: Each time an attack is allocated to a model in this unit, subtract 1 from the Damage characteristic of that attack."
+      ],
+      "Unit Composition": [
+        "3 Renegade Plague Ogryns",
+        "Every model is equipped with: Ogryn plague claws.",
+        "3 models",
+        "95",
+        "OGRYNS",
+        "For the purposes of embarking within TRANSPORTS, each Renegade Plague Ogryn model counts as one TERMINATOR model."
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "CHAOS",
+        "DAMNED",
+        "NURGLE",
+        "RENEGADE PLAGUE OGRYNS"
+      ],
+      "Faction Keywords": [
+        "HERETIC ASTARTES"
+      ],
+      "Points": [
+        {
+          "Models": "3",
+          "Cost": "95"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "WRETCHED MASSES",
+          "CP": "2CP",
+          "Source": "ICONOCLAST FIEFDOM – BATTLE TACTIC"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,3895 @@
+{
+  "imperial-knights": {
+    "Sir-Hekhtur": {
+      "Movement": "6\"",
+      "Toughness": "3",
+      "Save": "4+",
+      "Wounds": "3",
+      "Leadership": "5+",
+      "OC": "1",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Lone Operative"
+      ],
+      "Unit Composition": [
+        "1 Sir Hekhtur – EPIC HERO",
+        "Sir Hekhtur is equipped with: Hekhtur’s pistol; close combat weapon.",
+        "CANIS REX",
+        "Use this datasheet only after your CANIS REX model is destroyed.",
+        "USING SIR HEKHTUR",
+        "When your CANIS REX model is destroyed, Sir Hekhtur is treated as a model disembarking from a destroyed TRANSPORT – set him up within 3\" of your Canis Rex model before it is removed. Sir Hekhtur then uses the profile, wargear, abilities and keywords shown on this datasheet, but cannot be selected as the target of any of your Stratagems other than Core Stratagems. Your Canis Rex unit is not considered to be destroyed until Sir Hekhtur is also destroyed."
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "EPIC HERO",
+        "IMPERIUM",
+        "SIR HEKHTUR"
+      ],
+      "Faction Keywords": [
+        "IMPERIAL KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        }
+      ],
+      "Detachment Ability": "Indomitable Heroes"
+    },
+    "Canis-Rex": {
+      "Movement": "10\"",
+      "Toughness": "12",
+      "Save": "3+",
+      "Wounds": "22",
+      "Leadership": "5+",
+      "OC": "10",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6",
+        "FACTION: Code Chivalric, Super-heavy Walker",
+        "Chainbreaker: Each time this model makes an attack, an unmodifed successful Hit roll of 5+ scores a Critical Hit.",
+        "Legendary Freeblade: Once per turn, you can target this model with a Stratagem. If it does, reduce the CP cost of that use of that Stratagem by 1CP."
+      ],
+      "Unit Composition": [
+        "1 Canis Rex – EPIC HERO",
+        "Canis Rex is equipped with: Chainbreaker las-impulsor; Chainbreaker multi-laser; Freedom’s Hand.",
+        "1 model",
+        "450",
+        "DAMAGED: 1-7 WOUNDS REMAINING",
+        "While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+        "SIR HEKHTUR",
+        "If Canis Rex is destroyed, follow the instructions for using SIR HEKHTUR."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "TITANIC",
+        "TOWERING",
+        "QUESTORIS",
+        "CHARACTER",
+        "EPIC HERO",
+        "IMPERIUM",
+        "CANIS REX"
+      ],
+      "Faction Keywords": [
+        "IMPERIAL KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "SHOULDER THE BURDEN",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TROPHY CLAIM",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "ROTATE ION SHIELDS",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – WARGEAR"
+        },
+        {
+          "Name": "THUNDERSTOMP",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "VALIANT LAST STAND",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "OMNISSIAH’S GRACE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "VENGEANCE OF THE MACHINE CULT",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BONDED IMPERATIVE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – EPIC DEED"
+        },
+        {
+          "Name": "MACHINE FOCUS",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "THRONEGHEIST FURY",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AGGRESSION BEGETS AGGRESSION",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        }
+      ],
+      "Detachment Ability": "Indomitable Heroes"
+    },
+    "Skitarii-Rangers": {
+      "Movement": "6\"",
+      "Toughness": "3",
+      "Save": "4+",
+      "Wounds": "1",
+      "Leadership": "7+",
+      "OC": "2",
+      "Invulnerable Save": "5+",
+      "Wargear Options": [
+        "The Skitarii Ranger Alpha can be equipped with 1 Alpha combat weapon.",
+        "The Skitarii Ranger Alpha’s galvanic rifle can be replaced with 1 Mechanicus pistol.",
+        "1 Skitarii Ranger’s galvanic rifle can be replaced with 1 arc rifle.",
+        "1 Skitarii Ranger’s galvanic rifle can be replaced with 1 plasma caliver.",
+        "1 Skitarii Ranger’s galvanic rifle can be replaced with 1 transuranic arquebus.",
+        "1 Skitarii Ranger equipped with a galvanic rifle can be equipped with one of the following:",
+        "1 enhanced data-tether*",
+        "1 omnispex*"
+      ],
+      "Abilities": [
+        "CORE: Scouts 6\"",
+        "FACTION: Doctrina Imperatives",
+        "Objective Scouted: At the end of your Command phase, if this unit is within range of an objective marker you control, that objective marker remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn.",
+        "WARGEAR ABILITIES",
+        "Enhanced data-tether: Each time you select the bearer’s unit as the target of a Stratagem, roll one D6: on a 5+, you gain 1CP.",
+        "Omnispex: Ranged weapons equipped by models in the bearer’s unit have the [IGNORES COVER] ability."
+      ],
+      "Unit Composition": [
+        "1 Skitarii Ranger Alpha",
+        "9 Skitarii Rangers",
+        "Every model is equipped with: galvanic rifle; close combat weapon.",
+        "10 models",
+        "85"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "BATTLELINE",
+        "IMPERIUM",
+        "SKITARII",
+        "RANGERS"
+      ],
+      "Faction Keywords": [
+        "ADEPTUS MECHANICUS"
+      ],
+      "Points": [
+        {
+          "Models": "10",
+          "Cost": "85"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "OMNISSIAH’S GRACE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AGGRESSION BEGETS AGGRESSION",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        }
+      ],
+      "Led By": [
+        "Inquisitor",
+        "Inquisitor Coteaz",
+        "Inquisitor Draxus",
+        "Inquisitor Greyfax"
+      ]
+    },
+    "Skitarii-Vanguard": {
+      "Movement": "6\"",
+      "Toughness": "3",
+      "Save": "4+",
+      "Wounds": "1",
+      "Leadership": "7+",
+      "OC": "2",
+      "Invulnerable Save": "5+",
+      "Wargear Options": [
+        "The Skitarii Vanguard Alpha can be equipped with 1 Alpha combat weapon.",
+        "The Skitarii Vanguard Alpha’s radium carbine can be replaced with 1 Mechanicus pistol.",
+        "1 Skitarii Vanguard’s radium carbine can be replaced with 1 arc rifle.",
+        "1 Skitarii Vanguard’s radium carbine can be replaced with 1 plasma caliver.",
+        "1 Skitarii Vanguard’s radium carbine can be replaced with 1 transuranic arquebus.",
+        "1 Skitarii Vanguard equipped with a radium carbine can be equipped with one of the following:",
+        "1 enhanced data-tether*",
+        "1 omnispex*"
+      ],
+      "Abilities": [
+        "FACTION: Doctrina Imperatives",
+        "Rad-saturation (Aura): While an enemy unit (excluding VEHICLE units) is within 3\" of this unit, subtract 1 from the Objective Control characteristic of models in that unit.",
+        "WARGEAR ABILITIES",
+        "Enhanced data-tether: Each time you select the bearer’s unit as the target of a Stratagem, roll one D6: on a 5+, you gain 1CP.",
+        "Omnispex: Ranged weapons equipped by models in the bearer’s unit have the [IGNORES COVER] ability."
+      ],
+      "Unit Composition": [
+        "1 Skitarii Vanguard Alpha",
+        "9 Skitarii Vanguard",
+        "Every model is equipped with: radium carbine; close combat weapon.",
+        "10 models",
+        "95"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "BATTLELINE",
+        "IMPERIUM",
+        "SKITARII",
+        "VANGUARD"
+      ],
+      "Faction Keywords": [
+        "ADEPTUS MECHANICUS"
+      ],
+      "Points": [
+        {
+          "Models": "10",
+          "Cost": "95"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "OMNISSIAH’S GRACE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AGGRESSION BEGETS AGGRESSION",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        }
+      ],
+      "Led By": [
+        "Inquisitor",
+        "Inquisitor Coteaz",
+        "Inquisitor Draxus",
+        "Inquisitor Greyfax"
+      ]
+    },
+    "Skitarii-Marshal": {
+      "Movement": "6\"",
+      "Toughness": "3",
+      "Save": "4+",
+      "Wounds": "3",
+      "Leadership": "6+",
+      "OC": "1",
+      "Invulnerable Save": "5+",
+      "Abilities": [
+        "CORE: Leader",
+        "FACTION: Doctrina Imperatives",
+        "Control Edict: While this model is leading a unit, each time a model in that unit makes an attack, you can re-roll the Hit roll.",
+        "Servo-skull Uplink: Once per battle, at the start of any phase, you can select one friendly SKITARII unit that is Battle-shocked and within 6\" of this model. That unit is no longer Battle-shocked."
+      ],
+      "Unit Composition": [
+        "1 Skitarii Marshal",
+        "This model is equipped with: Mechanicus pistol; control stave.",
+        "1 model",
+        "35",
+        "LEADER",
+        "This model can be attached to the following units:"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "IMPERIUM",
+        "SKITARII",
+        "MARSHAL"
+      ],
+      "Faction Keywords": [
+        "ADEPTUS MECHANICUS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "OMNISSIAH’S GRACE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AGGRESSION BEGETS AGGRESSION",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        }
+      ]
+    },
+    "Tech-priest-Dominus": {
+      "Movement": "6\"",
+      "Toughness": "4",
+      "Save": "2+",
+      "Wounds": "4",
+      "Leadership": "7+",
+      "OC": "1",
+      "Invulnerable Save": "5+",
+      "Wargear Options": [
+        "This model’s macrostubber can be replaced with 1 phosphor serpenta.",
+        "This model’s volkite blaster can be replaced with 1 eradication ray."
+      ],
+      "Abilities": [
+        "CORE: Leader",
+        "FACTION: Doctrina Imperatives",
+        "Lord of the Machine Cult: While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability. If that unit has the ELECTRO-PRIESTS keyword, models in that unit have the Feel No Pain 4+ ability instead.",
+        "Data-spike: At the start of the Fight phase, you can select one enemy VEHICLE unit within Engagement Range of this model’s unit and roll one D6: on a 4+, that enemy unit suffers D6 mortal wounds and, until the end of the phase, the Weapon Skill characteristic of melee weapons equipped by that enemy unit is worsened by 1."
+      ],
+      "Unit Composition": [
+        "1 Tech-Priest Dominus",
+        "This model is equipped with: macrostubber; volkite blaster; Omnissian axe.",
+        "1 model",
+        "65",
+        "LEADER",
+        "This model can be attached to the following units:"
+      ],
+      "Keywords": [
+        "IMPERIUM",
+        "INFANTRY",
+        "CHARACTER",
+        "CULT MECHANICUS",
+        "TECH-PRIEST",
+        "DOMINUS"
+      ],
+      "Faction Keywords": [
+        "ADEPTUS MECHANICUS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "OMNISSIAH’S GRACE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AGGRESSION BEGETS AGGRESSION",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        }
+      ],
+      "Detachment Ability": "Cogbound Alliance"
+    },
+    "Tech-priest-Manipulus": {
+      "Movement": "6\"",
+      "Toughness": "4",
+      "Save": "2+",
+      "Wounds": "4",
+      "Leadership": "7+",
+      "OC": "1",
+      "Invulnerable Save": "5+",
+      "Wargear Options": [
+        "This model’s magnarail lance can be replaced with 1 transonic cannon."
+      ],
+      "Abilities": [
+        "CORE: Leader",
+        "FACTION: Doctrina Imperatives",
+        "Galvanic Field: While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability.",
+        "Defend the Divine Work: Once per battle, at the start of any phase, this model can use this ability. If it does, until the end of the phase, all models in this model’s unit have a 4+ invulnerable save."
+      ],
+      "Unit Composition": [
+        "1 Tech-Priest Manipulus",
+        "This model is equipped with: magnarail lance; Omnissian staff.",
+        "1 model",
+        "60",
+        "LEADER",
+        "This model can be attached to the following units:"
+      ],
+      "Keywords": [
+        "IMPERIUM",
+        "INFANTRY",
+        "CHARACTER",
+        "CULT MECHANICUS",
+        "TECH-PRIEST",
+        "MANIPULUS"
+      ],
+      "Faction Keywords": [
+        "ADEPTUS MECHANICUS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "OMNISSIAH’S GRACE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AGGRESSION BEGETS AGGRESSION",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        }
+      ],
+      "Detachment Ability": "Cogbound Alliance"
+    },
+    "Knight-Castellan": {
+      "Movement": "8\"",
+      "Toughness": "13",
+      "Save": "2+",
+      "Wounds": "24",
+      "Leadership": "6+",
+      "OC": "10",
+      "Wargear Options": [
+        "This model’s 2 shieldbreaker missile launchers and twin siegebreaker cannon can be replaced with:",
+        "1 shieldbreaker missile launcher and 2 twin siegebreaker cannons"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6+2",
+        "FACTION: Code Chivalric, Super-heavy Walker",
+        "Ion Aegis (Aura): While a friendly ARMIGER model is within 6\" of this model, that ARMIGER models has the Benefits of Cover.",
+        "Titan Hunter: Each time a ranged attack made by this model is allocated to a MONSTER or VEHICLE model, re-roll a Damage roll of 1."
+      ],
+      "Unit Composition": [
+        "1 Knight Castellan",
+        "This model is equipped with: plasma decimator; 2 shieldbreaker missile launchers; 2 twin meltaguns; twin siegebreaker cannon, volcano lance; titanic feet.",
+        "1 model",
+        "480",
+        "DAMAGED: 1-8 WOUNDS REMAINING",
+        "While this model has 1-8 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "TITANIC",
+        "TOWERING",
+        "DOMINUS",
+        "CHARACTER",
+        "IMPERIUM",
+        "KNIGHT CASTELLAN"
+      ],
+      "Faction Keywords": [
+        "IMPERIAL KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "SHOULDER THE BURDEN",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TROPHY CLAIM",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "ROTATE ION SHIELDS",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – WARGEAR"
+        },
+        {
+          "Name": "THUNDERSTOMP",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "VALIANT LAST STAND",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "OMNISSIAH’S GRACE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "VENGEANCE OF THE MACHINE CULT",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BONDED IMPERATIVE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – EPIC DEED"
+        },
+        {
+          "Name": "MACHINE FOCUS",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "THRONEGHEIST FURY",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AGGRESSION BEGETS AGGRESSION",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        }
+      ],
+      "Detachment Ability": "Indomitable Heroes"
+    },
+    "Knight-Crusader": {
+      "Movement": "10\"",
+      "Toughness": "12",
+      "Save": "3+",
+      "Wounds": "22",
+      "Leadership": "6+",
+      "OC": "10",
+      "Wargear Options": [
+        "This model’s meltagun can be replaced with 1 Questoris heavy stubber.",
+        "This model’s thermal cannon can be replaced with:",
+        "1 rapid-fire battle cannon and 1 Questoris heavy stubber",
+        "This model can be equipped with one of the following:",
+        "1 Icarus autocannons",
+        "1 ironstorm missile pod",
+        "1 stormspear rocket pod"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6",
+        "FACTION: Code Chivalric, Super-heavy Walker",
+        "Crusader’s Duty (Bondsman): While a model is affected by this ability, each time that model makes a ranged attack, add 1 to the Hit roll.",
+        "Punishing Salvoes: In your Movement phase, if this model Remains Stationary, until the start of your next Movement phase, this model’s ranged weapons have the [SUSTAINED HITS 1] ability."
+      ],
+      "Unit Composition": [
+        "1 Knight Crusader",
+        "This model is equipped with: avenger gatling cannon; heavy flamer; meltagun; thermal cannon; titanic feet.",
+        "1 model",
+        "445",
+        "DAMAGED: 1-7 WOUNDS REMAINING",
+        "While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "TITANIC",
+        "TOWERING",
+        "QUESTORIS",
+        "CHARACTER",
+        "IMPERIUM",
+        "KNIGHT CRUSADER"
+      ],
+      "Faction Keywords": [
+        "IMPERIAL KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "SHOULDER THE BURDEN",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TROPHY CLAIM",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "ROTATE ION SHIELDS",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – WARGEAR"
+        },
+        {
+          "Name": "THUNDERSTOMP",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "VALIANT LAST STAND",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "OMNISSIAH’S GRACE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "VENGEANCE OF THE MACHINE CULT",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BONDED IMPERATIVE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – EPIC DEED"
+        },
+        {
+          "Name": "MACHINE FOCUS",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "THRONEGHEIST FURY",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AGGRESSION BEGETS AGGRESSION",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        }
+      ],
+      "Detachment Ability": "Indomitable Heroes"
+    },
+    "Knight-Errant": {
+      "Movement": "10\"",
+      "Toughness": "12",
+      "Save": "3+",
+      "Wounds": "22",
+      "Leadership": "6+",
+      "OC": "10",
+      "Wargear Options": [
+        "This model’s meltagun can be replaced with 1 Questoris heavy stubber.",
+        "This model’s reaper chainsword can be replaced with 1 thunderstrike gauntlet.",
+        "This model can be equipped with one of the following:",
+        "1 Icarus autocannons",
+        "1 ironstorm missile pod",
+        "1 stormspear rocket pod"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6",
+        "FACTION: Code Chivalric, Super-heavy Walker",
+        "Errant’s Duty (Bondsman): While a model is affected by this ability, you can re-roll Advance rolls made for that model and its ranged weapons have the [ASSAULT] ability.",
+        "Aggressive Assault: Each time this model makes a ranged attack against the closest eligible target, add 1 to the Hit roll."
+      ],
+      "Unit Composition": [
+        "1 Knight Errant",
+        "This model is equipped with: meltagun; thermal cannon; reaper chainsword.",
+        "1 model",
+        "390",
+        "DAMAGED: 1-7 WOUNDS REMAINING",
+        "While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "TITANIC",
+        "TOWERING",
+        "QUESTORIS",
+        "CHARACTER",
+        "IMPERIUM",
+        "KNIGHT ERRANT"
+      ],
+      "Faction Keywords": [
+        "IMPERIAL KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "SHOULDER THE BURDEN",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TROPHY CLAIM",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "ROTATE ION SHIELDS",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – WARGEAR"
+        },
+        {
+          "Name": "THUNDERSTOMP",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "VALIANT LAST STAND",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "OMNISSIAH’S GRACE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "VENGEANCE OF THE MACHINE CULT",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BONDED IMPERATIVE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – EPIC DEED"
+        },
+        {
+          "Name": "MACHINE FOCUS",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "THRONEGHEIST FURY",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AGGRESSION BEGETS AGGRESSION",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        }
+      ],
+      "Detachment Ability": "Indomitable Heroes"
+    },
+    "Knight-Gallant": {
+      "Movement": "12\"",
+      "Toughness": "12",
+      "Save": "3+",
+      "Wounds": "22",
+      "Leadership": "6+",
+      "OC": "10",
+      "Wargear Options": [
+        "This model’s meltagun can be replaced with 1 Questoris heavy stubber.",
+        "This model can be equipped with one of the following:",
+        "1 Icarus autocannons",
+        "1 ironstorm missile pod",
+        "1 stormspear rocket pod"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6",
+        "FACTION: Code Chivalric, Super-heavy Walker",
+        "Gallant’s Duty (Bondsman): While a model is affected by this ability, you can re-roll Charge rolls made for that model and each time that model makes a melee attack, you can re-roll the Hit roll.",
+        "Martial Pride: Each time a melee attack targets this model, subtract 1 from the Hit roll."
+      ],
+      "Unit Composition": [
+        "1 Knight Gallant",
+        "This model is equipped with: meltagun; thunderstrike gauntlet; reaper chainsword.",
+        "1 model",
+        "380",
+        "DAMAGED: 1-7 WOUNDS REMAINING",
+        "While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "TITANIC",
+        "TOWERING",
+        "QUESTORIS",
+        "CHARACTER",
+        "IMPERIUM",
+        "KNIGHT GALLANT"
+      ],
+      "Faction Keywords": [
+        "IMPERIAL KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "SHOULDER THE BURDEN",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TROPHY CLAIM",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "ROTATE ION SHIELDS",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – WARGEAR"
+        },
+        {
+          "Name": "THUNDERSTOMP",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "VALIANT LAST STAND",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "OMNISSIAH’S GRACE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "VENGEANCE OF THE MACHINE CULT",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BONDED IMPERATIVE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – EPIC DEED"
+        },
+        {
+          "Name": "MACHINE FOCUS",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "THRONEGHEIST FURY",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AGGRESSION BEGETS AGGRESSION",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        }
+      ],
+      "Detachment Ability": "Indomitable Heroes"
+    },
+    "Knight-Paladin": {
+      "Movement": "10\"",
+      "Toughness": "12",
+      "Save": "3+",
+      "Wounds": "22",
+      "Leadership": "6+",
+      "OC": "10",
+      "Wargear Options": [
+        "This model’s meltagun can be replaced with 1 Questoris heavy stubber.",
+        "This model’s reaper chainsword can be replaced with 1 thunderstrike gauntlet.",
+        "This model can be equipped with one of the following:",
+        "1 Icarus autocannons",
+        "1 ironstorm missile pod",
+        "1 stormspear rocket pod"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6",
+        "FACTION: Code Chivalric, Super-heavy Walker",
+        "Paladin’s Duty (Bondsman): While a model is affected by this ability, its weapons have the [LETHAL HITS] and [LANCE] abilities.",
+        "Seasoned Noble: Once per phase, you can re-roll one Hit roll, one Wound roll or one saving throw made for this model."
+      ],
+      "Unit Composition": [
+        "1 Knight Paladin",
+        "This model is equipped with: meltagun; Questoris heavy stubber; rapid-fire battle cannon; reaper chainsword.",
+        "1 model",
+        "405",
+        "DAMAGED: 1-7 WOUNDS REMAINING",
+        "While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "TITANIC",
+        "TOWERING",
+        "QUESTORIS",
+        "CHARACTER",
+        "IMPERIUM",
+        "KNIGHT PALADIN"
+      ],
+      "Faction Keywords": [
+        "IMPERIAL KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "SHOULDER THE BURDEN",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TROPHY CLAIM",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "ROTATE ION SHIELDS",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – WARGEAR"
+        },
+        {
+          "Name": "THUNDERSTOMP",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "VALIANT LAST STAND",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "OMNISSIAH’S GRACE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "VENGEANCE OF THE MACHINE CULT",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BONDED IMPERATIVE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – EPIC DEED"
+        },
+        {
+          "Name": "MACHINE FOCUS",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "THRONEGHEIST FURY",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AGGRESSION BEGETS AGGRESSION",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        }
+      ],
+      "Detachment Ability": "Indomitable Heroes"
+    },
+    "Knight-Preceptor": {
+      "Movement": "10\"",
+      "Toughness": "12",
+      "Save": "3+",
+      "Wounds": "22",
+      "Leadership": "6+",
+      "OC": "10",
+      "Wargear Options": [
+        "This model’s Preceptor multi-laser can be replaced with one of the following:",
+        "1 meltagun",
+        "1 Questoris heavy stubber",
+        "This model’s reaper chainsword can be replaced with 1 thunderstrike gauntlet.",
+        "This model can be equipped with one of the following:",
+        "1 Icarus autocannons",
+        "1 ironstorm missile pod",
+        "1 stormspear rocket pod"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6",
+        "FACTION: Code Chivalric, Super-heavy Walker",
+        "Mentor (Bondsman): While a model is affected by this ability, improve that model’s Leadership characteristic by 1 and improve that model’s Objective Control characteristic by 2.",
+        "Exemplar of the Code: At the start of the battle, select one unit from your opponent’s army. Each time this model makes an attack that targets that unit, you can re-roll the Hit roll."
+      ],
+      "Unit Composition": [
+        "1 Knight Preceptor",
+        "This model is equipped with: las-impulsor; Preceptor multi-laser; reaper chainsword.",
+        "1 model",
+        "405",
+        "DAMAGED: 1-7 WOUNDS REMAINING",
+        "While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "TITANIC",
+        "TOWERING",
+        "QUESTORIS",
+        "CHARACTER",
+        "IMPERIUM",
+        "KNIGHT PRECEPTOR"
+      ],
+      "Faction Keywords": [
+        "IMPERIAL KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "SHOULDER THE BURDEN",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TROPHY CLAIM",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "ROTATE ION SHIELDS",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – WARGEAR"
+        },
+        {
+          "Name": "THUNDERSTOMP",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "VALIANT LAST STAND",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "OMNISSIAH’S GRACE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "VENGEANCE OF THE MACHINE CULT",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "MACHINE FOCUS",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "THRONEGHEIST FURY",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AGGRESSION BEGETS AGGRESSION",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        }
+      ],
+      "Detachment Ability": "Indomitable Heroes"
+    },
+    "Knight-Valiant": {
+      "Movement": "8\"",
+      "Toughness": "13",
+      "Save": "2+",
+      "Wounds": "24",
+      "Leadership": "6+",
+      "OC": "10",
+      "Wargear Options": [
+        "This model’s 2 shieldbreaker missile launchers and twin siegebreaker cannon can be replaced with:",
+        "1 shieldbreaker missile launcher and 2 twin siegebreaker cannons"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6+2",
+        "FACTION: Code Chivalric, Super-heavy Walker",
+        "Ion Aegis (Aura): While a friendly ARMIGER model is within 6\" of this model, that ARMIGER model has the Benefit of Cover.",
+        "Overwhelming Firestorm: In your Shooting phase, after this model has shot, select one enemy unit hit by this model this phase. That unit must take a Battle-shock test."
+      ],
+      "Unit Composition": [
+        "1 Knight Valiant",
+        "This model is equipped with: conflagration cannon; 2 shieldbreaker missile launchers; thundercoil harpoon; 2 twin meltaguns; twin siegebreaker cannon, titanic feet.",
+        "1 model",
+        "480",
+        "DAMAGED: 1-8 WOUNDS REMAINING",
+        "While this model has 1-8 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "TITANIC",
+        "TOWERING",
+        "DOMINUS",
+        "CHARACTER",
+        "IMPERIUM",
+        "KNIGHT VALIANT"
+      ],
+      "Faction Keywords": [
+        "IMPERIAL KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "SHOULDER THE BURDEN",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TROPHY CLAIM",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "ROTATE ION SHIELDS",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – WARGEAR"
+        },
+        {
+          "Name": "THUNDERSTOMP",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "VALIANT LAST STAND",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "OMNISSIAH’S GRACE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "VENGEANCE OF THE MACHINE CULT",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BONDED IMPERATIVE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – EPIC DEED"
+        },
+        {
+          "Name": "MACHINE FOCUS",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "THRONEGHEIST FURY",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AGGRESSION BEGETS AGGRESSION",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        }
+      ],
+      "Detachment Ability": "Indomitable Heroes"
+    },
+    "Knight-Warden": {
+      "Movement": "10\"",
+      "Toughness": "12",
+      "Save": "3+",
+      "Wounds": "22",
+      "Leadership": "6+",
+      "OC": "10",
+      "Wargear Options": [
+        "This model’s meltagun can be replaced with 1 Questoris heavy stubber.",
+        "This model’s reaper chainsword can be replaced with 1 thunderstrike gauntlet.",
+        "This model can be equipped with one of the following:",
+        "1 Icarus autocannons",
+        "1 ironstorm missile pod",
+        "1 stormspear rocket pod"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6",
+        "FACTION: Code Chivalric, Super-heavy Walker",
+        "Warden’s Duty (Bondsman): While a model is affected by this ability, each time an attack is allocated to that model, subtract 1 from the Damage characteristic of that attack.",
+        "Thin Their Ranks: Each time this model makes a ranged attack that targets an enemy unit (excluding Monsters and Vehicles), that attack has the [DEVASTATING WOUNDS] ability."
+      ],
+      "Unit Composition": [
+        "1 Knight Warden",
+        "This model is equipped with: avenger gatling cannon; heavy flamer; meltagun; reaper chainsword.",
+        "1 model",
+        "450",
+        "DAMAGED: 1-7 WOUNDS REMAINING",
+        "While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "TITANIC",
+        "TOWERING",
+        "QUESTORIS",
+        "CHARACTER",
+        "IMPERIUM",
+        "KNIGHT WARDEN"
+      ],
+      "Faction Keywords": [
+        "IMPERIAL KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "SHOULDER THE BURDEN",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TROPHY CLAIM",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "ROTATE ION SHIELDS",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – WARGEAR"
+        },
+        {
+          "Name": "THUNDERSTOMP",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "VALIANT LAST STAND",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "OMNISSIAH’S GRACE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "VENGEANCE OF THE MACHINE CULT",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BONDED IMPERATIVE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – EPIC DEED"
+        },
+        {
+          "Name": "MACHINE FOCUS",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "THRONEGHEIST FURY",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AGGRESSION BEGETS AGGRESSION",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        }
+      ],
+      "Detachment Ability": "Indomitable Heroes"
+    },
+    "Cerastus-Knight-Acheron": {
+      "Movement": "12\"",
+      "Toughness": "12",
+      "Save": "3+",
+      "Wounds": "25",
+      "Leadership": "6+",
+      "OC": "10",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6+2",
+        "FACTION: Code Chivalric, Super-heavy Walker",
+        "Acheron’s Duty (Bondsman): While a model is affected by this ability, at the start of the Fight phase, each enemy unit within Engagement Range of one or more units with this ability must take a Battle-shock test, subtracting 1 from the result when they do.",
+        "Searing Flames: In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks made with an Acheron flame cannon. Until the end of the phase, that enemy unit cannot have the Benefit of Cover."
+      ],
+      "Unit Composition": [
+        "1 Cerastus Knight Acheron",
+        "This model is equipped with: Acheron flame cannon; twin heavy bolter; reaper chainfist.",
+        "1 model",
+        "425",
+        "DAMAGED: 1-8 WOUNDS REMAINING",
+        "While this model has 1-8 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "CHARACTER",
+        "TITANIC",
+        "TOWERING",
+        "IMPERIUM",
+        "CERASTUS",
+        "KNIGHT ACHERON"
+      ],
+      "Faction Keywords": [
+        "IMPERIAL KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "SHOULDER THE BURDEN",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TROPHY CLAIM",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "ROTATE ION SHIELDS",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – WARGEAR"
+        },
+        {
+          "Name": "THUNDERSTOMP",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "VALIANT LAST STAND",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "OMNISSIAH’S GRACE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "VENGEANCE OF THE MACHINE CULT",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BONDED IMPERATIVE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – EPIC DEED"
+        },
+        {
+          "Name": "MACHINE FOCUS",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "THRONEGHEIST FURY",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AGGRESSION BEGETS AGGRESSION",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        }
+      ],
+      "Detachment Ability": "Indomitable Heroes"
+    },
+    "Cerastus-Knight-Atrapos": {
+      "Movement": "12\"",
+      "Toughness": "12",
+      "Save": "3+",
+      "Wounds": "25",
+      "Leadership": "6+",
+      "OC": "10",
+      "Invulnerable Save": "5+",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6+2",
+        "FACTION: Code Chivalric, Super-heavy Walker",
+        "Atrapos’ Duty (Bondsman): While a model is affected by this ability, each time that model makes an attack that targets a TITANIC or TOWERING model, you can re-roll the Hit roll and you can re-roll the Wound roll.",
+        "Macro-extinction Protocols: Each time this model makes an attack that targets a MONSTER or VEHICLE unit, add 1 to the Hit roll. If that target is TITANIC or TOWERING, add 1 to the Wound roll as well."
+      ],
+      "Unit Composition": [
+        "1 Cerastus Knight Atrapos",
+        "This model is equipped with: Atrapos lascutter; graviton singularity cannon.",
+        "1 model",
+        "425",
+        "DAMAGED: 1-8 WOUNDS REMAINING",
+        "While this model has 1-8 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "CHARACTER",
+        "TITANIC",
+        "TOWERING",
+        "IMPERIUM",
+        "CERASTUS",
+        "KNIGHT ATRAPOS"
+      ],
+      "Faction Keywords": [
+        "IMPERIAL KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "SHOULDER THE BURDEN",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TROPHY CLAIM",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "ROTATE ION SHIELDS",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – WARGEAR"
+        },
+        {
+          "Name": "THUNDERSTOMP",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "VALIANT LAST STAND",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "OMNISSIAH’S GRACE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "VENGEANCE OF THE MACHINE CULT",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BONDED IMPERATIVE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – EPIC DEED"
+        },
+        {
+          "Name": "MACHINE FOCUS",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "THRONEGHEIST FURY",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AGGRESSION BEGETS AGGRESSION",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        }
+      ],
+      "Detachment Ability": "Indomitable Heroes"
+    },
+    "Cerastus-Knight-Castigator": {
+      "Movement": "12\"",
+      "Toughness": "12",
+      "Save": "3+",
+      "Wounds": "25",
+      "Leadership": "6+",
+      "OC": "10",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6+2",
+        "FACTION: Code Chivalric, Super-heavy Walker",
+        "Castigator’s Duty (Bondsman): While a model is affected by this ability, its ranged weapons have the [SUSTAINED HITS 1] ability and the Armour Penetration characteristic of its ranged weapons is improved by 1.",
+        "Storm of Bolts: In your Shooting phase, after this model has shot, select one unit (excluding MONSTERS and VEHICLES) hit by one or more of those attacks. Until the start of your next turn, while this model is on the battlefield, that enemy unit is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Unit Composition": [
+        "1 Cerastus Knight Castigator",
+        "This model is equipped with: Castigator bolt cannon; tempest warblade.",
+        "1 model",
+        "465",
+        "DAMAGED: 1-8 WOUNDS REMAINING",
+        "While this model has 1-8 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "CHARACTER",
+        "TITANIC",
+        "TOWERING",
+        "IMPERIUM",
+        "CERASTUS",
+        "KNIGHT CASTIGATOR"
+      ],
+      "Faction Keywords": [
+        "IMPERIAL KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "SHOULDER THE BURDEN",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TROPHY CLAIM",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "ROTATE ION SHIELDS",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – WARGEAR"
+        },
+        {
+          "Name": "THUNDERSTOMP",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "VALIANT LAST STAND",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "OMNISSIAH’S GRACE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "VENGEANCE OF THE MACHINE CULT",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BONDED IMPERATIVE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – EPIC DEED"
+        },
+        {
+          "Name": "MACHINE FOCUS",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "THRONEGHEIST FURY",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AGGRESSION BEGETS AGGRESSION",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        }
+      ],
+      "Detachment Ability": "Indomitable Heroes"
+    },
+    "Cerastus-Knight-Lancer": {
+      "Movement": "14\"",
+      "Toughness": "12",
+      "Save": "3+",
+      "Wounds": "25",
+      "Leadership": "6+",
+      "OC": "10",
+      "Invulnerable Save": "4+",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6+2",
+        "FACTION: Code Chivalric, Super-heavy Walker",
+        "Lancer’s Duty (Bondsman): While a model is affected by this ability, it is eligible to declare a charge in a turn in which it Advanced.",
+        "Shock Charge: You can target this model with the Tank Shock Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase."
+      ],
+      "Unit Composition": [
+        "1 Cerastus Knight Lancer",
+        "This model is equipped with: Cerastus shock lance.",
+        "1 model",
+        "430",
+        "DAMAGED: 1-8 WOUNDS REMAINING",
+        "While this model has 1-8 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "CHARACTER",
+        "TITANIC",
+        "TOWERING",
+        "IMPERIUM",
+        "CERASTUS",
+        "KNIGHT LANCER"
+      ],
+      "Faction Keywords": [
+        "IMPERIAL KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "SHOULDER THE BURDEN",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TROPHY CLAIM",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "ROTATE ION SHIELDS",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – WARGEAR"
+        },
+        {
+          "Name": "THUNDERSTOMP",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "VALIANT LAST STAND",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "OMNISSIAH’S GRACE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "VENGEANCE OF THE MACHINE CULT",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BONDED IMPERATIVE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – EPIC DEED"
+        },
+        {
+          "Name": "MACHINE FOCUS",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "THRONEGHEIST FURY",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AGGRESSION BEGETS AGGRESSION",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        }
+      ],
+      "Detachment Ability": "Indomitable Heroes"
+    },
+    "Questoris-Knight-Magaera": {
+      "Movement": "10\"",
+      "Toughness": "12",
+      "Save": "3+",
+      "Wounds": "22",
+      "Leadership": "6+",
+      "OC": "10",
+      "Invulnerable Save": "5+",
+      "Wargear Options": [
+        "This model’s reaper chainsword can be replaced with 1 hekaton siege claw and 1 twin rad cleanser."
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6",
+        "FACTION: Code Chivalric, Super-heavy Walker",
+        "Magaera’s Duty (Bondsman): While a model is affected by this ability, ranged weapons equipped by that model have the [IGNORES COVER] ability.",
+        "Repair Auto-simulacra: At the end of your Command phase, this model regains up to D3 lost wounds."
+      ],
+      "Unit Composition": [
+        "1 Questoris Knight Magaera",
+        "This model is equipped with: lightning cannon; phased plasma-fusil; reaper chainsword.",
+        "1 model",
+        "425",
+        "DAMAGED: 1-7 WOUNDS REMAINING",
+        "While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "CHARACTER",
+        "TITANIC",
+        "TOWERING",
+        "IMPERIUM",
+        "QUESTORIS",
+        "KNIGHT MAGAERA"
+      ],
+      "Faction Keywords": [
+        "IMPERIAL KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "SHOULDER THE BURDEN",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TROPHY CLAIM",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "ROTATE ION SHIELDS",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – WARGEAR"
+        },
+        {
+          "Name": "THUNDERSTOMP",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "VALIANT LAST STAND",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "OMNISSIAH’S GRACE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "VENGEANCE OF THE MACHINE CULT",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BONDED IMPERATIVE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – EPIC DEED"
+        },
+        {
+          "Name": "MACHINE FOCUS",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "THRONEGHEIST FURY",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AGGRESSION BEGETS AGGRESSION",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        }
+      ],
+      "Detachment Ability": "Indomitable Heroes"
+    },
+    "Questoris-Knight-Styrix": {
+      "Movement": "10\"",
+      "Toughness": "12",
+      "Save": "3+",
+      "Wounds": "22",
+      "Leadership": "6+",
+      "OC": "10",
+      "Invulnerable Save": "5+",
+      "Wargear Options": [
+        "This model’s reaper chainsword can be replaced with 1 hekaton siege claw and 1 twin rad cleanser."
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6",
+        "FACTION: Code Chivalric, Super-heavy Walker",
+        "Grav-pinned: In your Shooting phase, after this model has shot, if an enemy Infantry unit was hit by one or more of those attacks made with a graviton crusher, until the end of your opponent’s next turn, that enemy unit is grav-pinned. While a unit is grav-pinned, subtract 2 from that unit’s Move characteristic and subtract 2 from Advance and Charge rolls made for that unit.",
+        "Styrix’s Duty (Bondsman): While a model is affected by this ability, ranged weapons equipped by that model have the [IGNORES COVER] ability."
+      ],
+      "Unit Composition": [
+        "1 Questoris Knight Styrix",
+        "This model is equipped with: graviton crusher; volkite chierovile; reaper chainsword.",
+        "1 model",
+        "430",
+        "DAMAGED: 1-7 WOUNDS REMAINING",
+        "While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "CHARACTER",
+        "TITANIC",
+        "TOWERING",
+        "IMPERIUM",
+        "QUESTORIS",
+        "KNIGHT STYRIX"
+      ],
+      "Faction Keywords": [
+        "IMPERIAL KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "SHOULDER THE BURDEN",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TROPHY CLAIM",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "ROTATE ION SHIELDS",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – WARGEAR"
+        },
+        {
+          "Name": "THUNDERSTOMP",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "VALIANT LAST STAND",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "OMNISSIAH’S GRACE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "VENGEANCE OF THE MACHINE CULT",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BONDED IMPERATIVE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – EPIC DEED"
+        },
+        {
+          "Name": "MACHINE FOCUS",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "THRONEGHEIST FURY",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AGGRESSION BEGETS AGGRESSION",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        }
+      ],
+      "Detachment Ability": "Indomitable Heroes"
+    },
+    "Armiger-Helverin": {
+      "Movement": "12\"",
+      "Toughness": "10",
+      "Save": "3+",
+      "Wounds": "12",
+      "Leadership": "7+",
+      "OC": "8",
+      "Wargear Options": [
+        "This model’s Questoris heavy stubber can be replaced with 1 meltagun."
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D3",
+        "FACTION: Code Chivalric",
+        "Skyfire Protocols: While this model is either wholly within your deployment zone or within range of an objective marker you control, its Armiger autocannons have the [ANTI-FLY 2+] ability."
+      ],
+      "Unit Composition": [
+        "1 Armiger Helverin",
+        "This model is equipped with: 2 Armiger autocannons; Questoris heavy stubber; armoured feet.",
+        "1 model",
+        "130",
+        "DAMAGED: 1-4 WOUNDS REMAINING",
+        "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "BATTLELINE",
+        "IMPERIUM",
+        "ARMIGER",
+        "HELVERIN"
+      ],
+      "Faction Keywords": [
+        "IMPERIAL KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SHOULDER THE BURDEN",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SQUIRES' DUTY",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TROPHY CLAIM",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "ROTATE ION SHIELDS",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – WARGEAR"
+        },
+        {
+          "Name": "THUNDERSTOMP",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "VALIANT LAST STAND",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "OMNISSIAH’S GRACE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "VENGEANCE OF THE MACHINE CULT",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BONDED IMPERATIVE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – EPIC DEED"
+        },
+        {
+          "Name": "MACHINE FOCUS",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AGGRESSION BEGETS AGGRESSION",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        }
+      ],
+      "Detachment Ability": "Indomitable Heroes"
+    },
+    "Armiger-Warglaive": {
+      "Movement": "12\"",
+      "Toughness": "10",
+      "Save": "3+",
+      "Wounds": "12",
+      "Leadership": "7+",
+      "OC": "8",
+      "Wargear Options": [
+        "This model’s Questoris heavy stubber can be replaced with 1 meltagun."
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D3",
+        "FACTION: Code Chivalric",
+        "Impetuous Glory: Each time this model makes a Charge move, until the end of the turn, melee weapons equipped by this model have the [SUSTAINED HITS 1] ability."
+      ],
+      "Unit Composition": [
+        "1 Armiger Warglaive",
+        "This model is equipped with: Questoris heavy stubber; thermal spear; reaper chain-cleaver.",
+        "1 model",
+        "140",
+        "DAMAGED: 1-4 WOUNDS REMAINING",
+        "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "BATTLELINE",
+        "IMPERIUM",
+        "ARMIGER",
+        "WARGLAIVE"
+      ],
+      "Faction Keywords": [
+        "IMPERIAL KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SHOULDER THE BURDEN",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SQUIRES' DUTY",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TROPHY CLAIM",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "ROTATE ION SHIELDS",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – WARGEAR"
+        },
+        {
+          "Name": "THUNDERSTOMP",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "VALIANT LAST STAND",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "OMNISSIAH’S GRACE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "VENGEANCE OF THE MACHINE CULT",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BONDED IMPERATIVE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – EPIC DEED"
+        },
+        {
+          "Name": "MACHINE FOCUS",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AGGRESSION BEGETS AGGRESSION",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        }
+      ],
+      "Detachment Ability": "Indomitable Heroes"
+    },
+    "Armiger-Moirax": {
+      "Movement": "12\"",
+      "Toughness": "10",
+      "Save": "3+",
+      "Wounds": "12",
+      "Leadership": "7+",
+      "OC": "8",
+      "Wargear Options": [
+        "This model’s graviton pulsar can be replaced with one of the following;",
+        "1 siege claw and 1 rad cleanser",
+        "1 lightning lock",
+        "1 conversion beam cannon",
+        "1 volkite veuglaire",
+        "This model’s volkite veuglaire can be replaced with one of the following:",
+        "1 siege claw and 1 rad cleanser",
+        "1 graviton pulsar",
+        "1 lightning lock",
+        "1 conversion beam cannon"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D3",
+        "FACTION: Code Chivalric",
+        "Protection Protocols: You can target this unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase."
+      ],
+      "Unit Composition": [
+        "1 Armiger Moirax",
+        "This model is equipped with: graviton pulsar; volkite veuglaire; armoured feet.",
+        "1 model",
+        "160",
+        "DAMAGED: 1-4 WOUNDS REMAINING",
+        "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "BATTLELINE",
+        "IMPERIUM",
+        "ARMIGER",
+        "MOIRAX"
+      ],
+      "Faction Keywords": [
+        "IMPERIAL KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SHOULDER THE BURDEN",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SQUIRES' DUTY",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TROPHY CLAIM",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "ROTATE ION SHIELDS",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – WARGEAR"
+        },
+        {
+          "Name": "THUNDERSTOMP",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "VALIANT LAST STAND",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "OMNISSIAH’S GRACE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "VENGEANCE OF THE MACHINE CULT",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BONDED IMPERATIVE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – EPIC DEED"
+        },
+        {
+          "Name": "MACHINE FOCUS",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AGGRESSION BEGETS AGGRESSION",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        }
+      ],
+      "Detachment Ability": "Indomitable Heroes"
+    },
+    "Acastus-Knight-Asterius": {
+      "Movement": "8\"",
+      "Toughness": "13",
+      "Save": "2+",
+      "Wounds": "30",
+      "Leadership": "6+",
+      "OC": "10",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise 2D6",
+        "FACTION: Code Chivalric, Super-heavy Walker",
+        "Sunderer of Fortresses: Each time this model makes an attack that targets a VEHICLE, improve the Strength and Damage characteristics of that attack by 1. If that attack targets a FORTIFICATION, improve the Strength and Damage characteristics of that attack by 2 instead."
+      ],
+      "Unit Composition": [
+        "1 Acastus Knight Asterius",
+        "This model is equipped with: 2 Asterius volkite culverins; karacnos mortar battery; 2 twin conversion beam cannons; titanic feet.",
+        "1 model",
+        "765",
+        "DAMAGED: 1-10 WOUNDS REMAINING",
+        "While this model has 1-10 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "TITANIC",
+        "TOWERING",
+        "ACASTUS",
+        "IMPERIUM",
+        "KNIGHT ASTERIUS"
+      ],
+      "Faction Keywords": [
+        "IMPERIAL KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SHOULDER THE BURDEN",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TROPHY CLAIM",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "ROTATE ION SHIELDS",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – WARGEAR"
+        },
+        {
+          "Name": "THUNDERSTOMP",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "VALIANT LAST STAND",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "OMNISSIAH’S GRACE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "VENGEANCE OF THE MACHINE CULT",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BONDED IMPERATIVE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – EPIC DEED"
+        },
+        {
+          "Name": "MACHINE FOCUS",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "THRONEGHEIST FURY",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AGGRESSION BEGETS AGGRESSION",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        }
+      ],
+      "Detachment Ability": "Indomitable Heroes"
+    },
+    "Acastus-Knight-Porphyrion": {
+      "Movement": "8\"",
+      "Toughness": "13",
+      "Save": "2+",
+      "Wounds": "30",
+      "Leadership": "6+",
+      "OC": "10",
+      "Wargear Options": [
+        "This model’s 2 Acastus autocannons can be replaced with one of the following:",
+        "2 lascannons",
+        "1 Acastus autocannon and 1 lascannon",
+        "This model’s Acastus ironstorm missile pod can be replaced with 1 helios defence missiles."
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise 2D6",
+        "FACTION: Code Chivalric, Super-heavy Walker",
+        "Bastion of Firepower: Each time this model Remains Stationary, until the end of the turn, ranged weapons equipped by this model have the [LETHAL HITS] ability."
+      ],
+      "Unit Composition": [
+        "1 Acastus Knight Porphyrion",
+        "This model is equipped with: 2 Acastus autocannons; Acastus ironstorm missile pod; 2 twin magna lascannons; titanic feet.",
+        "1 model",
+        "710",
+        "DAMAGED: 1-10 WOUNDS REMAINING",
+        "While this model has 1-10 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "TITANIC",
+        "TOWERING",
+        "IMPERIUM",
+        "ACASTUS",
+        "KNIGHT PORPHYRION"
+      ],
+      "Faction Keywords": [
+        "IMPERIAL KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SHOULDER THE BURDEN",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TROPHY CLAIM",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "ROTATE ION SHIELDS",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – WARGEAR"
+        },
+        {
+          "Name": "THUNDERSTOMP",
+          "CP": "1CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "VALIANT LAST STAND",
+          "CP": "2CP",
+          "Source": "NOBLE LANCE – EPIC DEED"
+        },
+        {
+          "Name": "OMNISSIAH’S GRACE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "VENGEANCE OF THE MACHINE CULT",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BONDED IMPERATIVE",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – EPIC DEED"
+        },
+        {
+          "Name": "MACHINE FOCUS",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "THRONEGHEIST FURY",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        },
+        {
+          "Name": "AGGRESSION BEGETS AGGRESSION",
+          "CP": "1CP",
+          "Source": "QUESTOR FORGEPACT – STRATEGIC PLOY"
+        }
+      ],
+      "Detachment Ability": "Indomitable Heroes"
+    }
+  }
+}

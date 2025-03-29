@@ -1,0 +1,4982 @@
+{
+  "grey-knights": {
+    "Brotherhood-Terminator-Squad": {
+      "Movement": "5\"",
+      "Toughness": "5",
+      "Save": "2+",
+      "Wounds": "3",
+      "Leadership": "6+",
+      "OC": "2",
+      "Invulnerable Save": "4+",
+      "Wargear Options": [
+        "For every 5 models in this unit, 1 Brotherhood Terminator’s storm bolter can be replaced with one of the following:",
+        "1 incinerator",
+        "1 psilencer",
+        "1 psycannon",
+        "1 Brotherhood Terminator can have its storm bolter replaced with 1 narthecium.*",
+        "1 Brotherhood Terminator equipped with a storm bolter can be equipped with 1 Ancient’s banner.*"
+      ],
+      "Abilities": [
+        "CORE: Deep Strike",
+        "FACTION: Teleport Assault",
+        "Hammerhand (Psychic): Each time a model in this unit makes a Charge move, until the end of the turn, melee weapons equipped by models in this unit have the [LETHAL HITS] ability.",
+        "WARGEAR ABILITIES",
+        "Ancient’s Banner: Add 1 to the Objective Control characteristic of models in the bearer’s unit.",
+        "Narthecium: In your Command phase, you can return 1 destroyed model (excluding CHARACTERS) to the bearer’s unit."
+      ],
+      "Unit Composition": [
+        "1 Terminator Justicar",
+        "4-9 Brotherhood Terminators",
+        "Every model is equipped with: storm bolter; Nemesis force weapon.",
+        "5 models",
+        "200"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "BATTLELINE",
+        "PSYKER",
+        "TERMINATOR",
+        "GRENADES",
+        "IMPERIUM",
+        "BROTHERHOOD TERMINATOR SQUAD"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Points": [
+        {
+          "Models": "5",
+          "Cost": "200"
+        },
+        {
+          "Models": "10",
+          "Cost": "420"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "PSYBOLT AMMUNITION",
+          "CP": "1CP",
+          "Source": "BANESLAYER STRIKE – WARGEAR"
+        },
+        {
+          "Name": "RELENTLESS BOARDERS",
+          "CP": "1CP",
+          "Source": "BANESLAYER STRIKE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GRENADE",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HALOED IN SOULFIRE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "DEATH FROM THE WARP",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "PROGNISTICATED ARRIVAL",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – EPIC DEED"
+        },
+        {
+          "Name": "MISTS OF DEIMOS",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "RADIANT STRIKE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "BREACH-SHOCK",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEXBANE WARDS",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED SLAUGHTER",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "FIRES OF COVENANT",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "AEGIS ETERNAL",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "REPELLING SPHERE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Led By": [
+        "Brother-captain",
+        "Brother-captain Stern",
+        "Brotherhood Chaplain",
+        "Brotherhood Librarian",
+        "Grand Master",
+        "Grand Master Voldus",
+        "Kaldor Draigo",
+        "Inquisitor",
+        "Inquisitor Coteaz",
+        "Inquisitor Draxus",
+        "Inquisitor Greyfax"
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Paladin-Squad": {
+      "Movement": "5\"",
+      "Toughness": "5",
+      "Save": "2+",
+      "Wounds": "3",
+      "Leadership": "6+",
+      "OC": "1",
+      "Invulnerable Save": "4+",
+      "Wargear Options": [
+        "For every 5 models in this unit, up to 2 Paladins can each have their storm bolter replaced with one of the following:",
+        "1 incinerator",
+        "1 psilencer",
+        "1 psycannon",
+        "1 Paladin equipped with a storm bolter and Nemesis force weapon can be equipped with 1 Ancient’s banner. That model’s storm bolter can be replaced with one of the following:",
+        "1 incinerator",
+        "1 psilencer",
+        "1 psycannon"
+      ],
+      "Abilities": [
+        "CORE: Deep Strike",
+        "FACTION: Teleport Assault",
+        "Inner Fortitude (Psychic): Each time an attack targets this unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of this unit, subtract 1 from the Wound roll.",
+        "WARGEAR ABILITIES",
+        "Ancient’s Banner: Add 1 to the Objective Control characteristic of models in the bearer’s unit."
+      ],
+      "Unit Composition": [
+        "1 Paragon",
+        "4-9 Paladins",
+        "Every model is equipped with: storm bolter; Nemesis force weapon.",
+        "5 models",
+        "215"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "PSYKER",
+        "TERMINATOR",
+        "GRENADES",
+        "IMPERIUM",
+        "PALADIN SQUAD"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Points": [
+        {
+          "Models": "5",
+          "Cost": "215"
+        },
+        {
+          "Models": "10",
+          "Cost": "450"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "SANCTIC CIRCLE",
+          "CP": "2CP",
+          "Source": "BANESLAYER STRIKE – EPIC DEED"
+        },
+        {
+          "Name": "PSYBOLT AMMUNITION",
+          "CP": "1CP",
+          "Source": "BANESLAYER STRIKE – WARGEAR"
+        },
+        {
+          "Name": "RELENTLESS BOARDERS",
+          "CP": "1CP",
+          "Source": "BANESLAYER STRIKE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GRENADE",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HALOED IN SOULFIRE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "DEATH FROM THE WARP",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "PROGNISTICATED ARRIVAL",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – EPIC DEED"
+        },
+        {
+          "Name": "MISTS OF DEIMOS",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "RADIANT STRIKE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "BREACH-SHOCK",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEXBANE WARDS",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED SLAUGHTER",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "FIRES OF COVENANT",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "AEGIS ETERNAL",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "REPELLING SPHERE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Led By": [
+        "Brother-captain",
+        "Brother-captain Stern",
+        "Brotherhood Chaplain",
+        "Brotherhood Librarian",
+        "Grand Master",
+        "Grand Master Voldus",
+        "Kaldor Draigo"
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Purgation-Squad": {
+      "Movement": "6\"",
+      "Toughness": "4",
+      "Save": "2+",
+      "Wounds": "2",
+      "Leadership": "6+",
+      "OC": "1",
+      "Wargear Options": [
+        "Up to 4 Purgators can each have their storm bolter and Nemesis force weapon replaced with one of the following:",
+        "1 incinerator and 1 close combat weapon",
+        "1 psilencer and 1 close combat weapon",
+        "1 psycannon and 1 close combat weapon"
+      ],
+      "Abilities": [
+        "CORE: Deep Strike",
+        "FACTION: Teleport Assault",
+        "Astral Aim (Psychic): In your Shooting phase, ranged weapons equipped by models in this unit have the [INDIRECT FIRE] ability, provided the target of that weapon is visible to one or more other friendly GREY KNIGHTS PSYKER units."
+      ],
+      "Unit Composition": [
+        "1 Purgator Justicar",
+        "4-9 Purgators",
+        "Every model is equipped with: storm bolter; Nemesis force weapon.",
+        "5 models",
+        "120"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "PSYKER",
+        "GRENADES",
+        "IMPERIUM",
+        "PURGATION SQUAD"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Points": [
+        {
+          "Models": "5",
+          "Cost": "120"
+        },
+        {
+          "Models": "10",
+          "Cost": "240"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GRENADE",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HALOED IN SOULFIRE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "DEATH FROM THE WARP",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "PROGNISTICATED ARRIVAL",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – EPIC DEED"
+        },
+        {
+          "Name": "MISTS OF DEIMOS",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "RADIANT STRIKE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HALLOWED BEACON",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "FIRES OF COVENANT",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "AEGIS ETERNAL",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "REPELLING SPHERE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Strike-Squad": {
+      "Movement": "6\"",
+      "Toughness": "4",
+      "Save": "2+",
+      "Wounds": "2",
+      "Leadership": "6+",
+      "OC": "2",
+      "Wargear Options": [
+        "For every 5 models in this unit, 1 Grey Knight’s storm bolter and Nemesis force weapon can be replaced with one of the following:",
+        "1 incinerator and 1 close combat weapon",
+        "1 psilencer and 1 close combat weapon",
+        "1 psycannon and 1 close combat weapon"
+      ],
+      "Abilities": [
+        "CORE: Deep Strike, Scouts 6\"",
+        "FACTION: Teleport Assault",
+        "Sanctifying Ritual (Psychic): If you control an objective marker at the end of your Command phase and this unit is within range of that objective marker, that objective marker remains under you control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn."
+      ],
+      "Unit Composition": [
+        "1 Justicar",
+        "4-9 Grey Knights",
+        "Every model is equipped with: storm bolter; Nemesis force weapon.",
+        "5 models",
+        "120"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "BATTLELINE",
+        "PSYKER",
+        "GRENADES",
+        "IMPERIUM",
+        "STRIKE SQUAD"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Points": [
+        {
+          "Models": "5",
+          "Cost": "120"
+        },
+        {
+          "Models": "10",
+          "Cost": "240"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GRENADE",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HALOED IN SOULFIRE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "DEATH FROM THE WARP",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "PROGNISTICATED ARRIVAL",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – EPIC DEED"
+        },
+        {
+          "Name": "MISTS OF DEIMOS",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "RADIANT STRIKE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "BREACH-SHOCK",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEXBANE WARDS",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED SLAUGHTER",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HALLOWED BEACON",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "FIRES OF COVENANT",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "AEGIS ETERNAL",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "REPELLING SPHERE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Led By": [
+        "Brotherhood Champion",
+        "Brotherhood Techmarine",
+        "Inquisitor",
+        "Inquisitor Coteaz",
+        "Inquisitor Draxus",
+        "Inquisitor Greyfax"
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Servitors": {
+      "Movement": "6\"",
+      "Toughness": "4",
+      "Save": "4+",
+      "Wounds": "1",
+      "Leadership": "8+",
+      "OC": "0",
+      "Invulnerable Save": "6+",
+      "Wargear Options": [
+        "Up to 2 models can each have their Servitor’s servo-arm replaced with one of the following:",
+        "1 heavy bolter and 1 Servitor’s tools",
+        "1 multi-melta and 1 Servitor’s tools",
+        "1 plasma cannon and 1 Servitor’s tools"
+      ],
+      "Abilities": [
+        "Mindlock: While a BROTHERHOOD TECHMARINE model is leading this unit, improve the Ballistic Skill and Weapon Skill characteristics of ranged and melee weapons equipped by SERVITOR models in this unit by 1.",
+        "Retinue: While a BROTHERHOOD TECHMARINE model is leading this unit, models in this unit have the Deep Strike and Teleport Assault abilities."
+      ],
+      "Unit Composition": [
+        "4 Servitors",
+        "Every model is equipped with: Servitor’s servo-arm.",
+        "4 models",
+        "50",
+        "SERVITOR RETINUE",
+        "At the start of the Declare Battle Formations step, this unit can join one other unit from your army that is being led by a BROTHERHOOD TECHMARINE (a unit cannot have more than one SERVITORS unit joined to it). If it does, until the end of the battle, every model in this unit counts as being part of that Bodyguard unit, and that Bodyguard unit’s Starting Strength is increased accordingly."
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "IMPERIUM",
+        "SERVITORS"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Points": [
+        {
+          "Models": "4",
+          "Cost": "50"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "HALLOWED BEACON",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "FIRES OF COVENANT",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "AEGIS ETERNAL",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "REPELLING SPHERE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Purifier-Squad": {
+      "Movement": "6\"",
+      "Toughness": "4",
+      "Save": "2+",
+      "Wounds": "2",
+      "Leadership": "6+",
+      "OC": "1",
+      "Wargear Options": [
+        "For every 5 models in this unit, up to 2 Purifiers can each have their storm bolter and Nemesis force weapon replaced with one of the following:",
+        "1 incinerator and 1 close combat weapon",
+        "1 psilencer and 1 close combat weapon",
+        "1 psycannon and 1 close combat weapon"
+      ],
+      "Abilities": [
+        "CORE: Deep Strike",
+        "FACTION: Teleport Assault",
+        "Sanctity of Purpose: Each time a model in this unit makes an attack, add 1 to the Hit roll if this unit is below its Starting Strength, and add 1 to the Wound roll as well if this unit is Below Half-strength."
+      ],
+      "Unit Composition": [
+        "1 Knight of the Flame",
+        "4-9 Purifiers",
+        "Every model is equipped with: Purifying Flame; storm bolter; Nemesis force weapon.",
+        "5 models",
+        "125"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "PSYKER",
+        "GRENADES",
+        "IMPERIUM",
+        "PURIFIER SQUAD"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Points": [
+        {
+          "Models": "5",
+          "Cost": "125"
+        },
+        {
+          "Models": "10",
+          "Cost": "250"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GRENADE",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HALOED IN SOULFIRE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "DEATH FROM THE WARP",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "PROGNISTICATED ARRIVAL",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – EPIC DEED"
+        },
+        {
+          "Name": "MISTS OF DEIMOS",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "RADIANT STRIKE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "BREACH-SHOCK",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEXBANE WARDS",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED SLAUGHTER",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HALLOWED BEACON",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "FIRES OF COVENANT",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "AEGIS ETERNAL",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "REPELLING SPHERE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "FLAMES OF SANCTITY",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – STRATEGIC PLOY"
+        }
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Brother-captain": {
+      "Movement": "5\"",
+      "Toughness": "5",
+      "Save": "2+",
+      "Wounds": "6",
+      "Leadership": "6+",
+      "OC": "1",
+      "Invulnerable Save": "4+",
+      "Wargear Options": [
+        "This model’s storm bolter can be replaced with one of the following:",
+        "1 incinerator",
+        "1 psilencer",
+        "1 psycannon"
+      ],
+      "Abilities": [
+        "CORE: Deep Strike, Leader",
+        "FACTION: Teleport Assault",
+        "Empyric Amplification (Psychic): While this model is leading a unit, Psychic weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability.",
+        "Focused Mind (Psychic): Each time this model makes an attack with a Psychic weapon, you can re-roll the Wound roll."
+      ],
+      "Unit Composition": [
+        "1 Brother-Captain",
+        "This model is equipped with: storm bolter; Nemesis force weapon.",
+        "1 model",
+        "90",
+        "LEADER",
+        "This model can be attached to the following units:",
+        "Brotherhood Terminator Squad",
+        "Paladin Squad"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "PSYKER",
+        "TERMINATOR",
+        "IMPERIUM",
+        "BROTHER-CAPTAIN"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "SANCTIC CIRCLE",
+          "CP": "2CP",
+          "Source": "BANESLAYER STRIKE – EPIC DEED"
+        },
+        {
+          "Name": "ARMOURED AEGIS",
+          "CP": "1CP",
+          "Source": "BANESLAYER STRIKE – EPIC DEED"
+        },
+        {
+          "Name": "PSYBOLT AMMUNITION",
+          "CP": "1CP",
+          "Source": "BANESLAYER STRIKE – WARGEAR"
+        },
+        {
+          "Name": "RELENTLESS BOARDERS",
+          "CP": "1CP",
+          "Source": "BANESLAYER STRIKE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "HALOED IN SOULFIRE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "DEATH FROM THE WARP",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "PROGNISTICATED ARRIVAL",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – EPIC DEED"
+        },
+        {
+          "Name": "MISTS OF DEIMOS",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "RADIANT STRIKE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TRANSLOCATION",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BREACH-SHOCK",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEXBANE WARDS",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED SLAUGHTER",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "FIRES OF COVENANT",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "AEGIS ETERNAL",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "REPELLING SPHERE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Brother-captain-Stern": {
+      "Movement": "5\"",
+      "Toughness": "5",
+      "Save": "2+",
+      "Wounds": "6",
+      "Leadership": "6+",
+      "OC": "1",
+      "Invulnerable Save": "4+",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Deep Strike, Leader",
+        "FACTION: Teleport Assault",
+        "Exemplar of the Silvered Host: While this model is leading a unit, each time a model in that unit makes a melee attack, on a Critical Wound, the target suffers 1 mortal wound in addition to any normal damage.",
+        "Strands of Fate (Psychic): The first time this model is destroyed, roll one D6 at the end of the phase. On a 2+, set this model back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with its full wounds remaining."
+      ],
+      "Unit Composition": [
+        "1 Brother-Captain Stern – EPIC HERO",
+        "This model is equipped with: storm bolter; Nemesis force sword.",
+        "1 model",
+        "90",
+        "LEADER",
+        "This model can be attached to the following units:",
+        "Brotherhood Terminator Squad",
+        "Paladin Squad"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "EPIC HERO",
+        "PSYKER",
+        "IMPERIUM",
+        "TERMINATOR",
+        "BROTHER-CAPTAIN STERN"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "SANCTIC CIRCLE",
+          "CP": "2CP",
+          "Source": "BANESLAYER STRIKE – EPIC DEED"
+        },
+        {
+          "Name": "ARMOURED AEGIS",
+          "CP": "1CP",
+          "Source": "BANESLAYER STRIKE – EPIC DEED"
+        },
+        {
+          "Name": "PSYBOLT AMMUNITION",
+          "CP": "1CP",
+          "Source": "BANESLAYER STRIKE – WARGEAR"
+        },
+        {
+          "Name": "RELENTLESS BOARDERS",
+          "CP": "1CP",
+          "Source": "BANESLAYER STRIKE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "HALOED IN SOULFIRE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "DEATH FROM THE WARP",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "PROGNISTICATED ARRIVAL",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – EPIC DEED"
+        },
+        {
+          "Name": "MISTS OF DEIMOS",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "RADIANT STRIKE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TRANSLOCATION",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BREACH-SHOCK",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEXBANE WARDS",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED SLAUGHTER",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "FIRES OF COVENANT",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "AEGIS ETERNAL",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "REPELLING SPHERE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Brotherhood-Chaplain": {
+      "Movement": "5\"",
+      "Toughness": "5",
+      "Save": "2+",
+      "Wounds": "5",
+      "Leadership": "5+",
+      "OC": "1",
+      "Invulnerable Save": "4+",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Deep Strike, Leader",
+        "FACTION: Teleport Assault",
+        "Words of Power (Psychic): While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Wound roll.",
+        "Dread Bearing (Aura): While an enemy unit is within 6\" of this model, each time that unit takes a Battle-shock or Leadership test, subtract 1 from that test."
+      ],
+      "Unit Composition": [
+        "1 Brotherhood Chaplain",
+        "This model is equipped with: storm bolter; crozius arcanum.",
+        "1 model",
+        "75",
+        "LEADER",
+        "This model can be attached to the following units:",
+        "Brotherhood Terminator Squad",
+        "Paladin Squad"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "PSYKER",
+        "TERMINATOR",
+        "IMPERIUM",
+        "BROTHERHOOD CHAPLAIN"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "SANCTIC CIRCLE",
+          "CP": "2CP",
+          "Source": "BANESLAYER STRIKE – EPIC DEED"
+        },
+        {
+          "Name": "ARMOURED AEGIS",
+          "CP": "1CP",
+          "Source": "BANESLAYER STRIKE – EPIC DEED"
+        },
+        {
+          "Name": "PSYBOLT AMMUNITION",
+          "CP": "1CP",
+          "Source": "BANESLAYER STRIKE – WARGEAR"
+        },
+        {
+          "Name": "RELENTLESS BOARDERS",
+          "CP": "1CP",
+          "Source": "BANESLAYER STRIKE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "HALOED IN SOULFIRE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "DEATH FROM THE WARP",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "PROGNISTICATED ARRIVAL",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – EPIC DEED"
+        },
+        {
+          "Name": "MISTS OF DEIMOS",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "RADIANT STRIKE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TRANSLOCATION",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BREACH-SHOCK",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEXBANE WARDS",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED SLAUGHTER",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "FIRES OF COVENANT",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "AEGIS ETERNAL",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "REPELLING SPHERE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Brotherhood-Librarian": {
+      "Movement": "5\"",
+      "Toughness": "5",
+      "Save": "2+",
+      "Wounds": "5",
+      "Leadership": "6+",
+      "OC": "1",
+      "Invulnerable Save": "4+",
+      "Wargear Options": [
+        "This model can be equipped with one of the following:",
+        "1 combi-weapon",
+        "1 storm bolter"
+      ],
+      "Abilities": [
+        "CORE: Deep Strike, Leader",
+        "FACTION: Teleport Assault",
+        "Sanctic Hood: While this model is leading a unit, models in that unit have the Feel No Pain 4+ ability against Psychic Attacks.",
+        "Vortex of Doom (Psychic): In your Shooting phase, you can select one enemy unit within 18\" of and visible to this PSYKER(excluding units with the Lone Operative ability that are not part of an Attached unit and are not within 12\" of this PSYKER). If you do, roll one D6: on a 1, this PSYKER’s unit suffers D6 mortal wounds; on a 2-5, that enemy unit suffers 2D3 mortal wounds; on a 6, that enemy unit suffers 2D6 mortal wounds."
+      ],
+      "Unit Composition": [
+        "1 Brotherhood Librarian",
+        "This model is equipped with: Purge Soul; Nemesis force weapon.",
+        "1 model",
+        "120",
+        "LEADER",
+        "This model can be attached to the following units:",
+        "Brotherhood Terminator Squad",
+        "Paladin Squad"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "TERMINATOR",
+        "PSYKER",
+        "IMPERIUM",
+        "BROTHERHOOD LIBRARIAN"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "SANCTIC CIRCLE",
+          "CP": "2CP",
+          "Source": "BANESLAYER STRIKE – EPIC DEED"
+        },
+        {
+          "Name": "ARMOURED AEGIS",
+          "CP": "1CP",
+          "Source": "BANESLAYER STRIKE – EPIC DEED"
+        },
+        {
+          "Name": "PSYBOLT AMMUNITION",
+          "CP": "1CP",
+          "Source": "BANESLAYER STRIKE – WARGEAR"
+        },
+        {
+          "Name": "RELENTLESS BOARDERS",
+          "CP": "1CP",
+          "Source": "BANESLAYER STRIKE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "HALOED IN SOULFIRE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "DEATH FROM THE WARP",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "PROGNISTICATED ARRIVAL",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – EPIC DEED"
+        },
+        {
+          "Name": "MISTS OF DEIMOS",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "RADIANT STRIKE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TRANSLOCATION",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BREACH-SHOCK",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEXBANE WARDS",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED SLAUGHTER",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "FIRES OF COVENANT",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "AEGIS ETERNAL",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "REPELLING SPHERE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Grand-Master": {
+      "Movement": "5\"",
+      "Toughness": "5",
+      "Save": "2+",
+      "Wounds": "7",
+      "Leadership": "6+",
+      "OC": "1",
+      "Invulnerable Save": "4+",
+      "Wargear Options": [
+        "This model’s storm bolter can be replaced with one of the following:",
+        "1 incinerator",
+        "1 psilencer",
+        "1 psycannon"
+      ],
+      "Abilities": [
+        "CORE: Deep Strike, Leader",
+        "FACTION: Teleport Assault",
+        "Master Strategist: Once per battle, one unit from your army with this ability can use it when its unit is targeted with a Stratagem. If it does, reduce the CP cost of that use of that Stratagem by 1CP.",
+        "Might of Purity (Psychic): While this model is leading a unit, you can ignore any or all modifiers to the characteristics of models in that unit and to any roll or test made for models in that unit (excluding modifiers to saving throws)."
+      ],
+      "Unit Composition": [
+        "1 Grand Master",
+        "This model is equipped with: storm bolter; Nemesis force weapon.",
+        "1 model",
+        "95",
+        "LEADER",
+        "This model can be attached to the following units:",
+        "Brotherhood Terminator Squad",
+        "Paladin Squad"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "PSYKER",
+        "GRENADES",
+        "TERMINATOR",
+        "IMPERIUM",
+        "GRAND MASTER"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "SANCTIC CIRCLE",
+          "CP": "2CP",
+          "Source": "BANESLAYER STRIKE – EPIC DEED"
+        },
+        {
+          "Name": "ARMOURED AEGIS",
+          "CP": "1CP",
+          "Source": "BANESLAYER STRIKE – EPIC DEED"
+        },
+        {
+          "Name": "PSYBOLT AMMUNITION",
+          "CP": "1CP",
+          "Source": "BANESLAYER STRIKE – WARGEAR"
+        },
+        {
+          "Name": "RELENTLESS BOARDERS",
+          "CP": "1CP",
+          "Source": "BANESLAYER STRIKE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GRENADE",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "HALOED IN SOULFIRE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "DEATH FROM THE WARP",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "PROGNISTICATED ARRIVAL",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – EPIC DEED"
+        },
+        {
+          "Name": "MISTS OF DEIMOS",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "RADIANT STRIKE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TRANSLOCATION",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BREACH-SHOCK",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEXBANE WARDS",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED SLAUGHTER",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "FIRES OF COVENANT",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "AEGIS ETERNAL",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "REPELLING SPHERE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Grand-Master-Voldus": {
+      "Movement": "5\"",
+      "Toughness": "5",
+      "Save": "2+",
+      "Wounds": "6",
+      "Leadership": "6+",
+      "OC": "1",
+      "Invulnerable Save": "4+",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Deep Strike, Leader",
+        "FACTION: Teleport Assault",
+        "Sanctuary (Psychic): While this model is leading a unit, each time an attack targets that unit, subtract 1 from the Hit roll.",
+        "Hammer Aflame (Psychic): Each time this model’s unit is selected to fight, you can select one enemy unit within Engagement Range of this model’s unit and roll one D6, adding 2 to the result if that unit has the Daemon keyword: on a 4-5, that enemy unit suffers D3 mortal wounds; on a 6+, that enemy unit suffers D3+3 mortal wounds."
+      ],
+      "Unit Composition": [
+        "1 Grand Master Voldus – EPIC HERO",
+        "This model is equipped with: storm bolter; Malleus Argyrum.",
+        "1 model",
+        "95",
+        "LEADER",
+        "This model can be attached to the following units:",
+        "Brotherhood Terminator Squad",
+        "Paladin Squad"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "EPIC HERO",
+        "PSYKER",
+        "TERMINATOR",
+        "IMPERIUM",
+        "GRAND MASTER VOLDUS"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "SANCTIC CIRCLE",
+          "CP": "2CP",
+          "Source": "BANESLAYER STRIKE – EPIC DEED"
+        },
+        {
+          "Name": "ARMOURED AEGIS",
+          "CP": "1CP",
+          "Source": "BANESLAYER STRIKE – EPIC DEED"
+        },
+        {
+          "Name": "PSYBOLT AMMUNITION",
+          "CP": "1CP",
+          "Source": "BANESLAYER STRIKE – WARGEAR"
+        },
+        {
+          "Name": "RELENTLESS BOARDERS",
+          "CP": "1CP",
+          "Source": "BANESLAYER STRIKE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "HALOED IN SOULFIRE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "DEATH FROM THE WARP",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "PROGNISTICATED ARRIVAL",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – EPIC DEED"
+        },
+        {
+          "Name": "MISTS OF DEIMOS",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "RADIANT STRIKE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TRANSLOCATION",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BREACH-SHOCK",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEXBANE WARDS",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED SLAUGHTER",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "FIRES OF COVENANT",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "AEGIS ETERNAL",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "REPELLING SPHERE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Kaldor-Draigo": {
+      "Movement": "5\"",
+      "Toughness": "5",
+      "Save": "2+",
+      "Wounds": "7",
+      "Leadership": "6+",
+      "OC": "1",
+      "Invulnerable Save": "4+",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Deep Strike, Leader",
+        "FACTION: Teleport Assault",
+        "Untouchable Purity: While this model is leading a unit, models in that unit have the Feel No Pain 4+ ability against mortal wounds.",
+        "One With the Warp (Psychic): Once per battle, when this model’s unit declares a charge in the same turn it was set up on the battlefield using the Deep Strike or Teleport Assault ability, add 3 to the Charge roll."
+      ],
+      "Unit Composition": [
+        "1 Kaldor Draigo – EPIC HERO",
+        "This model is equipped with: Scourging; storm bolter; the Titansword.",
+        "1 model",
+        "125",
+        "LEADER",
+        "This model can be attached to the following units:",
+        "Brotherhood Terminator Squad",
+        "Paladin Squad",
+        "SUPREME COMMANDER",
+        "If this model is in your army, it must be your Warlord."
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "EPIC HERO",
+        "PSYKER",
+        "TERMINATOR",
+        "GRENADES",
+        "IMPERIUM",
+        "KALDOR DRAIGO"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "SANCTIC CIRCLE",
+          "CP": "2CP",
+          "Source": "BANESLAYER STRIKE – EPIC DEED"
+        },
+        {
+          "Name": "ARMOURED AEGIS",
+          "CP": "1CP",
+          "Source": "BANESLAYER STRIKE – EPIC DEED"
+        },
+        {
+          "Name": "PSYBOLT AMMUNITION",
+          "CP": "1CP",
+          "Source": "BANESLAYER STRIKE – WARGEAR"
+        },
+        {
+          "Name": "RELENTLESS BOARDERS",
+          "CP": "1CP",
+          "Source": "BANESLAYER STRIKE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GRENADE",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "HALOED IN SOULFIRE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "DEATH FROM THE WARP",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "PROGNISTICATED ARRIVAL",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – EPIC DEED"
+        },
+        {
+          "Name": "MISTS OF DEIMOS",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "RADIANT STRIKE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TRANSLOCATION",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BREACH-SHOCK",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEXBANE WARDS",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED SLAUGHTER",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "FIRES OF COVENANT",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "AEGIS ETERNAL",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "REPELLING SPHERE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Brotherhood-Champion": {
+      "Movement": "6\"",
+      "Toughness": "4",
+      "Save": "2+",
+      "Wounds": "4",
+      "Leadership": "6+",
+      "OC": "1",
+      "Invulnerable Save": "4+",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Deep Strike, Fights First, Leader",
+        "FACTION: Teleport Assault",
+        "Martial Fury: Each time this model makes a melee attack that targets a CHARACTER unit, you can re-roll the Hit roll and you can re-roll the Wound roll.",
+        "Ethereal Castigation (Psychic): While this model is leading a unit, models in that unit have the Fights First ability."
+      ],
+      "Unit Composition": [
+        "1 Brotherhood Champion",
+        "This model is equipped with: storm bolter; Nemesis force weapon.",
+        "1 model",
+        "80",
+        "LEADER",
+        "This model can be attached to the following units:",
+        "Purgation Squad",
+        "Strike Squad"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "PSYKER",
+        "IMPERIUM",
+        "BROTHERHOOD CHAMPION"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "HALOED IN SOULFIRE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "DEATH FROM THE WARP",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "PROGNISTICATED ARRIVAL",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – EPIC DEED"
+        },
+        {
+          "Name": "MISTS OF DEIMOS",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "RADIANT STRIKE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TRANSLOCATION",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BREACH-SHOCK",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEXBANE WARDS",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED SLAUGHTER",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HALLOWED BEACON",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "FIRES OF COVENANT",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "AEGIS ETERNAL",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "REPELLING SPHERE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Brotherhood-Techmarine": {
+      "Movement": "5\"",
+      "Toughness": "4",
+      "Save": "2+",
+      "Wounds": "4",
+      "Leadership": "6+",
+      "OC": "1",
+      "Wargear Options": [
+        "This model’s boltgun can be replaced with 1 bolt pistol."
+      ],
+      "Abilities": [
+        "CORE: Deep Strike, Leader",
+        "FACTION: Teleport Assault",
+        "Awaken the Machine Spirit: In your Command phase, you can select one friendly GREY KNIGHTS VEHICLE model within 6\" of this model. Until the start of your next Command phase, each time that VEHICLE model makes an attack, add 1 to the Hit roll.",
+        "Omnissiah’s Blessing: In your Command phase, you can select one friendly GREY KNIGHTS VEHICLE model within 3\" of this model. That VEHICLE model regains up to D3 lost wounds. Each model can only be selected for this ability once per turn.",
+        "Techmarine: While this model is within 3\" of one or more friendly GREY KNIGHTS VEHICLE units, unless it is leading a unit, this model has the Lone Operative ability."
+      ],
+      "Unit Composition": [
+        "1 Brotherhood Techmarine",
+        "This model is equipped with: boltgun; flamer; plasma cutter; Omnissian power axe; servo-arms.",
+        "1 model",
+        "70",
+        "LEADER",
+        "This model can be attached to the following units:",
+        "Servitors",
+        "Strike Squad"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "PSYKER",
+        "IMPERIUM",
+        "BROTHERHOOD TECHMARINE"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "HALOED IN SOULFIRE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "DEATH FROM THE WARP",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "PROGNISTICATED ARRIVAL",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – EPIC DEED"
+        },
+        {
+          "Name": "MISTS OF DEIMOS",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "RADIANT STRIKE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TRANSLOCATION",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BREACH-SHOCK",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEXBANE WARDS",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED SLAUGHTER",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HALLOWED BEACON",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "FIRES OF COVENANT",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "AEGIS ETERNAL",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "REPELLING SPHERE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Grey-Knights-Venerable-Dreadnought": {
+      "Movement": "6\"",
+      "Toughness": "9",
+      "Save": "2+",
+      "Wounds": "8",
+      "Leadership": "6+",
+      "OC": "3",
+      "Wargear Options": [
+        "This model’s assault cannon can be replaced with one of the following:",
+        "1 heavy plasma cannon",
+        "1 multi-melta",
+        "1 twin lascannon",
+        "This model’s storm bolter and Dreadnought combat weapon can be replaced with one of the following:",
+        "1 missile launcher and 1 armoured feet",
+        "1 heavy flamer and 1 Dreadnought combat weapon"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise 1",
+        "Wisdom of the Ancients (Aura): While a friendly GREY KNIGHTS INFANTRY unit is within 6\" of this model, each time a model in that unit makes an attack, re-roll a Hit roll of 1 and re-roll a Wound roll of 1."
+      ],
+      "Unit Composition": [
+        "1 Venerable Dreadnought",
+        "This model is equipped with: assault cannon; storm bolter; Dreadnought combat weapon.",
+        "1 model",
+        "155"
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "PSYKER",
+        "SMOKE",
+        "IMPERIUM",
+        "VENERABLE DREADNOUGHT"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SMOKESCREEN",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HALOED IN SOULFIRE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "DEATH FROM THE WARP",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "PROGNISTICATED ARRIVAL",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – EPIC DEED"
+        },
+        {
+          "Name": "MISTS OF DEIMOS",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "RADIANT STRIKE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Castellan-Crowe": {
+      "Movement": "6\"",
+      "Toughness": "4",
+      "Save": "2+",
+      "Wounds": "5",
+      "Leadership": "6+",
+      "OC": "1",
+      "Invulnerable Save": "4+",
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Deep Strike, Leader",
+        "FACTION: Teleport Assault",
+        "Champion of the Order of Purifiers (Psychic): While this model is leading a unit, add 1 to the Attacks characteristic of that unit’s Purifying Flame.",
+        "Foresight of the Prognosticars (Psychic): Once per turn, the first time a saving throw is failed for this model, change the Damage characteristic of that attack to 0."
+      ],
+      "Unit Composition": [
+        "1 Castellan Crowe – EPIC HERO",
+        "This model is equipped with: Purifying Flame; storm bolter; Black Blade of Antwyr.",
+        "1 model",
+        "90",
+        "LEADER",
+        "This model can be attached to the following unit:",
+        "Purifier Squad"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "EPIC HERO",
+        "PSYKER",
+        "IMPERIUM",
+        "CASTELLAN CROWE"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "HALOED IN SOULFIRE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "DEATH FROM THE WARP",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "PROGNISTICATED ARRIVAL",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – EPIC DEED"
+        },
+        {
+          "Name": "MISTS OF DEIMOS",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "RADIANT STRIKE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TRANSLOCATION",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BREACH-SHOCK",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEXBANE WARDS",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED SLAUGHTER",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HALLOWED BEACON",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "FIRES OF COVENANT",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "AEGIS ETERNAL",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "REPELLING SPHERE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Grand-Master-In-Nemesis-Dreadknight": {
+      "Movement": "8\"",
+      "Toughness": "8",
+      "Save": "2+",
+      "Wounds": "13",
+      "Leadership": "6+",
+      "OC": "4",
+      "Invulnerable Save": "4+",
+      "Wargear Options": [
+        "This model can be equipped with up to two of the following, but cannot take duplicates:",
+        "1 gatling psilencer",
+        "1 heavy incinerator",
+        "1 heavy psycannon",
+        "This model’s dreadfists can be replaced with one of the following:",
+        "1 Nemesis daemon greathammer",
+        "1 Nemesis greatsword"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D3, Deep Strike",
+        "FACTION: Teleport Assault",
+        "Heroism’s Favour: Each time you target this model with a Stratagem, it only costs 1CP to use, even if the CP cost is higher.",
+        "Surge of Wrath (Psychic): Once per battle round, in the Fight phase, one model from your army with this ability can use it before resolving its attacks. If it does, until the end of the phase, each time that model makes an attack that targets a MONSTER or VEHICLE unit, you can re-roll the Hit roll, you can re-roll the Wound roll and you can re-roll the Damage roll."
+      ],
+      "Unit Composition": [
+        "1 Grand Master in Nemesis Dreadknight",
+        "This model is equipped with: dreadfists.",
+        "1 model",
+        "210",
+        "DAMAGED: 1-4 WOUNDS REMAINING",
+        "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "CHARACTER",
+        "WALKER",
+        "PSYKER",
+        "IMPERIUM",
+        "GRAND MASTER IN NEMESIS DREADKNIGHT"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "HALOED IN SOULFIRE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "DEATH FROM THE WARP",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "PROGNISTICATED ARRIVAL",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – EPIC DEED"
+        },
+        {
+          "Name": "MISTS OF DEIMOS",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "RADIANT STRIKE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Grey-Knights-Razorback": {
+      "Movement": "12\"",
+      "Toughness": "9",
+      "Save": "3+",
+      "Wounds": "10",
+      "Leadership": "6+",
+      "OC": "2",
+      "Wargear Options": [
+        "This model can be equipped with 1 hunter-killer missile.",
+        "This model can be equipped with 1 storm bolter.",
+        "This model’s twin heavy bolter can be replaced with one of the following:",
+        "1 twin assault cannon",
+        "1 twin lascannon"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D3",
+        "Fire Support: In your Shooting phase, after this model has shot, select one enemy unit it scored one or more hits against this phase. Until the end of the phase, each time a friendly model that disembarked from this Transport this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll."
+      ],
+      "Unit Composition": [
+        "1 Razorback",
+        "This model is equipped with: twin heavy bolter; armoured tracks.",
+        "1 model",
+        "85",
+        "TRANSPORT",
+        "This model has a transport capacity of 6 GREY KNIGHTS INFANTRY models. It cannot transport TERMINATOR models."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "TRANSPORT",
+        "DEDICATED TRANSPORT",
+        "SMOKE",
+        "IMPERIUM",
+        "RAZORBACK"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SMOKESCREEN",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Grey-Knights-Rhino": {
+      "Movement": "12\"",
+      "Toughness": "9",
+      "Save": "3+",
+      "Wounds": "10",
+      "Leadership": "6+",
+      "OC": "2",
+      "Wargear Options": [
+        "This model can be equipped with 1 additional storm bolter.",
+        "This model can be equipped with 1 hunter-killer missile."
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D3, Firing Deck 2",
+        "Self Repair: At the start of your Command phase, this model regains 1 lost wound."
+      ],
+      "Unit Composition": [
+        "1 Rhino",
+        "This model is equipped with: storm bolter; armoured tracks.",
+        "1 model",
+        "75",
+        "TRANSPORT",
+        "This model has a transport capacity of 12 GREY KNIGHTS INFANTRY models. It cannot transport TERMINATOR models."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "TRANSPORT",
+        "DEDICATED TRANSPORT",
+        "SMOKE",
+        "IMPERIUM",
+        "RHINO"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SMOKESCREEN",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Grey-Knights-Relic-Razorback": {
+      "Movement": "12\"",
+      "Toughness": "9",
+      "Save": "3+",
+      "Wounds": "10",
+      "Leadership": "6+",
+      "OC": "2",
+      "Wargear Options": [
+        "This model can be equipped with 1 hunter-killer missile.",
+        "This model can be equipped with 1 storm bolter.",
+        "This model’s twin heavy bolter can be replaced with one of the following:",
+        "1 multi-melta",
+        "1 twin assault cannon",
+        "1 twin lascannon",
+        "1 twin psycannon"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D3",
+        "Fire Support: In your Shooting phase, after this model has shot, select one enemy unit it scored one or more hits against this phase. Until the end of the phase, each time a friendly model that disembarked from this Transport this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll."
+      ],
+      "Unit Composition": [
+        "1 Grey Knights Relic Razorback",
+        "This model is equipped with: twin heavy bolter; armoured tracks.",
+        "1 model",
+        "95",
+        "TRANSPORT",
+        "This model has a transport capacity of 6 GREY KNIGHTS INFANTRY models. It cannot transport TERMINATOR models."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "SMOKE",
+        "TRANSPORT",
+        "DEDICATED TRANSPORT",
+        "IMPERIUM",
+        "RELIC RAZORBACK"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SMOKESCREEN",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Grey-Knights-Land-Raider": {
+      "Movement": "10\"",
+      "Toughness": "12",
+      "Save": "2+",
+      "Wounds": "16",
+      "Leadership": "6+",
+      "OC": "5",
+      "Wargear Options": [
+        "This model can be equipped with 1 hunter-killer missile.",
+        "This model can be equipped with 1 multi-melta.",
+        "This model can be equipped with 1 storm bolter."
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6",
+        "Assault Ramp: Each time a unit disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn."
+      ],
+      "Unit Composition": [
+        "1 Land Raider",
+        "This model is equipped with: 2 godhammer lascannons; twin heavy bolter; armoured tracks.",
+        "1 model",
+        "240",
+        "DAMAGED: 1-5 WOUNDS REMAINING",
+        "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
+        "TRANSPORT",
+        "This model has a transport capacity of 12 GREY KNIGHTS INFANTRY models. Each TERMINATOR model takes up the space of 2 models."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "TRANSPORT",
+        "SMOKE",
+        "IMPERIUM",
+        "LAND RAIDER"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SMOKESCREEN",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Grey-Knights-Land-Raider-Crusader": {
+      "Movement": "12\"",
+      "Toughness": "12",
+      "Save": "2+",
+      "Wounds": "16",
+      "Leadership": "6+",
+      "OC": "5",
+      "Wargear Options": [
+        "This model can be equipped with 1 hunter-killer missile.",
+        "This model can be equipped with 1 multi-melta.",
+        "This model can be equipped with 1 storm bolter."
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6",
+        "Assault Ramp: Each time a unit disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn."
+      ],
+      "Unit Composition": [
+        "1 Land Raider Crusader",
+        "This model is equipped with: 2 hurricane bolters; twin assault cannon; armoured tracks.",
+        "1 model",
+        "220",
+        "DAMAGED: 1-5 WOUNDS REMAINING",
+        "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
+        "TRANSPORT",
+        "This model has a transport capacity of 16 GREY KNIGHTS INFANTRY models. Each TERMINATOR model takes up the space of 2 models."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "TRANSPORT",
+        "SMOKE",
+        "GRENADES",
+        "IMPERIUM",
+        "LAND RAIDER",
+        "CRUSADER"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GRENADE",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "SMOKESCREEN",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Grey-Knights-Land-Raider-Redeemer": {
+      "Movement": "12\"",
+      "Toughness": "12",
+      "Save": "2+",
+      "Wounds": "16",
+      "Leadership": "6+",
+      "OC": "5",
+      "Wargear Options": [
+        "This model can be equipped with 1 hunter-killer missile.",
+        "This model can be equipped with 1 multi-melta.",
+        "This model can be equipped with 1 storm bolter."
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6",
+        "Assault Ramp: Each time a unit disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn."
+      ],
+      "Unit Composition": [
+        "1 Land Raider Redeemer",
+        "This model is equipped with: 2 flamestorm cannons; twin assault cannon; armoured tracks.",
+        "1 model",
+        "285",
+        "DAMAGED: 1-5 WOUNDS REMAINING",
+        "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
+        "TRANSPORT",
+        "This model has a transport capacity of 14 GREY KNIGHTS INFANTRY models. Each TERMINATOR model takes up the space of 2 models."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "TRANSPORT",
+        "SMOKE",
+        "GRENADES",
+        "IMPERIUM",
+        "LAND RAIDER",
+        "REDEEMER"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GRENADE",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "SMOKESCREEN",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Grey-Knights-Stormhawk-Interceptor": {
+      "Movement": "20+\"",
+      "Toughness": "9",
+      "Save": "3+",
+      "Wounds": "10",
+      "Leadership": "6+",
+      "OC": "0",
+      "Wargear Options": [
+        "This model’s las-talon can be replaced with 1 icarus stormcannon.",
+        "This model’s skyhammer missile launcher can be replaced with one of the following:",
+        "1 twin heavy bolter",
+        "1 typhoon missile launcher"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D3, Hover",
+        "Interceptor: Each time this model makes a ranged attack that targets a unit that can Fly, add 1 to the Hit roll."
+      ],
+      "Unit Composition": [
+        "1 Stormhawk Interceptor",
+        "This model is equipped with: las-talon; skyhammer missile launcher; twin assault cannon; armoured hull.",
+        "1 model",
+        "160"
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "AIRCRAFT",
+        "FLY",
+        "SMOKE",
+        "IMPERIUM",
+        "STORMHAWK INTERCEPTOR"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SMOKESCREEN",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Grey-Knights-Stormraven-Gunship": {
+      "Movement": "20+\"",
+      "Toughness": "10",
+      "Save": "3+",
+      "Wounds": "14",
+      "Leadership": "6+",
+      "OC": "0",
+      "Wargear Options": [
+        "This model can be equipped with 2 hurricane bolters.",
+        "This model’s twin assault cannon can be replaced with one of the following:",
+        "1 twin heavy plasma cannon",
+        "1 twin lascannon",
+        "This model’s typhoon missile launcher can be replaced with one of the following:",
+        "1 twin heavy bolter",
+        "1 twin multi-melta"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6, Hover",
+        "Armoured Resilience: Each time an attack is allocated to this model, subtract 1 from the Damage characteristic of that attack."
+      ],
+      "Unit Composition": [
+        "1 Stormraven Gunship",
+        "This model is equipped with: 2 stormstrike missile launchers; twin assault cannon; typhoon missile launcher; armoured hull.",
+        "1 model",
+        "280",
+        "DAMAGED: 1-5 WOUNDS REMAINING",
+        "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
+        "TRANSPORT",
+        "This model has a transport capacity of 12 GREY KNIGHTS INFANTRY models and 1 GREY KNIGHTS VENERABLE DREADNOUGHT model. Each TERMINATOR model takes up the space of 2 models."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "AIRCRAFT",
+        "TRANSPORT",
+        "FLY",
+        "IMPERIUM",
+        "STORMRAVEN GUNSHIP"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Grey-Knights-Stormtalon-Gunship": {
+      "Movement": "20+\"",
+      "Toughness": "8",
+      "Save": "3+",
+      "Wounds": "10",
+      "Leadership": "6+",
+      "OC": "0",
+      "Wargear Options": [
+        "This model’s skyhammer missile launcher can be replaced with one of the following:",
+        "1 twin heavy bolter",
+        "1 twin lascannon",
+        "1 typhoon missile launcher"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D3, Hover",
+        "Strafing Run: Each time this model makes a ranged attack that targets a unit that cannot Fly, add 1 to the Hit roll."
+      ],
+      "Unit Composition": [
+        "1 Stormtalon Gunship",
+        "This model is equipped with: skyhammer missile launcher; twin assault cannon; armoured hull.",
+        "1 model",
+        "170"
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "AIRCRAFT",
+        "FLY",
+        "IMPERIUM",
+        "STORMTALON GUNSHIP"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Interceptor-Squad": {
+      "Movement": "12\"",
+      "Toughness": "4",
+      "Save": "2+",
+      "Wounds": "2",
+      "Leadership": "6+",
+      "OC": "1",
+      "Wargear Options": [
+        "For every 5 models in this unit, 1 Interceptor’s storm bolter and Nemesis force weapon can be replaced with one of the following:",
+        "1 incinerator and 1 close combat weapon",
+        "1 psilencer and 1 close combat weapon",
+        "1 psycannon and 1 close combat weapon"
+      ],
+      "Abilities": [
+        "CORE: Deep Strike",
+        "FACTION: Teleport Assault",
+        "Personal Teleporters: In your Shooting phase, after this unit has shot, if it is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\" as if it were your Movement phase. If it does, until the end of the turn, this unit is not eligible to declare a charge."
+      ],
+      "Unit Composition": [
+        "1 Interceptor Justicar",
+        "4-9 Interceptors",
+        "Every model is equipped with: storm bolter; Nemesis force weapon.",
+        "5 models",
+        "125"
+      ],
+      "Keywords": [
+        "FLY",
+        "GRENADES",
+        "IMPERIUM",
+        "INFANTRY",
+        "INTERCEPTOR SQUAD",
+        "PSYKER"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Points": [
+        {
+          "Models": "5",
+          "Cost": "125"
+        },
+        {
+          "Models": "10",
+          "Cost": "250"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GRENADE",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HALOED IN SOULFIRE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "DEATH FROM THE WARP",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "PROGNISTICATED ARRIVAL",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – EPIC DEED"
+        },
+        {
+          "Name": "MISTS OF DEIMOS",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "RADIANT STRIKE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "TRANSLOCATION",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BREACH-SHOCK",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEXBANE WARDS",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED SLAUGHTER",
+          "CP": "1CP",
+          "Source": "VOID PURGE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HALLOWED BEACON",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "FIRES OF COVENANT",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "AEGIS ETERNAL",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "REPELLING SPHERE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Nemesis-Dreadknight": {
+      "Movement": "8\"",
+      "Toughness": "8",
+      "Save": "2+",
+      "Wounds": "13",
+      "Leadership": "6+",
+      "OC": "4",
+      "Invulnerable Save": "4+",
+      "Wargear Options": [
+        "This model can be equipped with up to two of the following, but cannot take duplicates:",
+        "1 gatling psilencer",
+        "1 heavy incinerator",
+        "1 heavy psycannon",
+        "This model’s dreadfists can be replaced with one of the following:",
+        "1 Nemesis daemon greathammer",
+        "1 Nemesis greatsword"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D3, Deep Strike",
+        "FACTION: Teleport Assault",
+        "Empyric Reprisal (Psychic): This model is eligible to shoot and declare a charge in a turn in which it Advanced or Fell Back."
+      ],
+      "Unit Composition": [
+        "1 Nemesis Dreadknight",
+        "This model is equipped with: dreadfists.",
+        "1 model",
+        "210",
+        "DAMAGED: 1-4 WOUNDS REMAINING",
+        "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "PSYKER",
+        "IMPERIUM",
+        "NEMESIS DREADKNIGHT"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HALOED IN SOULFIRE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "DEATH FROM THE WARP",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "PROGNISTICATED ARRIVAL",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – EPIC DEED"
+        },
+        {
+          "Name": "MISTS OF DEIMOS",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "RADIANT STRIKE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Grey-Knights-Thunderhawk-Gunship": {
+      "Movement": "20+\"",
+      "Toughness": "12",
+      "Save": "2+",
+      "Wounds": "30",
+      "Leadership": "6+",
+      "OC": "0",
+      "Wargear Options": [
+        "This model’s Thunderhawk cluster bombs can be replaced with 1 hellstrike missile battery.",
+        "This model’s Thunderhawk heavy cannon can be replaced with 1 turbo-laser destructor."
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6+2, Hover",
+        "Aerial Assault: Each time a unit with the Deep Strike ability disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn.",
+        "WARGEAR ABILITIES",
+        "Thunderhawk Cluster Bombs: Each time the bearer ends a Normal move, you can select one enemy unit it moved over during that move and roll six D6: for each 3+, that unit suffers 1 mortal wound."
+      ],
+      "Unit Composition": [
+        "1 Grey Knights Thunderhawk Gunship",
+        "This model is equipped with: 2 lascannons; Thunderhawk heavy cannon; 4 twin heavy bolters; armoured hull; Thunderhawk cluster bombs.",
+        "1 model",
+        "805",
+        "DAMAGED: 1-10 WOUNDS REMAINING",
+        "While this model has 1-10 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
+        "TRANSPORT",
+        "This model has a transport capacity of 30 GREY KNIGHTS INFANTRY models. Each TERMINATOR model takes up the space of 2 models."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "TITANIC",
+        "FLY",
+        "AIRCRAFT",
+        "TRANSPORT",
+        "IMPERIUM",
+        "THUNDERHAWK GUNSHIP"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Land-Raider-Banisher": {
+      "Movement": "10\"",
+      "Toughness": "12",
+      "Save": "2+",
+      "Wounds": "16",
+      "Leadership": "6+",
+      "OC": "5",
+      "Wargear Options": [
+        "This model can be equipped with 1 hunter-killer missile.",
+        "This model can be equipped with 1 multi-melta.",
+        "This model can be equipped with 1 storm bolter."
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise D6",
+        "Assault Ramp: Each time a unit disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn."
+      ],
+      "Unit Composition": [
+        "1 Land Raider Banisher",
+        "This model is equipped with: 2 heavy incinerators; twin psycannon; armoured tracks.",
+        "1 model",
+        "255",
+        "DAMAGED: 1-5 WOUNDS REMAINING",
+        "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
+        "TRANSPORT",
+        "This model has a transport capacity of 12 GREY KNIGHTS INFANTRY models. Each TERMINATOR model takes up the space of 2 models."
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "TRANSPORT",
+        "SMOKE",
+        "IMPERIUM",
+        "BANISHER",
+        "LAND RAIDER"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SMOKESCREEN",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    },
+    "Grey-Knights-Dreadnought": {
+      "Movement": "6\"",
+      "Toughness": "9",
+      "Save": "2+",
+      "Wounds": "8",
+      "Leadership": "6+",
+      "OC": "3",
+      "Wargear Options": [
+        "This model’s assault cannon can be replaced with one of the following:",
+        "1 heavy plasma cannon",
+        "1 multi-melta",
+        "1 twin lascannon",
+        "This model’s assault cannon, storm bolter and Dreadnought combat weapon can be replaced with one of the following:",
+        "1 heavy psycannon, 1 storm bolter and 1 Nemesis doomglaive",
+        "1 heavy psycannon, 1 incinerator and 1 Nemesis doomglaive",
+        "This model’s storm bolter and Dreadnought combat weapon can be replaced with one of the following:",
+        "1 missile launcher and 1 armoured feet",
+        "1 heavy flamer and 1 Dreadnought combat weapon"
+      ],
+      "Abilities": [
+        "CORE: Deadly Demise 1",
+        "Wisdom of the Ancients (Aura): While a friendly GREY KNIGHTS INFANTRY unit is within 6\" of this model, each time a model in that unit makes an attack, re-roll a Hit roll of 1 and re-roll a Wound roll of 1."
+      ],
+      "Unit Composition": [
+        "1 Grey Knights Dreadnought",
+        "This model is equipped with: assault cannon; storm bolter; Dreadnought combat weapon.",
+        "1 model",
+        "160"
+      ],
+      "Keywords": [
+        "VEHICLE",
+        "WALKER",
+        "PSYKER",
+        "SMOKE",
+        "IMPERIUM",
+        "DREADNOUGHT"
+      ],
+      "Faction Keywords": [
+        "GREY KNIGHTS"
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SMOKESCREEN",
+          "CP": "1CP",
+          "Source": "CORE – WARGEAR"
+        },
+        {
+          "Name": "TANK SHOCK",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HALOED IN SOULFIRE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "DEATH FROM THE WARP",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "PROGNISTICATED ARRIVAL",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – EPIC DEED"
+        },
+        {
+          "Name": "MISTS OF DEIMOS",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TRUESILVER ARMOUR",
+          "CP": "1CP",
+          "Source": "TELEPORT STRIKE FORCE – WARGEAR"
+        },
+        {
+          "Name": "RADIANT STRIKE",
+          "CP": "2CP",
+          "Source": "TELEPORT STRIKE FORCE – BATTLE TACTIC"
+        },
+        {
+          "Name": "SANCTIFIED KILL ZONE",
+          "CP": "1CP",
+          "Source": "WARPBANE TASK FORCE – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Teleport Shunt"
+    }
+  }
+}
