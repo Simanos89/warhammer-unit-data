@@ -7,6 +7,37 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Gauss blaster [LETHAL HITS]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Tesla carbine [ASSAULT, SUSTAINED HITS 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "All models in this unit can each have their gauss blaster replaced with 1 tesla carbine."
       ],
@@ -191,6 +222,37 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Gauss flayer [LETHAL HITS, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Gauss reaper [LETHAL HITS]",
+          "Range": "12\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their gauss flayer replaced with 1 gauss reaper."
       ],
@@ -375,6 +437,28 @@
       "Wounds": "4",
       "Leadership": "6+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Relic gauss blaster [LETHAL HITS, RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Reanimation Protocols",
@@ -565,6 +649,27 @@
       "Wounds": "2",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Hyperphase sword",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Warscythe [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "All models in this unit can each have their warscythe replaced with 1 hyperphase sword and 1 dispersion shield."
       ],
@@ -754,6 +859,28 @@
       "Wounds": "3",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Gauss cannon [LETHAL HITS]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "FACTION: Reanimation Protocols",
         "Hard-wired for Destruction: Each time a model in this unit makes a ranged attack that targets the closest eligible enemy unit, re-roll a Hit roll of 1. If the target of that attack is within range of an objective marker your opponent controls, you can re-roll the Hit roll instead."
@@ -938,6 +1065,37 @@
       "Wounds": "4",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Enmitic exterminator [HEAVY, RAPID FIRE 6, SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Gauss destructor [HEAVY, LETHAL HITS]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "14",
+          "Ap": "-4",
+          "D": "6"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their gauss destructor replaced with 1 enmitic exterminator."
       ],
@@ -1121,6 +1279,18 @@
       "Wounds": "3",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Skorpekh hyperphase weapons",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "For every 3 models in this unit, this unit can have 1 Plasmacyte."
       ],
@@ -1336,6 +1506,46 @@
       "Leadership": "8+",
       "OC": "2",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Particle caster [DEVASTATING WOUNDS, PISTOL]",
+          "Range": "12\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Transdimensional beamer",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Vicious claws",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Whip coils",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each be equipped with one of the following:",
         "1 particle caster",
@@ -1503,6 +1713,37 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Enmitic annihilator [RAPID FIRE 2]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Flensing claw",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "2+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Hyperphase harvester",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "10",
+          "Ap": "-3",
+          "D": "3"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Reanimation Protocols",
@@ -1739,6 +1980,28 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Staff of light",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Staff of light",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Reanimation Protocols",
@@ -1912,6 +2175,28 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Aeonstave [BLAST]",
+          "Range": "18\"",
+          "A": "D6",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Aeonstave",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Reanimation Protocols",
@@ -2135,6 +2420,37 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Gauntlet of Fire [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Staff of the Destroyer",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "2+",
+          "S": "6",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Staff of the Destroyer [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "6",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Reanimation Protocols",
@@ -2329,6 +2645,18 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Staff of Tomorrow [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-3",
+          "D": "D3"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Reanimation Protocols",
@@ -2549,6 +2877,55 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Staff of light",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "2+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Tachyon arrow [ONE SHOT]",
+          "Range": "72\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "16",
+          "Ap": "-5",
+          "D": "D6+2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Overlord’s blade [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Staff of light",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Voidscythe [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "3"
+        }
+      ],
       "Wargear Options": [
         "This model’s tachyon arrow and Overlord’s blade can be replaced with one of the following:",
         "1 staff of light",
@@ -2750,6 +3127,18 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Overlord's blade [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Reanimation Protocols",
@@ -2940,6 +3329,28 @@
       "Wounds": "4",
       "Leadership": "6+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Plasmic lance",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Plasmic lance",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "7",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Reanimation Protocols",
@@ -3162,6 +3573,28 @@
       "Wounds": "4",
       "Leadership": "6+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Abyssal lance",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-3",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Abyssal lance",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "-3",
+          "D": "3"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Reanimation Protocols",
@@ -3384,6 +3817,28 @@
       "Wounds": "4",
       "Leadership": "6+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Staff of light",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Staff of light",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Reanimation Protocols",
@@ -3609,6 +4064,18 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Empathic Obliterator [SUSTAINED HITS D3]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "7",
+          "Ap": "0",
+          "D": "D3"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Reanimation Protocols",
@@ -3798,6 +4265,28 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Tachyon arrow [ONE SHOT]",
+          "Range": "72\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "16",
+          "Ap": "-5",
+          "D": "D6+2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Warscythe [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -3972,6 +4461,37 @@
       "Wounds": "4",
       "Leadership": "6+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Staff of light",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Staff of light",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Lord’s blade [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s staff of light can be replaced with 1 Lord’s blade.",
         "This model can be equipped with 1 resurrection orb."
@@ -4150,6 +4670,18 @@
       "Wounds": "5",
       "Leadership": "6+",
       "OC": "1",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Warscythe [DEVASTATING WOUNDS, PRECISION]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Reanimation Protocols",
@@ -4318,6 +4850,46 @@
       "Wounds": "22",
       "Leadership": "7+",
       "OC": "8",
+      "Ranged Weapons": [
+        {
+          "Name": "Death ray [SUSTAINED HITS D3]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-4",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Gauss flux arc [LETHAL HITS, RAPID FIRE 3]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Particle whip [BLAST, DEVASTATING WOUNDS]",
+          "Range": "24\"",
+          "A": "3D6",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Portal of exile",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
       "Wargear Options": [
         "This model’s 4 gauss flux arcs can be replaced with 4 death rays."
       ],
@@ -4450,6 +5022,28 @@
       "Wounds": "24",
       "Leadership": "7+",
       "OC": "8",
+      "Ranged Weapons": [
+        {
+          "Name": "Tesla sphere [ANTI-FLY 4+, SUSTAINED HITS 2]",
+          "Range": "24\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured bulk",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D6, Deep Strike",
         "FACTION: Reanimation Protocols",
@@ -4575,6 +5169,55 @@
       "Leadership": "7+",
       "OC": "8",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Tesla spheres [SUSTAINED HITS 2]",
+          "Range": "24\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Antimatter Meteor [BLAST, DEVASTATING WOUNDS, INDIRECT FIRE, C'TAN POWER]",
+          "Range": "24\"",
+          "A": "D6+3",
+          "Bs": "3+",
+          "S": "10",
+          "Ap": "-3",
+          "D": "3"
+        },
+        {
+          "Name": "Cosmic Fire [IGNORES COVER, DEVASTATING WOUNDS, TORRENT, C'TAN POWER]",
+          "Range": "18\"",
+          "A": "3D6",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Time’s Arrow [ANTI-CHARACTER 4+, DEVASTATING WOUNDS, PRECISION, C'TAN POWER]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "3",
+          "Ap": "-2",
+          "D": "6"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured bulk",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D6+3",
         "FACTION: Reanimation Protocols",
@@ -4699,6 +5342,36 @@
       "Wounds": "10",
       "Leadership": "7+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Focused death ray [SUSTAINED HITS 2]",
+          "Range": "36\"",
+          "A": "6",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Gauss exterminator [LETHAL HITS]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "6"
+        },
+        {
+          "Name": "Heat cannon [MELTA 4]",
+          "Range": "36\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        }
+      ],
+      "Melee Weapons": [],
       "Wargear Options": [
         "This model’s gauss exterminator can be replaced with one of the following:",
         "1 focused death ray",
@@ -4835,6 +5508,18 @@
       "Wounds": "4",
       "Leadership": "8+",
       "OC": "0",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Feeder mandibles [LETHAL HITS]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "5+",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "FACTION: Reanimation Protocols",
         "Self-destruction: At the start of the Fight phase, if this unit is within Engagement Range of one or more enemy units, you can select one model in this unit to destroy. If you do, select one enemy unit within Engagement Range of that model and roll one D6, adding 1 to the result if that unit is a VEHICLE. On a 2-5, that unit suffers D3 mortal wounds; on a 6+, that unit suffers 3 mortal wounds.",
@@ -5007,6 +5692,37 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Staff of light",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "2+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Lord’s blade [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Staff of light",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s staff of light can be replaced with 1 Lord’s blade.",
         "This model can be equipped with one of the following:",
@@ -5214,6 +5930,28 @@
       "Leadership": "6+",
       "OC": "6",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Cosmic insanity [ANTI-CHARACTER 4+, DEVASTATING WOUNDS, PRECISION]",
+          "Range": "18\"",
+          "A": "6",
+          "Bs": "2+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Golden fists",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "2+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "3"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D6, Stealth, Feel No Pain 5+",
         "FACTION: Reanimation Protocols",
@@ -5350,6 +6088,37 @@
       "Leadership": "6+",
       "OC": "4",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Gaze of death",
+          "Range": "18\"",
+          "A": "D3",
+          "Bs": "2+",
+          "S": "12",
+          "Ap": "-2",
+          "D": "D6+3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Scythe of the Nightbringer – strike [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "14",
+          "Ap": "-4",
+          "D": "D6+2"
+        },
+        {
+          "Name": "Scythe of the Nightbringer – sweep",
+          "Range": "Melee",
+          "A": "14",
+          "Ws": "2+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D6, Feel No Pain 5+",
         "FACTION: Reanimation Protocols",
@@ -5486,6 +6255,55 @@
       "Leadership": "6+",
       "OC": "4",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Spear of the Void Dragon [ANTI-VEHICLE 2+]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "-3",
+          "D": "D6+2"
+        },
+        {
+          "Name": "Voltaic storm [BLAST, SUSTAINED HITS 2]",
+          "Range": "18\"",
+          "A": "D6+3",
+          "Bs": "2+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Spear of the Void Dragon – strike [ANTI-VEHICLE 2+]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+2"
+        },
+        {
+          "Name": "Spear of the Void Dragon – sweep",
+          "Range": "Melee",
+          "A": "10",
+          "Ws": "2+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Canoptek tail blades [EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D6, Feel No Pain 5+",
         "FACTION: Reanimation Protocols",
@@ -5622,6 +6440,55 @@
       "Leadership": "6+",
       "OC": "3",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Gauss cannon [LETHAL HITS]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Staff of light",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "2+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Tesla cannon [SUSTAINED HITS 2]",
+          "Range": "24\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Overlord’s blade [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Staff of light",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s gauss cannon can be replaced with 1 tesla cannon.",
         "This model’s staff of light can be replaced with 1 Overlord’s blade.",
@@ -5806,6 +6673,28 @@
       "Wounds": "5",
       "Leadership": "6+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Enmitic disintegrator pistols [PISTOL, IGNORES COVER]",
+          "Range": "18\"",
+          "A": "6",
+          "Bs": "2+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Deep Strike, Lone Operative",
         "FACTION: Reanimation Protocols",
@@ -6039,6 +6928,37 @@
       "Leadership": "6+",
       "OC": "3",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Eldritch lance",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-3",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Eldritch lance",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "9",
+          "Ap": "-3",
+          "D": "3"
+        },
+        {
+          "Name": "Impaling legs [EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Feel No Pain 4+",
         "FACTION: Reanimation Protocols",
@@ -6259,6 +7179,55 @@
       "Leadership": "6+",
       "OC": "6",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Annihilator beam",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "14",
+          "Ap": "-4",
+          "D": "6"
+        },
+        {
+          "Name": "Sceptre of Eternal Glory [DEVASTATING WOUNDS]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "10",
+          "Ap": "-3",
+          "D": "3"
+        },
+        {
+          "Name": "Staff of Stars [INDIRECT FIRE]",
+          "Range": "24\"",
+          "A": "12",
+          "Bs": "2+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured bulk",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Weapons of the Final Triarch [LETHAL HITS]",
+          "Range": "Melee",
+          "A": "12",
+          "Ws": "2+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "Phaeron of the Stars (Aura): While a friendly NECRONS unit is within 6\" of this unit’s Szarekh model, each time a model in that unit makes an attack, re-roll a Hit roll of 1 and re-roll a Wound roll of 1.",
         "Phaeron of the Blades (Aura): While a friendly NECRONS unit is within 6\" of this unit’s Szarekh model, you can re-roll Charge rolls made for that unit and each time a model in that unit makes a melee attack, add 1 to the Strength characteristic of that attack.",
@@ -6455,6 +7424,28 @@
       "Leadership": "6+",
       "OC": "4",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Seismic assault [ASSAULT, SUSTAINED HITS 1]",
+          "Range": "12\"",
+          "A": "6",
+          "Bs": "2+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "D3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Crackling tendrils [SUSTAINED HITS 1]",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "2+",
+          "S": "9",
+          "Ap": "-3",
+          "D": "D6"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D6, Feel No Pain 5+, Deep Strike",
         "FACTION: Reanimation Protocols",
@@ -6592,6 +7583,28 @@
       "Leadership": "7+",
       "OC": "3",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Gauss flayer array [LETHAL HITS, RAPID FIRE 5]",
+          "Range": "24\"",
+          "A": "5",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured bulk",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D3",
         "FACTION: Reanimation Protocols",
@@ -6746,6 +7759,18 @@
       "Wounds": "7",
       "Leadership": "8+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Transdimensional abductor",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [],
       "Abilities": [
         "FACTION: Reanimation Protocols",
         "Reanimation Nodes (Aura): While a friendly NECRONS INFANTRY unit is within 6\" of this Fortification, models in that unit have Feel No Pain 6+ ability.",
@@ -6893,6 +7918,27 @@
       "Leadership": "7+",
       "OC": "0",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Gauss annihilator [ANTI-FLY 2+, LETHAL HITS]",
+          "Range": "120\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "16",
+          "Ap": "-4",
+          "D": "D6+6"
+        },
+        {
+          "Name": "Tesla arc [SUSTAINED HITS 2]",
+          "Range": "6\"",
+          "A": "6",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [],
       "Abilities": [
         "CORE: Deadly Demise D6+2",
         "FACTION: Reanimation Protocols",
@@ -6999,6 +8045,27 @@
       "Leadership": "7+",
       "OC": "0",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Gauss exterminator [LETHAL HITS]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "6"
+        },
+        {
+          "Name": "Twin tesla destructor [SUSTAINED HITS 2, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [],
       "Wargear Options": [
         "This unit can be equipped with one of the following:",
         "1 gauss exterminator and 1 twin tesla destructor",
@@ -7110,6 +8177,46 @@
       "Leadership": "7+",
       "OC": "3",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Gauss cannon [LETHAL HITS]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Tesla cannon [SUSTAINED HITS 2]",
+          "Range": "24\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin tesla destructor [SUSTAINED HITS 2, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured bulk",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s gauss cannon can be replaced with 1 tesla cannon."
       ],
@@ -7264,6 +8371,37 @@
       "Leadership": "8+",
       "OC": "4",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Doomsday blaster [BLAST, HEAVY]",
+          "Range": "48\"",
+          "A": "D6+1",
+          "Bs": "4+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "3"
+        },
+        {
+          "Name": "Twin gauss flayer [LETHAL HITS, RAPID FIRE 1, TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Doomstalker limbs",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D3",
         "FACTION: Reanimation Protocols",
@@ -7437,6 +8575,28 @@
       "Wounds": "6",
       "Leadership": "7+",
       "OC": "3",
+      "Ranged Weapons": [
+        {
+          "Name": "Atomiser beam",
+          "Range": "12\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Reanimator’s claws",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Feel No Pain 4+",
         "FACTION: Reanimation Protocols",
@@ -7608,6 +8768,28 @@
       "Wounds": "6",
       "Leadership": "8+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Particle beamer [BLAST, DEVASTATING WOUNDS]",
+          "Range": "18\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Automaton claws",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each be equipped with 2 particle beamers.",
         "Any number of models can each be equipped with 1 fabricator claw array.",
@@ -7798,6 +8980,28 @@
       "Wounds": "3",
       "Leadership": "8+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Scouring eye",
+          "Range": "6\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Scythed limbs",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "FACTION: Reanimation Protocols",
         "Bound Creation: While this unit is in the same unit as a CRYPTEK model, that CRYPTEK model has the Feel No Pain 4+ ability.",
@@ -7945,6 +9149,28 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Synaptic disintegrator [HEAVY, PRECISION]",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Deep Strike",
         "FACTION: Reanimation Protocols",
@@ -8114,6 +9340,37 @@
       "Wounds": "12",
       "Leadership": "7+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Heavy death ray [SUSTAINED HITS D3]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "16",
+          "Ap": "-4",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Twin tesla destructor [SUSTAINED HITS 2, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured bulk",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D3",
         "FACTION: Reanimation Protocols",
@@ -8268,6 +9525,37 @@
       "Leadership": "7+",
       "OC": "5",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Doomsday cannon [BLAST, HEAVY]",
+          "Range": "72\"",
+          "A": "D6+1",
+          "Bs": "3+",
+          "S": "18",
+          "Ap": "-4",
+          "D": "4"
+        },
+        {
+          "Name": "Gauss flayer array [LETHAL HITS, RAPID FIRE 5]",
+          "Range": "24\"",
+          "A": "5",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured bulk",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D3",
         "FACTION: Reanimation Protocols",
@@ -8420,6 +9708,18 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Flayer claws [SUSTAINED HITS 1, TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Infiltrators, Stealth",
         "FACTION: Reanimation Protocols",
@@ -8624,6 +9924,28 @@
       "Wounds": "12",
       "Leadership": "7+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Twin tesla destructor [SUSTAINED HITS 2, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured bulk",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D3, Deep Strike",
         "FACTION: Reanimation Protocols",
@@ -8781,6 +10103,18 @@
       "Wounds": "3",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Ophydian hyperphase weapons",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "For every 3 models in this unit, this unit can have 1 Plasmacyte."
       ],
@@ -8996,6 +10330,46 @@
       "Wounds": "2",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Particle beamer [BLAST, DEVASTATING WOUNDS]",
+          "Range": "18\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin gauss blaster [LETHAL HITS, TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Twin tesla carbine [ASSAULT, SUSTAINED HITS 2, TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their twin gauss blaster replaced with one of the following:",
         "1 particle beamer",
@@ -9159,6 +10533,46 @@
       "Wounds": "2",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Particle caster [DEVASTATING WOUNDS, PISTOL]",
+          "Range": "12\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Rod of covenant",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Rod of covenant",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Voidblade",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "All models in this unit can each have their rod of covenant replaced with 1 particle caster and 1 voidblade."
       ],
@@ -9349,6 +10763,55 @@
       "Leadership": "7+",
       "OC": "4",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Heat ray – dispersed [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "2D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Heat ray – focused [MELTA 4]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Particle shredder [BLAST, DEVASTATING WOUNDS]",
+          "Range": "18\"",
+          "A": "D6+6",
+          "Bs": "2+",
+          "S": "7",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Heavy gauss cannon array [LETHAL HITS]",
+          "Range": "24\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Stalker’s forelimbs",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "3"
+        }
+      ],
       "Wargear Options": [
         "This model’s heat ray can be replaced with one of the following:",
         "1 particle shredder",
@@ -9516,6 +10979,55 @@
       "Leadership": "7+",
       "OC": "10",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Singularity generator [BLAST, DEVASTATING WOUNDS]",
+          "Range": "36\"",
+          "A": "2D6",
+          "Bs": "3+",
+          "S": "10",
+          "Ap": "-3",
+          "D": "4"
+        },
+        {
+          "Name": "Synaptic obliterator [SUSTAINED HITS 2]",
+          "Range": "48\"",
+          "A": "8",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Transdimensional projector",
+          "Range": "48\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "24",
+          "Ap": "-4",
+          "D": "D6+4"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Titanic forelimbs – strike",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "3+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "5"
+        },
+        {
+          "Name": "Titanic forelimbs – sweep",
+          "Range": "Melee",
+          "A": "12",
+          "Ws": "3+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s 2 singularity generators can be replaced with 2 synaptic obliterators and 2 transdimensional projectors."
       ],
@@ -9644,6 +11156,28 @@
       "Wounds": "2",
       "Leadership": "8+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Cutting beam [MELTA 2]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Voidblade",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -9804,6 +11338,28 @@
       "Leadership": "8+",
       "OC": "3",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Exile cannon [BLAST]",
+          "Range": "18\"",
+          "A": "D6+1",
+          "Bs": "4+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Tomb Sentinel claws",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -9945,6 +11501,28 @@
       "Leadership": "8+",
       "OC": "3",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Gauss slicers [LETHAL HITS]",
+          "Range": "24\"",
+          "A": "8",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Tomb Stalker claws [SUSTAINED HITS 1]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -10085,6 +11663,28 @@
       "Wounds": "14",
       "Leadership": "7+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Twin tesla destructor [SUSTAINED HITS 2, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured bulk",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D3",
         "FACTION: Reanimation Protocols",
@@ -10239,6 +11839,64 @@
       "Leadership": "6+",
       "OC": "3",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Gauss cannon [LETHAL HITS]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Particle beamer [BLAST, DEVASTATING WOUNDS]",
+          "Range": "18\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Tesla cannon [SUSTAINED HITS 2]",
+          "Range": "24\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Tesseract singularity chamber – particle hurricane [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6+3",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Tesseract singularity chamber – seismic lash [BLAST]",
+          "Range": "36\"",
+          "A": "D3",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-3",
+          "D": "D6+1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured bulk",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s 2 tesla cannons can be replaced with one of the following:",
         "2 gauss cannons",

@@ -8,6 +8,18 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Genestealer claws and talons",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Scouts 8\"",
         "FACTION: Synapse",
@@ -204,6 +216,36 @@
       "Wounds": "4",
       "Leadership": "8+",
       "OC": "1",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Bone cleaver, lash whip and rending claws",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Crushing claws and rending claws [TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Scything talons and rending claws",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their scything talons and rending claws replaced with one of the following:",
         "1 bone cleaver, lash whip and rending claws",
@@ -373,6 +415,18 @@
       "Wounds": "1",
       "Leadership": "8+",
       "OC": "1",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Chitinous claws and teeth",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "FACTION: Synapse",
         "Neurocytes: While this unit is within Synapse Range of a friendly TYRANIDS unit (excluding NEUROGAUNT units), it has the SYNAPSE keyword."
@@ -588,6 +642,37 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Warp Blast – witchfire [BLAST, PSYCHIC]",
+          "Range": "24\"",
+          "A": "D3",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "D3"
+        },
+        {
+          "Name": "Warp Blast – focused witchfire [LETHAL HITS, PSYCHIC]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Chitinous claws and teeth",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "5+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "FACTION: Shadow in the Warp, Synapse",
         "Spirit Leech (Aura, Psychic): While an enemy unit is within 6\" of this unit, if this unit contains a Neurothrope, each time that enemy unit fails a Battle-shock test, it suffers D3 mortal wounds and one model in this unit regains up to D3 lost wounds.",
@@ -777,6 +862,100 @@
       "Wounds": "8",
       "Leadership": "8+",
       "OC": "3",
+      "Ranged Weapons": [
+        {
+          "Name": "Bio-plasma [ASSAULT, BLAST]",
+          "Range": "12\"",
+          "A": "D3",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Deathspitters with slimer maggots",
+          "Range": "24\"",
+          "A": "6",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Devourers with brainleech worms",
+          "Range": "18\"",
+          "A": "12",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Heavy venom cannon [BLAST]",
+          "Range": "36\"",
+          "A": "D3",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Spine banks [ASSAULT]",
+          "Range": "6\"",
+          "A": "5",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Stranglethorn cannon [BLAST]",
+          "Range": "36\"",
+          "A": "D6+1",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Carnifex crushing claws",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Carnifex extra scything talons [EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Carnifex scything talons",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Chitinous claws and teeth",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their Carnifex extra scything talons replaced with one of the following:",
         "1 deathspitters with slimer maggots",
@@ -967,6 +1146,28 @@
       "Wounds": "4",
       "Leadership": "8+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Spinemaws [PISTOL]",
+          "Range": "6\"",
+          "A": "4",
+          "Bs": "5+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Chitinous claws and teeth [SUSTAINED HITS 1]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "5+",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "All models in this unit can each be equipped with 1 spinemaws."
       ],
@@ -1156,6 +1357,73 @@
       "Wounds": "1",
       "Leadership": "8+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Fleshborer [ASSAULT]",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Shardlauncher [BLAST, HEAVY]",
+          "Range": "18\"",
+          "A": "D3",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Spike rifle [HEAVY]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Strangleweb [ASSAULT, DEVASTATING WOUNDS, TORRENT]",
+          "Range": "18\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Termagant devourer",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Termagant spinefists [ASSAULT, PISTOL, TWIN-LINKED]",
+          "Range": "12\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Chitinous claws and teeth",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "All models in this unit can each have their fleshborer replaced with 1 Termagant devourer.",
         "All models in this unit can each have their fleshborer replaced with 1 Termagant spinefists.",
@@ -1389,6 +1657,28 @@
       "Wounds": "1",
       "Leadership": "8+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Fleshborer [ASSAULT]",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Blinding venom",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Deep Strike",
         "FACTION: Synapse",
@@ -1608,6 +1898,18 @@
       "Wounds": "3",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Tyranid Warrior claws and talons [TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "FACTION: Shadow in the Warp, Synapse",
         "Adaptive Instincts: At the start of the Fight phase, select one of the following:"
@@ -1824,6 +2126,64 @@
       "Wounds": "3",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Barbed strangler [BLAST]",
+          "Range": "36\"",
+          "A": "D6+1",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Deathspitter",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Devourer",
+          "Range": "18\"",
+          "A": "5",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Spinefists [ASSAULT, PISTOL, TWIN-LINKED]",
+          "Range": "12\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Venom cannon [BLAST]",
+          "Range": "36\"",
+          "A": "D3",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Tyranid Warrior claws and talons",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their devourer replaced with one of the following:",
         "1 deathspitter",
@@ -2057,6 +2417,18 @@
       "Wounds": "3",
       "Leadership": "8+",
       "OC": "1",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Toxic lashes [ANTI-INFANTRY 2+]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Stealth",
         "FACTION: Synapse",
@@ -2218,6 +2590,18 @@
       "Wounds": "6",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Prime talons",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -2441,6 +2825,8 @@
       "Wounds": "1",
       "Leadership": "8+",
       "OC": "0",
+      "Ranged Weapons": [],
+      "Melee Weapons": [],
       "Abilities": [
         "CORE: Deep Strike",
         "FACTION: Synapse",
@@ -2583,6 +2969,27 @@
       "Wounds": "9",
       "Leadership": "8+",
       "OC": "3",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Old One Eye’s claws and talons – strike",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "3+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Old One Eye’s claws and talons – sweep",
+          "Range": "Melee",
+          "A": "12",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Feel No Pain 5+, Leader",
         "FACTION: Synapse",
@@ -2765,6 +3172,18 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Broodlord claws and talons [DEVASTATING WOUNDS, TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Leader, Scouts 8\"",
         "FACTION: Synapse, Shadow in the Warp",
@@ -2984,6 +3403,28 @@
       "Leadership": "7+",
       "OC": "3",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Psychic scream [IGNORES COVER, PSYCHIC, TORRENT]",
+          "Range": "18\"",
+          "A": "2D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Neurotyrant claws and lashes",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -3198,6 +3639,8 @@
       "Wounds": "3",
       "Leadership": "8+",
       "OC": "0",
+      "Ranged Weapons": [],
+      "Melee Weapons": [],
       "Abilities": [
         "CORE: Deep Strike",
         "FACTION: Synapse",
@@ -3337,6 +3780,46 @@
       "Leadership": "7+",
       "OC": "3",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Heavy venom cannon [BLAST]",
+          "Range": "36\"",
+          "A": "D3",
+          "Bs": "2+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Stranglethorn cannon [BLAST]",
+          "Range": "36\"",
+          "A": "D6+1",
+          "Bs": "2+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Monstrous bonesword and lash whip [TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Monstrous scything talons [EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s monstrous bonesword and lash whip can be replaced with one of the following:",
         "1 heavy venom cannon",
@@ -3554,6 +4037,28 @@
       "Leadership": "7+",
       "OC": "3",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Synaptic pulse [PSYCHIC, TORRENT]",
+          "Range": "18\"",
+          "A": "D6+3",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Bone sabres [TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "2+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D3, Leader",
         "FACTION: Shadow in the Warp, Synapse",
@@ -3763,6 +4268,18 @@
       "Wounds": "10",
       "Leadership": "7+",
       "OC": "3",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Grasping tail",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -3953,6 +4470,27 @@
       "Wounds": "5",
       "Leadership": "8+",
       "OC": "1",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Barbed ovipositor [ANTI-INFANTRY 3+, EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "2+",
+          "S": "3",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Clawed limbs",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Deep Strike, Lone Operative, Stealth",
         "FACTION: Synapse",
@@ -4153,6 +4691,46 @@
       "Wounds": "16",
       "Leadership": "7+",
       "OC": "5",
+      "Ranged Weapons": [
+        {
+          "Name": "Stinger salvoes",
+          "Range": "24\"",
+          "A": "8",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Massive crushing claws",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Massive scything talons – strike",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Massive scything talons – sweep",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s massive scything talons can be replaced with 1 massive crushing claws."
       ],
@@ -4363,6 +4941,55 @@
       "Leadership": "7+",
       "OC": "3",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Heavy venom cannon [BLAST]",
+          "Range": "36\"",
+          "A": "D3",
+          "Bs": "2+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Stranglethorn cannon [BLAST]",
+          "Range": "36\"",
+          "A": "D6+1",
+          "Bs": "2+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Monstrous bonesword and lash whip [TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Monstrous scything talons [EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Tyrant talons",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s monstrous bonesword and lash whip can be replaced with one of the following:",
         "1 heavy venom cannon",
@@ -4597,6 +5224,37 @@
       "Leadership": "7+",
       "OC": "4",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Psychic overload [BLAST, PSYCHIC]",
+          "Range": "18\"",
+          "A": "D6+3",
+          "Bs": "3+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Massive scything talons – strike",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Massive scything talons – sweep",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D3",
         "FACTION: Shadow in the Warp, Synapse",
@@ -4792,6 +5450,18 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Piercing claws and talons [PRECISION]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Infiltrators, Lone Operative, Stealth",
         "FACTION: Shadow in the Warp, Synapse",
@@ -5001,6 +5671,37 @@
       "Wounds": "16",
       "Leadership": "7+",
       "OC": "5",
+      "Ranged Weapons": [
+        {
+          "Name": "Toxinjector Harpoon [HARPOONED]",
+          "Range": "12\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Monstrous scything talons",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Toxinjector harpoon [EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D6",
         "FACTION: Shadow in the Warp, Synapse",
@@ -5216,6 +5917,55 @@
       "Leadership": "7+",
       "OC": "5",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Psychic Tendril – neuroparasite [PRECISION, PSYCHIC]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "D3"
+        },
+        {
+          "Name": "Psychic Tendril – neuroblast [BLAST, PSYCHIC]",
+          "Range": "18\"",
+          "A": "2D6",
+          "Bs": "2+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Psychic Tendril – neurolance [MELTA 2, PSYCHIC]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Monstrous scything talons",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Monstrous rending claws [EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D6",
         "FACTION: Shadow in the Warp, Synapse",
@@ -5411,6 +6161,18 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Lictor claws and talons [PRECISION]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Fights First, Infiltrators, Lone Operative, Stealth",
         "FACTION: Synapse",
@@ -5612,6 +6374,18 @@
       "Wounds": "1",
       "Leadership": "8+",
       "OC": "2",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Hormagaunt talons",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "FACTION: Synapse",
         "Bounding Leap: This unit is eligible to declare a charge in a turn in which it Advanced."
@@ -5848,6 +6622,28 @@
       "Wounds": "10",
       "Leadership": "8+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Tyrannocyte bio-weapons",
+          "Range": "24\"",
+          "A": "5",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Flensing whips",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D3, Deep Strike",
         "FACTION: Synapse",
@@ -6044,6 +6840,28 @@
       "Wounds": "2",
       "Leadership": "8+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Barblauncher [BLAST, HEAVY]",
+          "Range": "24\"",
+          "A": "D6",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Chitinous claws and teeth",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "FACTION: Synapse",
         "Disruption Bombardment: In your Shooting phase, after this unit has shot, select one enemy INFANTRY unit hit by one or more of those attacks. Until the end of your opponent’s next turn, that enemy unit is disrupted. While a unit is disrupted, subtract 2 from its Move characteristic and subtract 2 from Advance and Charge rolls made for it."
@@ -6208,6 +7026,28 @@
       "Wounds": "5",
       "Leadership": "8+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Spore Mine launcher [BLAST, DEVASTATING WOUNDS, HEAVY, INDIRECT FIRE]",
+          "Range": "48\"",
+          "A": "D3",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Chitin-barbed limbs",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise 1",
         "FACTION: Synapse",
@@ -6373,6 +7213,28 @@
       "Wounds": "14",
       "Leadership": "8+",
       "OC": "4",
+      "Ranged Weapons": [
+        {
+          "Name": "Bio-plasmic cannon [BLAST, HEAVY]",
+          "Range": "36\"",
+          "A": "D6+3",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-3",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Powerful limbs",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "7",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D3",
         "FACTION: Synapse",
@@ -6545,6 +7407,46 @@
       "Wounds": "12",
       "Leadership": "8+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Stinger salvoes",
+          "Range": "24\"",
+          "A": "8",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin heavy venom cannon [BLAST, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "D3",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Twin stranglethorn cannon [BLAST, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "D6+1",
+          "Bs": "2+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Scything wings",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s twin stranglethorn cannon can be replaced with 1 twin heavy venom cannon."
       ],
@@ -6743,6 +7645,37 @@
       "Wounds": "14",
       "Leadership": "8+",
       "OC": "4",
+      "Ranged Weapons": [
+        {
+          "Name": "Grasping tongue [PRECISION]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "D6+1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Ravenous maw",
+          "Range": "Melee",
+          "A": "14",
+          "Ws": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Shovelling claws [EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "14",
+          "Ap": "-2",
+          "D": "D6+1"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D3",
         "FACTION: Synapse",
@@ -6936,6 +7869,55 @@
       "Wounds": "12",
       "Leadership": "8+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Drool cannon [TORRENT]",
+          "Range": "12\"",
+          "A": "2D6",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Stinger salvoes",
+          "Range": "24\"",
+          "A": "8",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Tentaclids [ANTI-VEHICLE 4+, DEVASTATING WOUNDS]",
+          "Range": "36\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Scything wings",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Thorax spur [ANTI-FLY 2+, EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "3+",
+          "S": "10",
+          "Ap": "-3",
+          "D": "D6"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D3, Hover",
         "FACTION: Synapse",
@@ -7131,6 +8113,37 @@
       "Wounds": "4",
       "Leadership": "8+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Impaler cannon [HEAVY, INDIRECT FIRE]",
+          "Range": "36\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Shockcannon [ANTI-VEHICLE 2+]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Chitinous claws and teeth",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their shockcannon replaced with 1 impaler cannon."
       ],
@@ -7298,6 +8311,18 @@
       "Wounds": "6",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Lictor claws and talons [PRECISION]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Fights First, Infiltrators, Lone Operative, Stealth",
         "FACTION: Synapse",
@@ -7485,6 +8510,27 @@
       "Wounds": "14",
       "Leadership": "8+",
       "OC": "4",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Distensible jaw [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "3"
+        },
+        {
+          "Name": "Mawloc scything talons",
+          "Range": "Melee",
+          "A": "16",
+          "Ws": "3+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Deep Strike",
         "FACTION: Synapse",
@@ -7673,6 +8719,28 @@
       "Wounds": "10",
       "Leadership": "8+",
       "OC": "3",
+      "Ranged Weapons": [
+        {
+          "Name": "Psychoclastic torrent [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Talons and betentacled maw [ANTI-PSYKER 4+, DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "D6+1",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise 1, Feel No Pain 5+",
         "FACTION: Synapse",
@@ -7865,6 +8933,28 @@
       "Wounds": "5",
       "Leadership": "8+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Flamespurt [IGNORES COVER, TORRENT, TWIN-LINKED]",
+          "Range": "12\"",
+          "A": "D6+1",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Chitin-barbed limbs",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise 1",
         "FACTION: Synapse",
@@ -8051,6 +9141,28 @@
       "Wounds": "3",
       "Leadership": "8+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Thoracic bio-weapon [ASSAULT]",
+          "Range": "12\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Ravener claws and talons [TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "7",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "All models in this unit can each have their thoracic bio-weapon replaced with 1 armoured thorax."
       ],
@@ -8257,6 +9369,28 @@
       "Wounds": "10",
       "Leadership": "8+",
       "OC": "3",
+      "Ranged Weapons": [
+        {
+          "Name": "Bio-plasmic scream [ASSAULT, BLAST]",
+          "Range": "18\"",
+          "A": "D6+3",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Screamer-killer talons",
+          "Range": "Melee",
+          "A": "10",
+          "Ws": "3+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise 1",
         "FACTION: Synapse",
@@ -8427,6 +9561,28 @@
       "Wounds": "10",
       "Leadership": "8+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Sporocyst bio-weapons",
+          "Range": "24\"",
+          "A": "10",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Flensing whips",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D3",
         "FACTION: Synapse",
@@ -8593,6 +9749,28 @@
       "Wounds": "14",
       "Leadership": "8+",
       "OC": "4",
+      "Ranged Weapons": [
+        {
+          "Name": "Massive toxic lashes [ANTI-INFANTRY 2+]",
+          "Range": "9\"",
+          "A": "2D6",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Massive toxic lashes [ANTI-INFANTRY 2+]",
+          "Range": "Melee",
+          "A": "12",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D3",
         "FACTION: Synapse",
@@ -8764,6 +9942,28 @@
       "Wounds": "14",
       "Leadership": "8+",
       "OC": "4",
+      "Ranged Weapons": [
+        {
+          "Name": "Bio-electric pulse [SUSTAINED HITS 2]",
+          "Range": "12\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Trygon scything talons",
+          "Range": "Melee",
+          "A": "12",
+          "Ws": "3+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
       "Abilities": [
         "CORE: Deep Strike",
         "FACTION: Synapse",
@@ -8957,6 +10157,55 @@
       "Wounds": "16",
       "Leadership": "8+",
       "OC": "5",
+      "Ranged Weapons": [
+        {
+          "Name": "Acid spray [TORRENT]",
+          "Range": "18\"",
+          "A": "D6+6",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Fleshborer hive [HEAVY, SUSTAINED HITS 1, TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "20",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Rupture cannon [HEAVY]",
+          "Range": "48\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "18",
+          "Ap": "-4",
+          "D": "D6+6"
+        },
+        {
+          "Name": "Stinger salvoes",
+          "Range": "24\"",
+          "A": "8",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Powerful limbs",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "8",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s fleshborer hive can be replaced with one of the following:",
         "1 acid spray",
@@ -9135,6 +10384,18 @@
       "Leadership": "8+",
       "OC": "1",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Leaper’s talons",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Fights First, Infiltrators, Stealth",
         "FACTION: Synapse",
@@ -9331,6 +10592,28 @@
       "Wounds": "30",
       "Leadership": "8+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Dire bio-cannon [BLAST]",
+          "Range": "48\"",
+          "A": "D6+6",
+          "Bs": "3+",
+          "S": "10",
+          "Ap": "-3",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Gargantuan scything talons",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "3+",
+          "S": "14",
+          "Ap": "-2",
+          "D": "D6"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -9513,6 +10796,46 @@
       "Leadership": "8+",
       "OC": "12",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Bio-plasma torrent [ASSAULT, TORRENT]",
+          "Range": "12\"",
+          "A": "3D6",
+          "Bs": "N/A",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Dire bio-cannon [BLAST]",
+          "Range": "48\"",
+          "A": "D6+6",
+          "Bs": "3+",
+          "S": "10",
+          "Ap": "-3",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Lashwhip pods [EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "10",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Titanic scything talons",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "3+",
+          "S": "20",
+          "Ap": "-2",
+          "D": "D6+1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -9694,6 +11017,28 @@
       "Wounds": "18",
       "Leadership": "8+",
       "OC": "5",
+      "Ranged Weapons": [
+        {
+          "Name": "Bio-cannon [BLAST]",
+          "Range": "48\"",
+          "A": "D6+3",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Hierodule scything talons",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "3+",
+          "S": "14",
+          "Ap": "-2",
+          "D": "D3+3"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -9870,6 +11215,18 @@
       "Leadership": "7+",
       "OC": "5",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Massive scything sickle-talons [TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "10",
+          "Ws": "3+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -10040,6 +11397,28 @@
       "Wounds": "18",
       "Leadership": "8+",
       "OC": "5",
+      "Ranged Weapons": [
+        {
+          "Name": "Bio-acid spray [TORRENT]",
+          "Range": "18\"",
+          "A": "3D6",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Hierodule scything talons",
+          "Range": "Melee",
+          "A": "10",
+          "Ws": "3+",
+          "S": "14",
+          "Ap": "-2",
+          "D": "D3+3"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -10215,6 +11594,28 @@
       "Wounds": "4",
       "Leadership": "8+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Spinemaws [PISTOL]",
+          "Range": "6\"",
+          "A": "4",
+          "Bs": "5+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Claws and teeth [SUSTAINED HITS 1]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "5+",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each be equipped with 1 spinemaws."
       ],

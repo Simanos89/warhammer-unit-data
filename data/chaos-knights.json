@@ -7,6 +7,27 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Blasphemous appendages",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Hideous mutations",
+          "Range": "Melee",
+          "A": "D6+2",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Feel No Pain 6+, Scouts 6\"",
         "FACTION: Dark Pacts",
@@ -101,6 +122,37 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Autopistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Brutal assault weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "The Cultist Champion’s autopistol can be replaced with 1 bolt pistol."
       ],
@@ -216,6 +268,127 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Boltgun [RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Corrupted pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Cultist grenade launcher – frag [BLAST]",
+          "Range": "24\"",
+          "A": "D3",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Cultist grenade launcher – krak",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D3"
+        },
+        {
+          "Name": "Cultist sniper rifle [HEAVY, PRECISION]",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Lasgun [RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Meltagun [MELTA 2]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Plasma gun – standard [RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma gun – supercharge [HAZARDOUS, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Chainsword",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Power weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Up to 3 Traitor Guardsmen can each have their lasgun replaced with one of the following (duplicates are not allowed):",
         "1 Cultist grenade launcher",
@@ -333,6 +506,91 @@
       "Wounds": "2",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Autocannon [HEAVY]",
+          "Range": "48\"",
+          "A": "2",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Heavy bolter [HEAVY, SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Heavy stubber [HEAVY, RAPID FIRE 3]",
+          "Range": "36\"",
+          "A": "4",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Lascannon [HEAVY]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Missile launcher – frag [BLAST, HEAVY]",
+          "Range": "48\"",
+          "A": "D6",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Missile launcher – krak [HEAVY]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Mortar [BLAST, HEAVY, INDIRECT FIRE]",
+          "Range": "48\"",
+          "A": "D6",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Renegade firearm [RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapons",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any numbers of models’ heavy stubbers can each be replaced with one of the following:",
         "1 autocannon",
@@ -450,6 +708,18 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Electro-goads [SUSTAINED HITS 2]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -551,6 +821,28 @@
       "Wounds": "4",
       "Leadership": "6+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Balefire pike [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6+3",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Dark Pacts",
@@ -661,6 +953,64 @@
       "Wounds": "4",
       "Leadership": "6+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Autopistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Warp Curse – witchfire [PSYCHIC]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Warp Curse – focused witchfire [HAZARDOUS, PSYCHIC, SUSTAINED HITS 2]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Commune blade",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Commune stave [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "D3"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Dark Pacts",
@@ -770,6 +1120,46 @@
       "Wounds": "3",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Laspistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Psychic Strike – focused witchfire [BLAST, DEVASTATING WOUNDS, HAZARDOUS, PSYCHIC]",
+          "Range": "12\"",
+          "A": "D6+3",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Psychic Strike – witchfire [BLAST, DEVASTATING WOUNDS, PSYCHIC]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Chaos stave [PSYCHIC]",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "D3"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -878,6 +1268,37 @@
       "Wounds": "3",
       "Leadership": "6+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Ogryn weapons",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Power fist",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -987,6 +1408,73 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Autogun [RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Enforcer pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Lasgun [RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Shotgun [ASSAULT]",
+          "Range": "12\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Enforcer melee weapon",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Power fist",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Power weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s Enforcer pistol can be replaced with one of the following:",
         "1 autogun",
@@ -1106,6 +1594,46 @@
       "Wounds": "22",
       "Leadership": "6+",
       "OC": "10",
+      "Ranged Weapons": [
+        {
+          "Name": "Diabolus heavy stubber [RAPID FIRE 3]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Volkite combustor [DEVASTATING WOUNDS]",
+          "Range": "30\"",
+          "A": "9",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "0",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Balemace [EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Electroscourge [SUSTAINED HITS 1]",
+          "Range": "Melee",
+          "A": "9",
+          "Ws": "3+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -1258,6 +1786,64 @@
       "Wounds": "22",
       "Leadership": "6+",
       "OC": "10",
+      "Ranged Weapons": [
+        {
+          "Name": "Desecrator laser destructor",
+          "Range": "72\"",
+          "A": "3",
+          "Bs": "2+",
+          "S": "18",
+          "Ap": "-4",
+          "D": "D6+3"
+        },
+        {
+          "Name": "Diabolus heavy stubber [RAPID FIRE 3]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "2+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Warpstrike claw – strike",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "20",
+          "Ap": "-3",
+          "D": "8"
+        },
+        {
+          "Name": "Warpstrike claw – sweep",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "3+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Reaper chainsword – strike",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "14",
+          "Ap": "-4",
+          "D": "6"
+        },
+        {
+          "Name": "Reaper chainsword – sweep",
+          "Range": "Melee",
+          "A": "12",
+          "Ws": "3+",
+          "S": "9",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s reaper chainsword can be replaced with 1 warpstrike claw."
       ],
@@ -1409,6 +1995,136 @@
       "Wounds": "22",
       "Leadership": "6+",
       "OC": "10",
+      "Ranged Weapons": [
+        {
+          "Name": "Daemonbreath meltagun [MELTA 2]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Daemonbreath thermal cannon [BLAST, MELTA 6]",
+          "Range": "24\"",
+          "A": "2D3",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Despoiler battle cannon [BLAST, RAPID FIRE D6+3]",
+          "Range": "72\"",
+          "A": "D6+3",
+          "Bs": "3+",
+          "S": "10",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Despoiler gatling cannon",
+          "Range": "36\"",
+          "A": "18",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Havoc missile pod [BLAST, INDIRECT FIRE]",
+          "Range": "48\"",
+          "A": "D6+1",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Heavy darkflamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Diabolus heavy stubber [RAPID FIRE 3]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Ruinspear rocket pod",
+          "Range": "48\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Hellstorm autocannons [ANTI-FLY 2+, TWIN-LINKED]",
+          "Range": "48\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Reaper chainsword – strike",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "14",
+          "Ap": "-4",
+          "D": "6"
+        },
+        {
+          "Name": "Reaper chainsword – sweep",
+          "Range": "Melee",
+          "A": "12",
+          "Ws": "3+",
+          "S": "9",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Titanic feet",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Warpstrike claw – strike",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "20",
+          "Ap": "-3",
+          "D": "8"
+        },
+        {
+          "Name": "Warpstrike claw – sweep",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "3+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
       "Wargear Options": [
         "This model’s daemonbreath meltagun can be replaced with 1 diabolus heavy stubber.",
         "This model’s reaper chainsword can be replaced with 1 of the following:",
@@ -1572,6 +2288,55 @@
       "Wounds": "22",
       "Leadership": "6+",
       "OC": "10",
+      "Ranged Weapons": [
+        {
+          "Name": "Diabolus heavy stubber [RAPID FIRE 3]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Warpstrike claw – strike",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "20",
+          "Ap": "-3",
+          "D": "8"
+        },
+        {
+          "Name": "Warpstrike claw – sweep",
+          "Range": "Melee",
+          "A": "12",
+          "Ws": "2+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Reaper chainsword – strike",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "14",
+          "Ap": "-4",
+          "D": "6"
+        },
+        {
+          "Name": "Reaper chainsword – sweep",
+          "Range": "Melee",
+          "A": "18",
+          "Ws": "2+",
+          "S": "9",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -1723,6 +2488,91 @@
       "Wounds": "24",
       "Leadership": "6+",
       "OC": "10",
+      "Ranged Weapons": [
+        {
+          "Name": "Brimstone volcano lance [BLAST]",
+          "Range": "60\"",
+          "A": "D3",
+          "Bs": "3+",
+          "S": "20",
+          "Ap": "-5",
+          "D": "D6+8"
+        },
+        {
+          "Name": "Darkflame cannon [IGNORES COVER, TORRENT]",
+          "Range": "18\"",
+          "A": "3D6",
+          "Bs": "N/A",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Ectoplasma decimator – standard [BLAST]",
+          "Range": "36\"",
+          "A": "D6+3",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Ectoplasma decimator – supercharge [BLAST, HAZARDOUS]",
+          "Range": "36\"",
+          "A": "D6+3",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-3",
+          "D": "3"
+        },
+        {
+          "Name": "Gheiststrike missile launcher [ANTI-TITANIC 4+, DEVASTATING WOUNDS]",
+          "Range": "72\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-6",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Twin daemonbreath meltagun [MELTA 2, TWIN-LINKED]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Twin desecrator cannon [BLAST, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Warpshock harpoon [ANTI-MONSTER 4+, ANTI-VEHICLE 4+, DEVASTATING WOUNDS]",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "24",
+          "Ap": "-6",
+          "D": "12"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Titanic feet",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s brimstone volcano lance and ectoplasma decimator can be replaced with 1 darkflame cannon and 1 warpshock harpoon.",
         "This model’s 2 gheiststrike missile launchers and twin desecrator cannon can be replaced with 1 gheiststrike missile launcher and 2 twin desecrator cannons."
@@ -1869,6 +2719,73 @@
       "Wounds": "12",
       "Leadership": "7+",
       "OC": "8",
+      "Ranged Weapons": [
+        {
+          "Name": "Avenger chaincannon",
+          "Range": "24\"",
+          "A": "12",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Daemonbreath spear [MELTA 4]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Havoc multi-launcher [BLAST, INDIRECT FIRE]",
+          "Range": "48\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Diabolus heavy stubber [RAPID FIRE 3]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Reaper chaintalon – strike",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "10",
+          "Ap": "-3",
+          "D": "3"
+        },
+        {
+          "Name": "Reaper chaintalon – sweep",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "3+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Slaughterclaw",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+2"
+        }
+      ],
       "Wargear Options": [
         "This model’s avenger chaincannon can be replaced with 1 daemonbreath spear.",
         "This model’s diabolus heavy stubber can be replaced with 1 havoc multi-launcher.",
@@ -2025,6 +2942,46 @@
       "Wounds": "25",
       "Leadership": "6+",
       "OC": "10",
+      "Ranged Weapons": [
+        {
+          "Name": "Acheron flame cannon [IGNORES COVER, TORRENT]",
+          "Range": "18\"",
+          "A": "2D6",
+          "Bs": "N/A",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Reaper chainfist – strike",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "14",
+          "Ap": "-4",
+          "D": "6"
+        },
+        {
+          "Name": "Reaper chainfist – sweep",
+          "Range": "Melee",
+          "A": "12",
+          "Ws": "3+",
+          "S": "9",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -2172,6 +3129,64 @@
       "Leadership": "6+",
       "OC": "10",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Atrapos lascutter – low intensity [SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "2D6",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Atrapos lascutter – high intensity [SUSTAINED HITS 1]",
+          "Range": "24\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "4"
+        },
+        {
+          "Name": "Graviton singularity cannon – contained [BLAST]",
+          "Range": "24\"",
+          "A": "D3",
+          "Bs": "3+",
+          "S": "16",
+          "Ap": "-4",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Graviton singularity cannon – singularity [BLAST, DEVASTATING WOUNDS, HAZARDOUS]",
+          "Range": "24\"",
+          "A": "D3",
+          "Bs": "3+",
+          "S": "16",
+          "Ap": "-4",
+          "D": "D6+1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Atrapos lascutter – low intensity [SUSTAINED HITS 1]",
+          "Range": "Melee",
+          "A": "12",
+          "Ws": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Atrapos lascutter – high intensity [SUSTAINED HITS 1]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "3+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "4"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -2318,6 +3333,37 @@
       "Wounds": "25",
       "Leadership": "6+",
       "OC": "10",
+      "Ranged Weapons": [
+        {
+          "Name": "Castigator bolt cannon [TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "18",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Tempest warblade – strike",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "14",
+          "Ap": "-4",
+          "D": "6"
+        },
+        {
+          "Name": "Tempest warblade – sweep",
+          "Range": "Melee",
+          "A": "12",
+          "Ws": "3+",
+          "S": "9",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -2465,6 +3511,37 @@
       "Leadership": "6+",
       "OC": "10",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Cerastus shock lance [ASSAULT, SUSTAINED HITS 2]",
+          "Range": "12\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Cerastus shock lance – strike [LANCE]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "20",
+          "Ap": "-3",
+          "D": "8"
+        },
+        {
+          "Name": "Cerastus shock lance – sweep",
+          "Range": "Melee",
+          "A": "10",
+          "Ws": "2+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -2612,6 +3689,73 @@
       "Leadership": "6+",
       "OC": "10",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Lightning cannon [SUSTAINED HITS 2]",
+          "Range": "48\"",
+          "A": "12",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "0",
+          "D": "2"
+        },
+        {
+          "Name": "Phased plasma-fusil [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Twin rad cleanser [ANTI-INFANTRY 2+, IGNORES COVER, TORRENT, TWIN-LINKED]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Hekaton siege claw – strike",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "20",
+          "Ap": "-3",
+          "D": "8"
+        },
+        {
+          "Name": "Hekaton siege claw – sweep",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "3+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Reaper chainsword – strike",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "14",
+          "Ap": "-4",
+          "D": "6"
+        },
+        {
+          "Name": "Reaper chainsword – sweep",
+          "Range": "Melee",
+          "A": "12",
+          "Ws": "3+",
+          "S": "9",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s reaper chainsword can be replaced with 1 hekaton siege claw and 1 twin rad cleanser."
       ],
@@ -2764,6 +3908,73 @@
       "Leadership": "6+",
       "OC": "10",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Graviton crusher [ANTI-VEHICLE 2+, BLAST]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Twin rad cleanser [ANTI-INFANTRY 2+, IGNORES COVER, TORRENT, TWIN-LINKED]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Volkite chierovile [DEVASTATING WOUNDS]",
+          "Range": "30\"",
+          "A": "9",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "0",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Hekaton siege claw – strike",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "20",
+          "Ap": "-3",
+          "D": "8"
+        },
+        {
+          "Name": "Hekaton siege claw – sweep",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "3+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Reaper chainsword – strike",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "14",
+          "Ap": "-4",
+          "D": "6"
+        },
+        {
+          "Name": "Reaper chainsword – sweep",
+          "Range": "Melee",
+          "A": "12",
+          "Ws": "3+",
+          "S": "9",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s reaper chainsword can be replaced with 1 hekaton siege claw and 1 twin rad cleanser."
       ],
@@ -2915,6 +4126,55 @@
       "Wounds": "12",
       "Leadership": "7+",
       "OC": "8",
+      "Ranged Weapons": [
+        {
+          "Name": "Avenger chaincannon",
+          "Range": "24\"",
+          "A": "12",
+          "Bs": "2+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Daemonbreath spear [MELTA 4]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "12",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Diabolus heavy stubber [RAPID FIRE 3]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "2+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Havoc multi-launcher [BLAST, INDIRECT FIRE]",
+          "Range": "48\"",
+          "A": "D6",
+          "Bs": "2+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured feet",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s diabolus heavy stubber can be replaced with 1 havoc multi-launcher."
       ],
@@ -3057,6 +4317,46 @@
       "Wounds": "12",
       "Leadership": "7+",
       "OC": "8",
+      "Ranged Weapons": [
+        {
+          "Name": "Daemonbreath meltagun [MELTA 2]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Diabolus heavy stubber [RAPID FIRE 3]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "War Dog autocannon",
+          "Range": "48\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-1",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured feet",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s diabolus heavy stubber can be replaced with 1 daemonbreath meltagun."
       ],
@@ -3199,6 +4499,55 @@
       "Wounds": "12",
       "Leadership": "7+",
       "OC": "8",
+      "Ranged Weapons": [
+        {
+          "Name": "Daemonbreath meltagun [MELTA 2]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Daemonbreath spear [MELTA 4]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Diabolus heavy stubber [RAPID FIRE 3]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Reaper chaintalon – strike",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "10",
+          "Ap": "-3",
+          "D": "3"
+        },
+        {
+          "Name": "Reaper chaintalon – sweep",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "3+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s diabolus heavy stubber can be replaced with 1 daemonbreath meltagun."
       ],
@@ -3341,6 +4690,55 @@
       "Wounds": "12",
       "Leadership": "7+",
       "OC": "8",
+      "Ranged Weapons": [
+        {
+          "Name": "Diabolus heavy stubber [RAPID FIRE 3]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Havoc multi-launcher [BLAST, INDIRECT FIRE]",
+          "Range": "48\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Reaper chaintalon – strike",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "10",
+          "Ap": "-3",
+          "D": "3"
+        },
+        {
+          "Name": "Reaper chaintalon – sweep",
+          "Range": "Melee",
+          "A": "12",
+          "Ws": "2+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Slaughterclaw",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+2"
+        }
+      ],
       "Wargear Options": [
         "This model’s diabolus heavy stubber can be replaced with 1 havoc multi-launcher."
       ],
@@ -3483,6 +4881,73 @@
       "Wounds": "12",
       "Leadership": "7+",
       "OC": "8",
+      "Ranged Weapons": [
+        {
+          "Name": "Conversion beam cannon [CONVERSION, SUSTAINED HITS D3]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Graviton pulsar [ANTI-VEHICLE 2+, BLAST]",
+          "Range": "24\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Lightning lock [SUSTAINED HITS 2]",
+          "Range": "36\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Rad cleanser [ANTI-INFANTRY 2+, IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Volkite veuglaire [DEVASTATING WOUNDS]",
+          "Range": "36\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured feet",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Siege claw",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+2"
+        }
+      ],
       "Wargear Options": [
         "This model’s graviton pulsar can be replaced with one of the following;",
         "1 siege claw and 1 rad cleanser",
@@ -3634,6 +5099,46 @@
       "Wounds": "30",
       "Leadership": "6+",
       "OC": "10",
+      "Ranged Weapons": [
+        {
+          "Name": "Asterius volkite culverin [DEVASTATING WOUNDS]",
+          "Range": "24\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "0",
+          "D": "2"
+        },
+        {
+          "Name": "Karacnos mortar battery [ANTI-INFANTRY 2+, BLAST, IGNORES COVER, INDIRECT FIRE]",
+          "Range": "48\"",
+          "A": "D6+3",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Twin conversion beam cannon [CONVERSION, SUSTAINED HITS D3, TWIN-LINKED]",
+          "Range": "48\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "16",
+          "Ap": "-2",
+          "D": "6"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Titanic feet",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "10",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -3768,6 +5273,64 @@
       "Wounds": "30",
       "Leadership": "6+",
       "OC": "10",
+      "Ranged Weapons": [
+        {
+          "Name": "Acastus Autocannon",
+          "Range": "48\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Acastus ironstorm missile pod [BLAST, HEAVY, INDIRECT FIRE]",
+          "Range": "48\"",
+          "A": "D6+6",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Helios defence missiles [ANTI-FLY 2+, HEAVY]",
+          "Range": "48\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Lascannon",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Twin magna lascannon [BLAST, TWIN-LINKED]",
+          "Range": "72\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "18",
+          "Ap": "-4",
+          "D": "D6+6"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Titanic feet",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "10",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s 2 Acastus autocannons can each be replaced with one of the following:",
         "2 lascannons",
@@ -3905,6 +5468,91 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Autogun [RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Autopistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Grenade launcher – frag [BLAST]",
+          "Range": "24\"",
+          "A": "D3",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Grenade launcher – krak",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D3"
+        },
+        {
+          "Name": "Heavy stubber [HEAVY, RAPID FIRE 3]",
+          "Range": "36\"",
+          "A": "4",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Brutal assault weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "The Cultist Champion’s autopistol can be replaced with 1 bolt pistol.",
         "Any number of models can each have their autogun and close combat weapon replaced with 1 autopistol and 1 brutal assault weapon.",
@@ -4017,6 +5665,91 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Autopistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Corrupted stave [DEVASTATING WOUNDS, PSYCHIC]",
+          "Range": "18\"",
+          "A": "D3",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma pistol – standard [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma pistol – supercharge [HAZARDOUS, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Chainsword",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Corrupted stave [DEVASTATING WOUNDS, PSYCHIC]",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "D3"
+        },
+        {
+          "Name": "Great weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "5+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "The Fellgor Champion’s bolt pistol can be replaced with 1 plasma pistol.",
         "1 Fellgor Beastman’s close combat weapon can be replaced with 1 great weapon.",
@@ -4122,6 +5855,37 @@
       "Wounds": "4",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Belly-flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Brutal weapons",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Hideous mutations",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -4221,6 +5985,18 @@
       "Wounds": "1",
       "Leadership": "8+",
       "OC": "0",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Diseased claws and fangs [LETHAL HITS]",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -4311,6 +6087,27 @@
       "Wounds": "4",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Befouled claws and fangs",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Mauler goad and ripper claw",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -4402,6 +6199,27 @@
       "Wounds": "3",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Ogryn power drill",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Ogryn weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "One model’s Ogryn weapon can be replaced with 1 Ogryn power drill."
       ],
@@ -4497,6 +6315,18 @@
       "Wounds": "3",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Ogryn plague claws [LETHAL HITS]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],

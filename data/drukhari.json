@@ -8,6 +8,73 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Eyeburst [PISTOL, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Shardcarbine [ANTI-INFANTRY 3+, ASSAULT]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Splinter pistol [ANTI-INFANTRY 3+, ASSAULT, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Shaimeshi blade [ANTI-INFANTRY 2+]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Sslyth battle-blade",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Ur-ghul talons [SUSTAINED HITS 1]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -187,6 +254,36 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Demiklaives – single blade",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Demiklaives – dual blades [TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Klaive",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "The Klaivex’s klaive can be replaced with 1 demilklaives."
       ],
@@ -350,6 +447,91 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Blast pistol [PISTOL]",
+          "Range": "6\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "D3"
+        },
+        {
+          "Name": "Blaster [ASSAULT]",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-4",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Dark lance [HEAVY]",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+2"
+        },
+        {
+          "Name": "Shredder [ASSAULT, TORRENT]",
+          "Range": "18\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Splinter cannon [ANTI-INFANTRY 3+, HEAVY, SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Splinter pistol [ANTI-INFANTRY 3+, ASSAULT, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Splinter rifle [ANTI-INFANTRY 3+, ASSAULT]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Sybarite weapon [ANTI-INFANTRY 3+]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "The Sybarite’s close combat weapon can be replaced with 1 Sybarite weapon.",
         "The Sybarite can be equipped with 1 phantasm grenade launcher.",
@@ -547,6 +729,55 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Liquifier gun [TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Ossefactor [ANTI-INFANTRY 4+, DEVASTATING WOUNDS]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "2",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Hexrifle [HEAVY, PRECISION]",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Stinger pistol [ANTI-INFANTRY 2+, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Wrack blades [ANTI-INFANTRY 4+]",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "For every 5 models in the unit:",
         "1 model can be equipped with 1 hexrifle*",
@@ -741,6 +972,37 @@
       "Wounds": "1",
       "Leadership": "6+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Blast pistol [PISTOL]",
+          "Range": "6\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-4",
+          "D": "D3"
+        },
+        {
+          "Name": "Splinter pistol [ANTI-INFANTRY 3+, ASSAULT, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Hekatarii blade",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "The Hekatrix can be equipped with 1 phantasm grenade launcher.",
         "The Hekatrix’s splinter pistol can be replaced with 1 blast pistol."
@@ -935,6 +1197,37 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Spirit syphon [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Spirit vortex [BLAST, IGNORES COVER]",
+          "Range": "18\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Spirit-leech tentacles",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each be equipped with 1 spirit vortex."
       ],
@@ -1062,6 +1355,91 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Twin Drukhari haywire blaster [ANTI-VEHICLE 4+, DEVASTATING WOUNDS, TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Twin heat lance [ASSAULT, MELTA 3, TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "14",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Twin splinter cannon [ANTI-INFANTRY 3+, SUSTAINED HITS 1, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Stinger pod",
+          "Range": "24\"",
+          "A": "2D6",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin liquifier gun [TORRENT, TWIN-LINKED]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Chain-flails",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Macro-scalpel",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Talos gauntlet",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Talos ichor injector [EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each replace one of their macro-scalpels with one of the following:",
         "1 Talos ichor injector",
@@ -1198,6 +1576,28 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Liquifier gun [TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Monstrous weapons",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each be equipped with 1 liquifier gun."
       ],
@@ -1373,6 +1773,64 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Fusion pistol [ASSAULT, MELTA 2, PISTOL]",
+          "Range": "6\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Neuro disruptor [ANTI-INFANTRY 2+, ASSAULT, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Shuriken pistol [ASSAULT, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Harlequin’s blade [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Harlequin’s special weapon [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Power sword [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their Harlequin’s blade replaced with 1 Harlequin’s special weapon.",
         "The Lead Player’s Harlequin’s blade can be replaced with 1 power sword.",
@@ -1547,6 +2005,37 @@
       "Wounds": "4",
       "Leadership": "6+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Blast pistol [PISTOL]",
+          "Range": "6\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "D3"
+        },
+        {
+          "Name": "Splinter pistol [ANTI-INFANTRY 3+, ASSAULT, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Huskblade [ANTI-INFANTRY 3+]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "3",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s splinter pistol can be replaced with 1 blast pistol."
       ],
@@ -1744,6 +2233,28 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Stinger pistol [ANTI-INFANTRY 2+, PISTOL, PRECISION]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "2",
+          "Ap": "-1",
+          "D": "D3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Haemonculus tools and scissorhands [ANTI-INFANTRY 2+, PRECISION]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "3",
+          "Ap": "-1",
+          "D": "D3"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -1934,6 +2445,28 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Casket of Flensing [DEVASTATING WOUNDS, ONE SHOT, TORRENT]",
+          "Range": "12\"",
+          "A": "3D6",
+          "Bs": "N/A",
+          "S": "3",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Haemonculus tools and scissorhands [ANTI-INFANTRY 2+, PRECISION]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "3",
+          "Ap": "-1",
+          "D": "D3"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -2126,6 +2659,18 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Lelith’s blades [ANTI-INFANTRY 2+, SUSTAINED HITS 2]",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "2+",
+          "S": "3",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -2318,6 +2863,37 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Blast pistol [PISTOL]",
+          "Range": "6\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "D3"
+        },
+        {
+          "Name": "Splinter pistol [ANTI-INFANTRY 3+, ASSAULT, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Succubus weapons [ANTI-INFANTRY 3+]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "3",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with one of the following:",
         "1 blast pistol",
@@ -2515,6 +3091,27 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "The Executioner’s demiklaives – single blade [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "The Executioner’s demiklaives – dual blades [TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "7",
+          "Ws": "2+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -2675,6 +3272,37 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Neuro disruptor [ANTI-INFANTRY 2+, ASSAULT, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Shuriken pistol [ASSAULT, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Miststave [PSYCHIC]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "D3"
+        }
+      ],
       "Wargear Options": [
         "This model’s shuriken pistol can be replaced with 1 neuro disruptor; flip belt."
       ],
@@ -2842,6 +3470,55 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Fusion pistol [ASSAULT, MELTA 2, PISTOL]",
+          "Range": "6\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "8",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Neuro disruptor [ANTI-INFANTRY 2+, ASSAULT, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Shuriken pistol [ASSAULT, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Harlequin’s special weapon [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Troupe Master’s blade [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s shuriken pistol can be replaced with one of the following:",
         "1 fusion pistol",
@@ -3010,6 +3687,91 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Blaster [ASSAULT]",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-4",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Neuro disruptor [ANTI-INFANTRY 2+, ASSAULT, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Shredder [ASSAULT, TORRENT]",
+          "Range": "18\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Shuriken cannon [LETHAL HITS]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Shuriken pistol [ASSAULT, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Shuriken rifle [ASSAULT, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Wraithcannon",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "14",
+          "Ap": "-4",
+          "D": "D6+1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Power sword",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "The Voidreaver Felarch’s shuriken pistol can be replaced with one of the following:",
         "1 neuro disruptor",
@@ -3186,6 +3948,55 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Splinter pods [ANTI-INFANTRY 3+, ASSAULT]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Agoniser [ANTI-INFANTRY 3+]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Clawed Fiend fists [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Khymerae talons [LETHAL HITS]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Razorwing feathers [SUSTAINED HITS 1]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -3317,6 +4128,28 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Shrieker cannon",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "2+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Jester’s blade",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Lone Operative",
         "FACTION: Battle Focus, Disparate Paths",
@@ -3470,6 +4303,18 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Solitaire weapons [PRECISION]",
+          "Range": "Melee",
+          "A": "9",
+          "Ws": "2+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Fights First, Lone Operative, Stealth",
         "FACTION: Battle Focus, Disparate Paths",
@@ -3621,6 +4466,37 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Dark lance",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+2"
+        },
+        {
+          "Name": "Disintegrator cannon",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Bladevanes",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s dark lance can be replaced with 1 disintegrator cannon."
       ],
@@ -3780,6 +4656,37 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Splinter cannon [ANTI-INFANTRY 3+, SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "3",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Twin splinter rifle [ANTI-INFANTRY 3+, ASSAULT, RAPID FIRE 1, TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Bladevanes",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s twin splinter rifle can be replaced with 1 splinter cannon."
       ],
@@ -3939,6 +4846,28 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Shuriken cannon [LETHAL HITS]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise 1, Firing Deck 6",
         "FACTION: Battle Focus, Disparate Paths",
@@ -4101,6 +5030,46 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Splinter pistol [ANTI-INFANTRY 3+, ASSAULT, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Splinter pods [ANTI-INFANTRY 3+, ASSAULT, TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Helliarch weapon [ANTI-INFANTRY 3+, SUSTAINED HITS 1]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Hellglaive [SUSTAINED HITS 1]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "The Helliarch can be equipped with 1 phantasm grenade launcher.",
         "The Helliarch’s hellglaive can be replaced with 1 splinter pistol and 1 Helliarch weapon."
@@ -4240,6 +5209,28 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Baleblast [ASSAULT, DEVASTATING WOUNDS]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Glimmersteel blade",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -4405,6 +5396,37 @@
       "Leadership": "6+",
       "OC": "3",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Dark lance",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+2"
+        },
+        {
+          "Name": "Disintegrator cannon",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Bladevanes",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of this model’s dark lances can each be replaced with 1 disintegrator cannon."
       ],
@@ -4543,6 +5565,82 @@
       "Leadership": "6+",
       "OC": "0",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Dark Lance",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+2"
+        },
+        {
+          "Name": "Disintegrator",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Razorwing missiles – monoscythe missiles [BLAST]",
+          "Range": "48\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Razorwing missiles – nuerotoxin missiles [ANTI-INFANTRY 2+, BLAST]",
+          "Range": "48\"",
+          "A": "D6+3",
+          "Bs": "3+",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Razorwing missiles – shatterfield missiles [BLAST]",
+          "Range": "48\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Twin splinter rifle [ANTI-INFANTRY 3+, ASSAULT, RAPID FIRE 1, TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Splinter cannon [ANTI-INFANTRY 3+, SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "3",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Bladed wings",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s 2 dark lances can be replaced with 2 disintegrator cannons.",
         "This model’s twin splinter rifle can be replaced with 1 splinter cannon."
@@ -4670,6 +5768,64 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Blaster [ASSAULT]",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-4",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Heat lance [ASSAULT, MELTA 3]",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "14",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Splinter pistol [ANTI-INFANTRY 3+, ASSAULT, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Splinter rifle [ANTI-INFANTRY 3+, ASSAULT]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Agoniser [ANTI-INFANTRY 3+]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Bladevanes",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "For every 3 models in this unit, 1 model can be equipped with one of the following:",
         "1 grav-talon",
@@ -4815,6 +5971,109 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Blast pistol [PISTOL]",
+          "Range": "6\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "D3"
+        },
+        {
+          "Name": "Blaster [ASSAULT]",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-4",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Dark lance [HEAVY]",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+2"
+        },
+        {
+          "Name": "Drukhari haywire blaster [ANTI-VEHICLE 4+, DEVASTATING WOUNDS, HEAVY]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Heat lance [ASSAULT, HEAVY, MELTA 3]",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "14",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Shardcarbine [ANTI-INFANTRY 3+, ASSAULT]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Shredder [ASSAULT, TORRENT]",
+          "Range": "18\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Splinter cannon [ANTI-INFANTRY 3+, HEAVY, SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Splinter pistol [ANTI-INFANTRY 3+, ASSAULT, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Solarite weapon [ANTI-INFANTRY 3+]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "The Solarite can be equipped with 1 Solarite weapon.",
         "The Solarite can replace its shardcarbine with one of the following:",
@@ -4988,6 +6247,55 @@
       "Leadership": "6+",
       "OC": "0",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Dark scythe",
+          "Range": "24\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-4",
+          "D": "2"
+        },
+        {
+          "Name": "Void lance",
+          "Range": "36\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "14",
+          "Ap": "-4",
+          "D": "D6+2"
+        },
+        {
+          "Name": "Voidraven missiles – implosion missiles [BLAST]",
+          "Range": "48\"",
+          "A": "D3",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Voidraven missiles – shatterfield missiles [BLAST]",
+          "Range": "48\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Bladed wings",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "The model’s 2 void lances can be replaced with 2 dark scythes.",
         "This model can be equipped with 1 Voidraven missiles."
@@ -5116,6 +6424,136 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Blaster [ASSAULT]",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-4",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Executioner [ANTI-INFANTRY 2+, PSYCHIC]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "D3"
+        },
+        {
+          "Name": "Fusion pistol [ASSAULT, MELTA 2, PISTOL]",
+          "Range": "6\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Long rifle [HEAVY, PRECISION]",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Neuro disruptor [ANTI-INFANTRY 2+, ASSAULT, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Shredder [ASSAULT, TORRENT]",
+          "Range": "18\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Shuriken cannon [LETHAL HITS]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Shuriken pistol [ASSAULT, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Shuriken rifle [ASSAULT, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Wraithcannon",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "14",
+          "Ap": "-4",
+          "D": "D6+1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Paired Hekatarii blades [TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "3",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Power sword",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Witch staff [ANTI-INFANTRY 2+, PSYCHIC]",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "2+",
+          "S": "3",
+          "Ap": "0",
+          "D": "D3"
+        }
+      ],
       "Wargear Options": [
         "Any number of Corsair Voidscarred can each have their shuriken pistol and power sword replaced with 1 shuriken rifle.",
         "The Voidscarred Felarch’s shuriken pistol can be replaced with one of the following:",
@@ -5282,6 +6720,55 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Shuriken cannon [LETHAL HITS]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Skyweaver haywire cannon [ANTI-VEHICLE 4+, DEVASTATING WOUNDS]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "3",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Star bolas",
+          "Range": "12\"",
+          "A": "D3",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Zephyrglaive",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their shuriken cannon replaced with 1 Skyweaver haywire cannon.",
         "Any number of models can each have their star bolas replaced with 1 zephyrglaive."
@@ -5418,6 +6905,55 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Prismatic cannon – dispersed pulse [BLAST]",
+          "Range": "24\"",
+          "A": "2D6",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Prismatic cannon – focused lances",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "4"
+        },
+        {
+          "Name": "Shuriken cannon [LETHAL HITS]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Voidweaver haywire cannon [ANTI-VEHICLE 4+, DEVASTATING WOUNDS]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s Voidweaver haywire cannon can be replaced with 1 prismatic cannon."
       ],
@@ -5553,6 +7089,100 @@
       "Wounds": "2",
       "Leadership": "6+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Brace of pistols [ASSAULT, PISTOL]",
+          "Range": "12\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Dark lance",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+2"
+        },
+        {
+          "Name": "Dissonance cannon [DEVASTATING WOUNDS]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Dissonance pistol [DEVASTATING WOUNDS, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Scatter laser",
+          "Range": "36\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Shuriken cannon [SUSTAINED HITS 1]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Splinter cannon [ANTI-INFANTRY 3+, SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "3",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Twin shuriken catapult [ASSAULT, TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "-3",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Void sabre",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their twin shuriken catapult replaced with one of the following:",
         "1 dark lance",
@@ -5703,6 +7333,145 @@
       "Wounds": "3",
       "Leadership": "6+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Aeldari missile launcher – starshot",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Aeldari missile launcher – sunburst [BLAST]",
+          "Range": "48\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Blaster [ASSAULT]",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-4",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Brace of pistols [ASSAULT, PISTOL]",
+          "Range": "12\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Corsair firearm [ASSAULT, LETHAL HITS]",
+          "Range": "24\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Dark lance [HEAVY]",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+2"
+        },
+        {
+          "Name": "Dissonance pistol [DEVASTATING WOUNDS, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Flamer [ASSAULT, IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Fusion gun [ASSAULT, MELTA 2]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-4",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Shredder [ASSAULT, TORRENT]",
+          "Range": "18\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Shuriken cannon [SUSTAINED HITS 1]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Splinter cannon [ANTI-INFANTRY 3+, SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "3",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Spar-glaive",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Void sabre",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their Corsair firearm replaced with 1 spar-glaive.",
         "For every 5 models in this unit, 1 model’s Corsair firearm can be replaced with one of the following:",
@@ -5882,6 +7651,163 @@
       "Wounds": "3",
       "Leadership": "6+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Aeldari missile launcher – starshot",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Aeldari missile launcher – sunburst [BLAST]",
+          "Range": "48\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Blaster [ASSAULT]",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-4",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Brace of pistols [ASSAULT, PISTOL]",
+          "Range": "12\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Corsair firearm [ASSAULT, LETHAL HITS]",
+          "Range": "24\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Dark lance [HEAVY]",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+2"
+        },
+        {
+          "Name": "Dissonance pistol [DEVASTATING WOUNDS, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Flamer [ASSAULT, IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Fusion gun [ASSAULT, MELTA 2]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-4",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Shardcarbine [ANTI-INFANTRY 3+, ASSAULT]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Shuriken cannon [SUSTAINED HITS 1]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Shuriken catapult [ASSAULT]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Splinter cannon [ANTI-INFANTRY 3+, HEAVY, SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Shredder [ASSAULT, TORRENT]",
+          "Range": "18\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Spar-glaive",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Void sabre",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their Corsair firearm replaced with one of the following:",
         "1 shardcarbine",
@@ -6068,6 +7994,37 @@
       "Leadership": "6+",
       "OC": "0",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Dark lance",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+2"
+        },
+        {
+          "Name": "Splinterstorm cannon [ANTI-INFANTRY 3+, SUSTAINED HITS 2]",
+          "Range": "36\"",
+          "A": "8",
+          "Bs": "3+",
+          "S": "3",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Bladed wings",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -6194,6 +8151,46 @@
       "Leadership": "6+",
       "OC": "3",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Storm vortex projector – beam",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6"
+        },
+        {
+          "Name": "Storm vortex projector – blast [BLAST]",
+          "Range": "24\"",
+          "A": "D6+3",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Bladevanes",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Prow blade [EXTRA ATTACKS, LANCE, SUSTAINED HITS 3]",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -6332,6 +8329,28 @@
       "Leadership": "6+",
       "OC": "5",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Pulse disintegrators [ASSAULT]",
+          "Range": "36\"",
+          "A": "12",
+          "Bs": "3+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Dire scythe blades",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],

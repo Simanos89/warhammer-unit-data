@@ -8,6 +8,37 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Exitus pistol [DEVASTATING WOUNDS, IGNORES COVER, PISTOL, PRECISION]",
+          "Range": "12\"",
+          "A": "3",
+          "Bs": "2+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Exitus rifle [DEVASTATING WOUNDS, HEAVY, IGNORES COVER, PRECISION]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "D3+3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Vindicare combat knife",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Infiltrators, Lone Operative, Stealth",
         "FACTION: Assigned Agents",
@@ -159,6 +190,28 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Animus speculum [ANTI-PSYKER 2+, ASSAULT, PRECISION, PSYCHIC ASSASSIN]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "2+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "D3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Life-draining touch [ANTI-PSYKER 2+, DEVASTATING WOUNDS, PRECISION]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Deep Strike, Lone Operative, Stealth",
         "FACTION: Assigned Agents",
@@ -313,6 +366,28 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Executioner pistol [ANTI-INFANTRY 3+, PISTOL, PRECISION, SUSTAINED HITS 3]",
+          "Range": "12\"",
+          "A": "4",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Power sword and neuro gauntlet [ANTI-INFANTRY 3+, PRECISION, SUSTAINED HITS 3]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D3, Lone Operative, Scouts 9\"",
         "FACTION: Assigned Agents",
@@ -464,6 +539,28 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Neural shredder [ANTI-INFANTRY 2+, PRECISION, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Phase sword and poison blades [LETHAL HITS, PRECISION]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "5",
+          "Ap": "-4",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Deep Strike, Fights First, Infiltrators, Lone Operative",
         "FACTION: Assigned Agents",
@@ -605,6 +702,100 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Arbites combat shotgun [ASSAULT]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Arbites grenade launcher – krak",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D3"
+        },
+        {
+          "Name": "Arbites grenade launcher – frag [BLAST]",
+          "Range": "24\"",
+          "A": "D3",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Arbites shotpistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Executioner shotgun [IGNORES COVER, PRECISION]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Heavy stubber [RAPID FIRE 3]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Webber [ASSAULT, DEVASTATING WOUNDS, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Excruciator maul",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Mechanical bite",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Up to 2 Exaction Vigilants can each have their Arbites combat shotgun replaced with one of the following (duplicates are not allowed):",
         "1 executioner shotgun",
@@ -810,6 +1001,55 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Incinerator [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Psilencer [PSYCHIC, SUSTAINED HITS 1]",
+          "Range": "24\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Psycannon [PSYCHIC]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Storm bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Nemesis force weapon [PSYCHIC]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "For every 5 models in this unit, 1 Grey Knights Terminator's storm bolter can be replaced with one of the following:",
         "1 incinerator",
@@ -996,6 +1236,127 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Autopistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Demolition charge [ASSAULT, BLAST, HAZARDOUS, ONE SHOT]",
+          "Range": "6\"",
+          "A": "D6",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Meltagun [MELTA 2]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Navis heavy shotgun [ASSAULT]",
+          "Range": "12\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Navis las-volley",
+          "Range": "18\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Navis shotgun [ASSAULT]",
+          "Range": "12\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma gun – standard [RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma gun – supercharge [HAZARDOUS, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Chainfist [ANTI-VEHICLE 3+]",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "5+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Chainsword",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Power weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "The Navis Sergeant-at-Arms’ Navis shotgun can be replaced with one of the following:",
         "1 autopistol and 1 chainsword",
@@ -1172,6 +1533,100 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Agent firearm [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Heavy bolter [HEAVY, SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Multi-melta [HEAVY, MELTA 2]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Plasma cannon – standard [BLAST, HEAVY]",
+          "Range": "36\"",
+          "A": "D3",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma cannon – supercharge [BLAST, HAZARDOUS, HEAVY]",
+          "Range": "36\"",
+          "A": "D3",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Plasma pistol – standard [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma pistol – supercharge [HAZARDOUS, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Agent melee weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Eviscerator [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Mystic stave [ANTI-INFANTRY 4+, PSYCHIC]",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "D3"
+        }
+      ],
       "Wargear Options": [
         "For every 5 Inquisitorial Agents in this unit, it can be equipped with 1 Tome-skull.",
         "For every 5 Inquisitorial Agents in this unit, 1 Inquisitorial Agent can be equipped with 1 plasma pistol.**",
@@ -1356,6 +1811,163 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Artificer-crafted storm bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "2"
+        },
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Boltgun [RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Condemnor boltgun [ANTI-PSYKER 2+, DEVASTATING WOUNDS. PRECISION, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Heavy bolter [HEAVY, SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Inferno pistol [MELTA 2, PISTOL]",
+          "Range": "6\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-4",
+          "D": "D3"
+        },
+        {
+          "Name": "Meltagun [MELTA 2]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Ministorum flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Ministorum hand flamer [IGNORES COVER, PISTOL, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Ministorum heavy flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Multi-melta [HEAVY, MELTA 2]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Plasma pistol - standard [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma pistol - supercharge [PISTOL, HAZARDOUS]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Chainsword",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Power weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "The Sister Superior’s boltgun can be replaced with one of the following:",
         "1 bolt pistol",
@@ -1544,6 +2156,37 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Arbites shotpistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Mechanical bite",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Shock maul",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "The Proctor-Subductor can be equipped with 1 nuncio aquila."
       ],
@@ -1733,6 +2376,91 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Arbites combat shotgun [ASSAULT]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Arbites grenade launcher – frag [BLAST]",
+          "Range": "24\"",
+          "A": "D3",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Arbites grenade launcher – krak",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D3"
+        },
+        {
+          "Name": "Arbites shotpistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Executioner shotgun [IGNORES COVER, PRECISION]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Heavy stubber [RAPID FIRE 3]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Webber [ASSAULT, DEVASTATING WOUNDS, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Mechanical bite",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Up to 2 Vigilants can each have their Arbites combat shotgun replaced with one of the following (duplicates are not allowed):",
         "1 executioner shotgun",
@@ -1935,6 +2663,118 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Assault cannon [DEVASTATING WOUNDS]",
+          "Range": "24\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Cyclone missile launcher – frag [BLAST]",
+          "Range": "36\"",
+          "A": "2D6",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Cyclone missile launcher – krak",
+          "Range": "36\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Heavy flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma cannon – standard [BLAST]",
+          "Range": "36\"",
+          "A": "D3",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma cannon – supercharge [BLAST, HAZARDOUS]",
+          "Range": "36\"",
+          "A": "D3",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Storm bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Chainfist [ANTI-VEHICLE 3+]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Power fist",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Power weapon",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Thunder hammer [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Twin lightning claws [TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Up to 3 Deathwatch Terminators can each have their storm bolter replaced with one of the following:",
         "1 assault cannon",
@@ -2123,6 +2963,127 @@
       "Wounds": "2",
       "Leadership": "6+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Bolt rifle [ASSAULT, HEAVY]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Hand flamer [IGNORES COVER, PISTOL, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Heavy bolt pistol [PISTOL]",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Long Vigil ranged weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma pistol – standard [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma pistol – supercharge [HAZARDOUS, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Plasma incinerator – standard [ASSAULT, HEAVY]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma incinerator – supercharge [ASSAULT, HAZARDOUS, HEAVY]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Twin bolt rifle [TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Astartes chainsword",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Long Vigil melee weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "1 Kill Team Intercessor’s bolt rifle can be replaced with one of the following:",
         "1 hand flamer",
@@ -2319,6 +3280,199 @@
       "Wounds": "2",
       "Leadership": "6+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Assault cannon [DEVASTATING WOUNDS]",
+          "Range": "24\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Boltgun",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Cyclone missile launcher – frag [BLAST]",
+          "Range": "36\"",
+          "A": "2D6",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Cyclone missile launcher – krak",
+          "Range": "36\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Frag cannon [BLAST, HEAVY, RAPID FIRE D3]",
+          "Range": "18\"",
+          "A": "D3",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Heavy flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Infernus heavy bolter – heavy bolter [HEAVY, SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Infernus heavy bolter – heavy flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Long Vigil ranged weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma cannon – standard [BLAST, HEAVY]",
+          "Range": "36\"",
+          "A": "D3",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma cannon – supercharge [BLAST, HAZARDOUS, HEAVY]",
+          "Range": "36\"",
+          "A": "D3",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Storm bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin boltgun [TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Chainfist [ANTI-VEHICLE 3+]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Deathwatch thunder hammer [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Long Vigil melee weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Power fist",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Power weapon",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Terminator thunder hammer [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Twin lightning claws [TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of Kill Team Veterans can replace their boltgun and Long Vigil melee weapon with:",
         "1 Long Vigil ranged weapon",
@@ -2531,6 +3685,109 @@
       "Wounds": "2",
       "Leadership": "6+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Accelerator autocannon [HEAVY]",
+          "Range": "48\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Bolt carbine [PRECISION]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Bolt sniper rifle [HEAVY, PRECISION]",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Las fusil [HEAVY]",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-3",
+          "D": "D6"
+        },
+        {
+          "Name": "Marksman bolt carbine [HEAVY]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Occulus bolt carbine [ASSAULT, IGNORES COVER]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Special-issue bolt pistol [PISTOL, PRECISION]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Combat knife [PRECISION]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Paired combat blades [SUSTAINED HITS 1]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "One model equipped with a marksman bolt carbine can be equipped with 1 helix gauntlet.*",
         "One model equipped with a marksman bolt carbine can be equipped with 1 Infiltrator comms array.*",
@@ -2734,6 +3991,64 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Artificer shotgun [ASSAULT]",
+          "Range": "12\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "2"
+        },
+        {
+          "Name": "Lasgun [RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Laspistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Voidsman rotor cannon [HEAVY, SUSTAINED HITS 1]",
+          "Range": "24\"",
+          "A": "6",
+          "Bs": "5+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Vicious bite",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "FACTION: Assigned Agents",
         "Masters of Close Confines: Each time a model in this unit makes a ranged attack that targets the closest eligible target, that attack has the [LETHAL HITS] ability."
@@ -2881,6 +4196,55 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Psychic Shock Wave [DEVASTATING WOUNDS, PSYCHIC, TORRENT]",
+          "Range": "18\"",
+          "A": "2D6",
+          "Bs": "N/A",
+          "S": "3",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Inquisitorial melee weapon",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Force weapon [PSYCHIC]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "D3"
+        }
+      ],
       "Wargear Options": [
         "This model’s bolt pistol can be replaced with 1 combi-weapon.",
         "This model’s blessed wardings can be replaced with 1 psychic gifts and 1 Psychic Shock Wave.",
@@ -3069,6 +4433,37 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Dirgesinger [ANTI-INFANTRY 4+, ASSAULT, DEVASTATING WOUNDS]",
+          "Range": "18\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "2"
+        },
+        {
+          "Name": "Psychic Tempest [PSYCHIC, SUSTAINED HITS 2]",
+          "Range": "18\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Power fist",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Assigned Agents",
@@ -3243,6 +4638,28 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Hellfire Extremis [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Master-crafted power weapon",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Feel No Pain 6+, Leader",
         "FACTION: Assigned Agents",
@@ -3433,6 +4850,28 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Vigil spear",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Vigil spear [LANCE]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "D3"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Assigned Agents",
@@ -3622,6 +5061,37 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Artificer bolt pistol",
+          "Range": "12\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "2"
+        },
+        {
+          "Name": "Mind Assault [DEVASTATING WOUNDS, PRECISION, PSYCHIC, SUSTAINED HITS 1]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Runestaff and Barbarisater [PSYCHIC]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -3808,6 +5278,64 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Psycannon [PSYCHIC]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Psychic shock wave [DEVASTATING WOUNDS, PSYCHIC, TORRENT]",
+          "Range": "18\"",
+          "A": "2D6",
+          "Bs": "N/A",
+          "S": "3",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Storm bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Force weapon [PSYCHIC]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "D3"
+        },
+        {
+          "Name": "Inquisitorial melee weapon",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s storm bolter can be replaced with 1 combi-weapon.",
         "This model’s blessed wardings can be replaced with 1 psychic gifts and 1 psychic shock wave.",
@@ -3998,6 +5526,37 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Psychic Blast [ANTI-DAEMON 4+, ANTI-INFANTRY 5+, DEVASTATING WOUNDS, PSYCHIC]",
+          "Range": "18\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "3",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Nemesis daemon hammer [PSYCHIC]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "9",
+          "Ap": "-3",
+          "D": "3"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Assigned Agents",
@@ -4168,6 +5727,37 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Castigation [ANTI-CHARACTER 4+, DEVASTATING WOUNDS, PRECISION, PSYCHIC]",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Condemnor stake [ANTI-PSYKER 2+, DEVASTATING WOUNDS, PRECISION, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Master-crafted power sword",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Assigned Agents",
@@ -4376,6 +5966,46 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Holy pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Zealot’s vindictor [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Power weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Zealot's vindictor",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s zealot’s vindictor can be replaced with 1 holy pistol and 1 power weapon"
       ],
@@ -4552,6 +6182,28 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Laspistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Force-orb cane [PSYCHIC]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "D3"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Assigned Agents",
@@ -4707,6 +6359,73 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Dartmask [ANTI-INFANTRY 2+, PISTOL, PRECISION]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "2",
+          "Ap": "-1",
+          "D": "D3"
+        },
+        {
+          "Name": "Household pistol [PISTOL, DEVASTATING WOUNDS]",
+          "Range": "12\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Laspistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Voltaic pistol [PISTOL, SUSTAINED HITS 2]",
+          "Range": "12\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Death Cult power blade [PRECISION]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Monomolecular cane-rapier",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Assigned Agents",
@@ -4877,6 +6596,28 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Heirloom pistol [ANTI-INFANTRY 4+, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Monomolecular rapier [SUSTAINED HITS 1]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -5049,6 +6790,28 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Negotiator pistol [PRECISION]",
+          "Range": "12\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -5221,6 +6984,37 @@
       "Leadership": "7+",
       "OC": "0",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Jokaero weapons – scattered [TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Jokaero weapons – focused",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "10",
+          "Ap": "-1",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -5370,6 +7164,37 @@
       "Wounds": "10",
       "Leadership": "6+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Hunter-killer missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6"
+        },
+        {
+          "Name": "Storm bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured tracks",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with 1 hunter-killer missile."
       ],
@@ -5487,6 +7312,82 @@
       "Wounds": "11",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Heavy bolter [SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Heavy flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Heavy stubber [RAPID FIRE 3]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Hunter-killer missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6"
+        },
+        {
+          "Name": "Lasgun array [RAPID FIRE 6]",
+          "Range": "24\"",
+          "A": "6",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Multi-laser",
+          "Range": "36\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Storm bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured tracks",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s heavy bolter can be replaced with 1 heavy flamer.",
         "This model’s multi-laser can be replaced with one of the following:",
@@ -5612,6 +7513,64 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Heavy bolter [SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Hunter-killer missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6"
+        },
+        {
+          "Name": "Immolation flamers [IGNORES COVER, TORRENT]",
+          "Range": "18\"",
+          "A": "2D6",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Twin heavy bolter [SUSTAINED HITS 2, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Twin multi-melta [MELTA 2, TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured tracks",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s immolation flamers can be replaced with one of the following:",
         "1 twin heavy bolter",
@@ -5742,6 +7701,118 @@
       "Wounds": "2",
       "Leadership": "6+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Boltgun",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Frag cannon [BLAST, HEAVY, RAPID FIRE D3]",
+          "Range": "18\"",
+          "A": "D3",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Infernus heavy bolter – heavy bolter [HEAVY, SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Infernus heavy bolter – heavy flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Stalker-pattern boltgun [HEAVY, PRECISION]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Deathwatch shotgun [ASSAULT]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Black Shield blades [TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Deathwatch thunder hammer [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Power weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Xenophase blade [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "For every 5 models in this unit, up to 2 models can each have their boltgun and power weapon replaced with one of the following:",
         "1 boltgun and 1 Astartes shield",
@@ -5940,6 +8011,64 @@
       "Wounds": "14",
       "Leadership": "6+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Blackstar rocket launcher [BLAST]",
+          "Range": "30\"",
+          "A": "D6+1",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Hurricane bolter [RAPID FIRE 6, TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Stormstrike missile launcher",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Twin assault cannon [DEVASTATING WOUNDS, TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin lascannon [TWIN-LINKED]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s twin assault cannon can be replaced with 1 twin lascannon.",
         "This model’s 2 Blackstar rocket launchers can be replaced with 2 stormstrike missile launchers.",
@@ -6077,6 +8206,28 @@
       "Leadership": "7+",
       "OC": "0",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Unholy gaze [PSYCHIC]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "D3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Warp grasp [LETHAL HITS, PSYCHIC]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -6211,6 +8362,127 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Bolt pistol [IGNORES COVER, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Boltgun [IGNORES COVER]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Heavy flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Meltagun [MELTA 2]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Multi-melta [HEAVY, MELTA 2]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Plasma gun – standard [RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma gun – supercharge [HAZARDOUS, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Plasma pistol – standard [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma pistol – supercharge [HAZARDOUS, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Astartes chainsword",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Power weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "The Legionnaire Sergeant’s boltgun can be replaced with one of the following:",
         "1 bolt pistol and 1 power weapon",
@@ -6367,6 +8639,127 @@
       "Wounds": "3",
       "Leadership": "6+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Assault bolters [ASSAULT, PISTOL, SUSTAINED HITS 2, TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Auto boltstorm gauntlets [TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Fragstorm grenade launcher [BLAST]",
+          "Range": "18\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Heavy bolt rifle [ASSAULT, HEAVY]",
+          "Range": "30\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Heavy bolter [ASSAULT, HEAVY, SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Flamestorm gauntlets [IGNORES COVER, TORRENT, TWIN-LINKED]",
+          "Range": "12\"",
+          "A": "D6+1",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Melta rifle [HEAVY, MELTA 2]",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Multi-melta [HEAVY, MELTA 2]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Plasma exterminators – standard [ASSAULT, PISTOL, TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Plasma exterminators – supercharge [ASSAULT, HAZARDOUS, PISTOL, TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Power fists [TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "For every 5 models in this unit, 1 model equipped with a heavy bolt rifle can have its heavy bolt rifle replaced with 1 heavy bolter.",
         "1 model equipped with a melta rifle can have its melta rifle replaced with 1 multi-melta.",
@@ -6557,6 +8950,64 @@
       "Wounds": "3",
       "Leadership": "6+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Long Vigil ranged weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin boltgun [TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Long Vigil melee weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Xenophase blade [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "The Veteran Biker Sergeant can be equipped with one of the following:",
         "1 Long Vigil ranged weapon",
@@ -6702,6 +9153,28 @@
       "Leadership": "6+",
       "OC": "3",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Master-crafted multi-melta [MELTA 3]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "10",
+          "Ap": "-4",
+          "D": "D6"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Master-crafted power sword",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -6862,6 +9335,127 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Boltgun",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Deathwatch twin boltgun [TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Frag cannon [BLAST, HEAVY, RAPID FIRE D3]",
+          "Range": "18\"",
+          "A": "D3",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Heavy flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Long Vigil ranged weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Psychic Cleanse [PSYCHIC]",
+          "Range": "24\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "D3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Artificer crozius",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Force weapon [PSYCHIC]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "5",
+          "Ap": "-3",
+          "D": "D3"
+        },
+        {
+          "Name": "Long Vigil melee weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Power fist",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Twin lightning claws [TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Chaplain Cassius is equipped with: artificer crozius; bolt pistol.",
         "Vael Donatus is equipped with: boltgun; bolt pistol; close combat weapon.",
@@ -7064,6 +9658,28 @@
       "Wounds": "4",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Mk 1 assault weapon [ASSAULT]",
+          "Range": "24\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Power claw",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],

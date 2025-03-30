@@ -7,6 +7,46 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Pulse blaster [ASSAULT]",
+          "Range": "10\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Pulse pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Support turret [INDIRECT FIRE, TWIN-LINKED]",
+          "Range": "30\"",
+          "A": "2",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "5+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "The Breacher Fire Warrior Shas’ui can be equipped with up to two of the following, and can take duplicates:",
         "1 guardian drone (it cannot take duplicates of this piece of wargear)",
@@ -228,6 +268,55 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Pulse carbine",
+          "Range": "20\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Pulse pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Pulse rifle [RAPID FIRE 1]",
+          "Range": "30\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Support turret [INDIRECT FIRE, TWIN-LINKED]",
+          "Range": "30\"",
+          "A": "2",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "5+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "The Fire Warrior Shas’ui can be equipped with up to two of the following, and can take duplicates:",
         "1 guardian drone (it cannot take duplicates of this piece of wargear)",
@@ -450,6 +539,37 @@
       "Wounds": "4",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Missile pod",
+          "Range": "30\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Plasma rifle",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Battlesuit fists",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their plasma rifle replaced with 1 missile pod.",
         "Any number of models can each have their missile pod replaced with 1 plasma rifle.",
@@ -679,6 +799,37 @@
       "Wounds": "4",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Burst cannon",
+          "Range": "18\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "T’au flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Battlesuit fists",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their burst cannon replaced with 1 T’au flamer.",
         "Any number of models can each have their T’au flamer replaced with 1 burst cannon.",
@@ -909,6 +1060,28 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Fusion blaster [MELTA 2]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Battlesuit fists",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can be equipped with up to two of the following, but cannot take duplicates:",
         "1 gun drone",
@@ -1135,6 +1308,91 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Drone burst cannon",
+          "Range": "18\"",
+          "A": "4",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Ion rifle – standard [HEAVY]",
+          "Range": "30\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Ion rifle – overcharge [HAZARDOUS, HEAVY]",
+          "Range": "30\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Pulse carbine",
+          "Range": "20\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Pulse pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Rail rifle [DEVASTATING WOUNDS, HEAVY]",
+          "Range": "30\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "10",
+          "Ap": "-4",
+          "D": "3"
+        },
+        {
+          "Name": "Semi-automatic grenade launcher – EMP [ANTI-VEHICLE 4+, DEVASTATING WOUNDS]",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Semi-automatic grenade launcher – fusion",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "5+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "The Pathfinder Shas’ui can be equipped with one of the following:",
         "1 grav-inhibitor drone",
@@ -1361,6 +1619,55 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Tanglebomb launcher [BLAST]",
+          "Range": "24\"",
+          "A": "D3",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Kroot pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Kroot rifle [RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Kroot carbine",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "The Long-quill’s Kroot rifle can be replaced with 1 Kroot carbine.",
         "For every 10 models in this unit, one Kroot Carnivore’s Kroot rifle can be replaced with 1 Tanglebomb launcher."
@@ -1594,6 +1901,82 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Dvorgite skinner [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Farstalker firearm [RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Kroot pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Londaxi tribalest [ANTI-VEHICLE 4+, DEVASTATING WOUNDS, HEAVY]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "T’au-tech rifle [RAPID FIRE 1]",
+          "Range": "30\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Ripping fangs",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Ritual blade",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "The Kroot Kill-broker’s Farstalker firearm can be replaced with 1 T’au-tech rifle.",
         "1 Kroot Farstalker’s Farstalker firearm can be replaced with one of the following:",
@@ -1829,6 +2212,91 @@
       "Wounds": "4",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Airbursting fragmentation projector [BLAST, INDIRECT FIRE]",
+          "Range": "24\"",
+          "A": "D6",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Burst cannon",
+          "Range": "18\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Cyclic ion blaster – standard",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Cyclic ion blaster – overcharge [HAZARDOUS]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Fusion blaster [MELTA 2]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Missile pod",
+          "Range": "30\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Plasma rifle",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "3"
+        },
+        {
+          "Name": "T’au flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Battlesuit fists",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their burst cannon replaced with one of the following:",
         "1 airbursting fragmentation projector*",
@@ -2078,6 +2546,82 @@
       "Wounds": "14",
       "Leadership": "7+",
       "OC": "3",
+      "Ranged Weapons": [
+        {
+          "Name": "Accelerator burst cannon",
+          "Range": "18\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Ion cannon – standard [BLAST]",
+          "Range": "60\"",
+          "A": "D6+3",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Ion cannon – overcharge [BLAST, HAZARDOUS]",
+          "Range": "60\"",
+          "A": "D6+3",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Railgun [HEAVY, DEVASTATING WOUNDS]",
+          "Range": "72\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "20",
+          "Ap": "-5",
+          "D": "D6+6"
+        },
+        {
+          "Name": "Seeker missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Twin pulse carbine [TWIN-LINKED]",
+          "Range": "20\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Smart missile system [INDIRECT FIRE]",
+          "Range": "30\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "5+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s railgun can be replaced with 1 ion cannon.",
         "This model’s 2 twin pulse carbines can be replaced with one of the following:",
@@ -2248,6 +2792,46 @@
       "Wounds": "4",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Fusion cascade [MELTA 4]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Phased ion gun",
+          "Range": "30\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Twin hazard burst cannon [TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Battlesuit fists",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their fusion cascade replaced with one of the following:",
         "1 phased ion gun",
@@ -2476,6 +3060,28 @@
       "Wounds": "3",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Fireblade pulse rifle [RAPID FIRE 1]",
+          "Range": "30\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with up to two of the following, and can take duplicates:",
         "1 gun drone",
@@ -2679,6 +3285,18 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Honour stave",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with 1 hover drone.",
         "This model can be equipped with up to two of the following, and can take duplicates:",
@@ -2869,6 +3487,18 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Fidelity [SUSTAINED HITS 1]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -3054,6 +3684,55 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Neutron blaster [ASSAULT]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Neutron grenade launcher [ANTI-INFANTRY 3+, BLAST]",
+          "Range": "18\"",
+          "A": "D6",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Neutron rail rifle [DEVASTATING WOUNDS]",
+          "Range": "30\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "10",
+          "Ap": "-4",
+          "D": "3"
+        },
+        {
+          "Name": "T’au flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Stingwing claws",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "If this unit contains 10 models:",
         "The Vespid Strain Leader can be equipped with 1 Oversight Drone.",
@@ -3244,6 +3923,37 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "High-intensity plasma rifle",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Dawn Blade – strike",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Dawn Blade – sweep",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "2+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Deep Strike, Leader",
         "FACTION: For the Greater Good",
@@ -3466,6 +4176,100 @@
       "Wounds": "6",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Airbursting fragmentation projector [BLAST, INDIRECT FIRE]",
+          "Range": "24\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Burst cannon",
+          "Range": "18\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Cyclic ion blaster – standard",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Cyclic ion blaster – overcharge [HAZARDOUS]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Fusion blaster [MELTA 2]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "High-output burst cannon",
+          "Range": "18\"",
+          "A": "8",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Missile pod",
+          "Range": "30\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Plasma rifle",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "3"
+        },
+        {
+          "Name": "T’au flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Battlesuit fists",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s high-output burst cannon can be replaced with one of the following:",
         "1 airbursting fragmentation projector*",
@@ -3716,6 +4520,91 @@
       "Wounds": "6",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Airbursting fragmentation projector [BLAST, INDIRECT FIRE]",
+          "Range": "24\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Burst cannon",
+          "Range": "18\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Cyclic ion blaster – standard",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Cyclic ion blaster – overcharge [HAZARDOUS]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Fusion blaster [MELTA 2]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Missile pod",
+          "Range": "30\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Plasma rifle",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "3"
+        },
+        {
+          "Name": "T’au flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Battlesuit fists",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s burst cannon can be replaced with one of the following:",
         "1 airbursting fragmentation projector*",
@@ -3965,6 +4854,91 @@
       "Wounds": "5",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Airbursting fragmentation projector [BLAST, INDIRECT FIRE]",
+          "Range": "24\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Burst cannon",
+          "Range": "18\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Cyclic ion blaster – standard",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Cyclic ion blaster – overcharge [HAZARDOUS]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Fusion blaster [MELTA 2]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Missile pod",
+          "Range": "30\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Plasma rifle",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "3"
+        },
+        {
+          "Name": "T’au flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Battlesuit fists",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s burst cannon can be replaced with one of the following:",
         "1 airbursting fragmentation projector*",
@@ -4214,6 +5188,46 @@
       "Wounds": "3",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Dart-bow and tri-blade [ANTI-INFANTRY 3+, ASSAULT, HEAVY]",
+          "Range": "24\"",
+          "A": "D3+1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "2"
+        },
+        {
+          "Name": "Kroot pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Bladestave and prey-hook [LETHAL HITS]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Shaper’s blade",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s dart-bow and tri-bade can be replaced with 1 bladestave and prey-hook."
       ],
@@ -4433,6 +5447,28 @@
       "Wounds": "3",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Kroot scattergun [ASSAULT]",
+          "Range": "12\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Twin ritualistic blades [TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Infiltrators, Leader, Scouts 7\", Stealth",
         "Ritual Butchery: While this model is leading a unit, melee weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability.",
@@ -4649,6 +5685,28 @@
       "Wounds": "3",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Kroot rifle [RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Shaper’s blade",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Infiltrators, Leader, Scouts 7\", Stealth",
         "Trail Finding: Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of this model’s unit, if this model’s unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to D6\".",
@@ -4865,6 +5923,28 @@
       "Wounds": "3",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Shade [ASSAULT]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "5",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Infiltrators, Leader, Scouts 7\"",
         "FACTION: For the Greater Good",
@@ -5051,6 +6131,55 @@
       "Wounds": "13",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Accelerator burst cannon",
+          "Range": "18\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Seeker missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Twin pulse carbine [ASSAULT, TWIN-LINKED]",
+          "Range": "20\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Smart missile system [INDIRECT FIRE]",
+          "Range": "30\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "5+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s 2 twin pulse carbines can be replaced with 2 smart missile systems.",
         "This model can be equipped with up to 2 seeker missiles."
@@ -5219,6 +6348,55 @@
       "Wounds": "14",
       "Leadership": "7+",
       "OC": "3",
+      "Ranged Weapons": [
+        {
+          "Name": "Accelerator burst cannon",
+          "Range": "18\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Seeker missile rack [TWIN-LINKED]",
+          "Range": "48\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Twin pulse carbine [ASSAULT, TWIN-LINKED]",
+          "Range": "20\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin smart missile system [INDIRECT FIRE]",
+          "Range": "30\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "5+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s 2 twin pulse carbines can be replaced with one of the following:",
         "2 accelerator burst cannons",
@@ -5389,6 +6567,37 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Experimental pulse submunitions rifle – EMP [ANTI-VEHICLE 3+, DEVASTATING WOUNDS]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "1",
+          "Ap": "0",
+          "D": "3"
+        },
+        {
+          "Name": "Experimental pulse submunitions rifle – ionic [BLAST]",
+          "Range": "24\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Battlesuit fists",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -5612,6 +6821,37 @@
       "Wounds": "4",
       "Leadership": "7+",
       "OC": "3",
+      "Ranged Weapons": [
+        {
+          "Name": "Longshot pulse rifles [HEAVY, PRECISION]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Pulse pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapons",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "5+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -5795,6 +7035,73 @@
       "Leadership": "7+",
       "OC": "0",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Heavy rail cannon [DEVASTATING WOUNDS]",
+          "Range": "120\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "26",
+          "Ap": "-5",
+          "D": "12"
+        },
+        {
+          "Name": "Ion cannon – standard [BLAST]",
+          "Range": "60\"",
+          "A": "D6+3",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Ion cannon – overcharge [BLAST, HAZARDOUS]",
+          "Range": "60\"",
+          "A": "D6+3",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Long-barrelled burst cannon array",
+          "Range": "24\"",
+          "A": "32",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Missile pod",
+          "Range": "30\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Seeker missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6+1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "5+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -5967,6 +7274,37 @@
       "Wounds": "5",
       "Leadership": "7+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Remora seeker missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Twin long-barrelled burst cannon [TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -6137,6 +7475,28 @@
       "Wounds": "7",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Pulse rifle [RAPID FIRE 1]",
+          "Range": "30\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapons",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "5+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -6312,6 +7672,55 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Flechette launcher",
+          "Range": "18\"",
+          "A": "5",
+          "Bs": "2+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "High-energy fusion blaster [MELTA 2]",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "10",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Light missile pod",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "7",
+          "Ap": "0",
+          "D": "2"
+        },
+        {
+          "Name": "Pulse pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Battlesuit fists",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Infiltrators, Lone Operative, Stealth",
         "FACTION: For the Greater Good",
@@ -6541,6 +7950,55 @@
       "Wounds": "6",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Blast javelin [ASSAULT, BLAST]",
+          "Range": "18\"",
+          "A": "D6",
+          "Bs": "4+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Kroot long gun [HEAVY, PRECISION]",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Hunting javelin [LANCE]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Kalamandra’s bite [EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s Kroot long gun can be replaced with 1 blast javelin and 1 hunting javelin."
       ],
@@ -6726,6 +8184,27 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "6+",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Supreme honour blade",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -6905,6 +8384,82 @@
       "Wounds": "14",
       "Leadership": "7+",
       "OC": "3",
+      "Ranged Weapons": [
+        {
+          "Name": "Accelerator burst cannon",
+          "Range": "18\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Ion cannon – standard [BLAST]",
+          "Range": "60\"",
+          "A": "D6+3",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Ion cannon – overcharge [BLAST, HAZARDOUS]",
+          "Range": "60\"",
+          "A": "D6+3",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Railgun [DEVASTATING WOUNDS, HEAVY]",
+          "Range": "72\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "20",
+          "Ap": "-5",
+          "D": "D6+6"
+        },
+        {
+          "Name": "Seeker missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Twin pulse carbine [ASSAULT, TWIN-LINKED]",
+          "Range": "20\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin smart missile system [INDIRECT FIRE, TWIN-LINKED]",
+          "Range": "30\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "5+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s railgun can be replaced with 1 ion cannon.",
         "This model’s 2 twin pulse carbines can be replaced with one of the following:",
@@ -7088,6 +8643,18 @@
       "Wounds": "10",
       "Leadership": "7+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Drone defenders [ASSAULT, TWIN-LINKED]",
+          "Range": "20\"",
+          "A": "8",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [],
       "Wargear Options": [
         "None"
       ],
@@ -7250,6 +8817,18 @@
       "Wounds": "14",
       "Leadership": "7+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Supremacy railgun [DEVASTATING WOUNDS, TWIN-LINKED]",
+          "Range": "72\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "20",
+          "Ap": "-5",
+          "D": "D6+6"
+        }
+      ],
+      "Melee Weapons": [],
       "Wargear Options": [
         "None"
       ],
@@ -7412,6 +8991,8 @@
       "Leadership": "7+",
       "OC": "0",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [],
+      "Melee Weapons": [],
       "Wargear Options": [
         "This model can be equipped with 1 Tidewall defence platform."
       ],
@@ -7566,6 +9147,45 @@
       "Wounds": "4",
       "Leadership": "8+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Twin burst cannon [TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "4",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin fusion blaster [MELTA 2, TWIN-LINKED]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Twin missile pod [TWIN-LINKED]",
+          "Range": "30\"",
+          "A": "2",
+          "Bs": "5+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Twin plasma rifle [TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [],
       "Wargear Options": [
         "This model’s twin plasma rifle can be replaced with one of the following:",
         "1 twin burst cannon",
@@ -7717,6 +9337,8 @@
       "Wounds": "4",
       "Leadership": "8+",
       "OC": "0",
+      "Ranged Weapons": [],
+      "Melee Weapons": [],
       "Wargear Options": [
         "None"
       ],
@@ -7859,6 +9481,64 @@
       "Wounds": "8",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Heavy rail rifle [HEAVY, DEVASTATING WOUNDS]",
+          "Range": "60\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "12",
+          "Ap": "-4",
+          "D": "D6+1"
+        },
+        {
+          "Name": "High-yield missile pods [TWIN-LINKED]",
+          "Range": "30\"",
+          "A": "6",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Seeker missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Twin plasma rifle [TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "3"
+        },
+        {
+          "Name": "Twin smart missile system [INDIRECT FIRE, TWIN-LINKED]",
+          "Range": "30\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Crushing bulk",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "5+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their heavy rail rifle replaced with 1 high-yield missile pods.",
         "Any number of models can each be equipped with up to two of the following, but cannot take duplicates:",
@@ -8080,6 +9760,73 @@
       "Wounds": "12",
       "Leadership": "7+",
       "OC": "3",
+      "Ranged Weapons": [
+        {
+          "Name": "Cyclic ion raker – standard",
+          "Range": "36\"",
+          "A": "6",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Cyclic ion raker – overcharge [HAZARDOUS]",
+          "Range": "36\"",
+          "A": "6",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Fusion collider [MELTA 2]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "12",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Twin burst cannon [TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin fusion blaster [MELTA 2, TWIN-LINKED]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Twin T’au flamer [IGNORES COVER, TORRENT, TWIN-LINKED]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Ghostkeel fists",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "5+",
+          "S": "6",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s fusion collider can be replaced with 1 cyclic ion raker.",
         "This model’s twin T’au flamer can be replaced with one of the following:",
@@ -8302,6 +10049,18 @@
       "Wounds": "1",
       "Leadership": "8+",
       "OC": "0",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Ripping fangs",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Scouts 7\", Stealth",
         "Loping Pounce: At the start of your Command phase, if this unit is within 6\" of one or more friendly KROOT INFANTRY units, then until the end of the turn, this unit is eligible to declare a charge in a turn in which it Advanced.",
@@ -8497,6 +10256,37 @@
       "Wounds": "5",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Kroot pistol and hunting javelins [ASSAULT, PISTOL]",
+          "Range": "12\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon [LANCE]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Krootox fists [EXTRA ATTACKS, SUSTAINED HITS 1]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Scouts 7\"",
         "Kroot Linebreakers: Each time this unit ends a Charge move, select one enemy unit within Engagement Range of it, then roll one D6 for each model in this unit that is within Engagement Range of that enemy unit: for each 4+, that enemy unit suffers D3 mortal wounds. If one or more enemy models are destroyed as a result of these mortal wounds, that enemy unit must take a Battle-shock test."
@@ -8692,6 +10482,46 @@
       "Wounds": "5",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Repeater cannon [RAPID FIRE 2]",
+          "Range": "36\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Tanglecannon [BLAST, HEAVY]",
+          "Range": "36\"",
+          "A": "D6+1",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Krootox fists [EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their repeater cannon replaced with 1 tanglecannon."
       ],
@@ -8910,6 +10740,55 @@
       "Wounds": "7",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Piranha burst cannon",
+          "Range": "18\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Piranha fusion blaster [MELTA 4]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Seeker missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Twin pulse carbine [TWIN-LINKED, ASSAULT]",
+          "Range": "20\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their Piranha burst cannon can be replaced with 1 Piranha fusion blaster.",
         "Any number of models can each be equipped with up to 2 seeker missiles."
@@ -9084,6 +10963,64 @@
       "Wounds": "12",
       "Leadership": "7+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Accelerator burst cannon",
+          "Range": "18\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Missile pod",
+          "Range": "30\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Quad ion turret – standard [TWIN-LINKED]",
+          "Range": "30\"",
+          "A": "8",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Quad ion turret – overcharge [HAZARDOUS, TWIN-LINKED]",
+          "Range": "30\"",
+          "A": "8",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Seeker missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6+1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "5+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s accelerator burst cannon can be replaced with 1 missile pod."
       ],
@@ -9251,6 +11188,73 @@
       "Leadership": "7+",
       "OC": "4",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Heavy burst cannon",
+          "Range": "36\"",
+          "A": "12",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Ion accelerator – standard",
+          "Range": "72\"",
+          "A": "6",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Ion accelerator – overcharge [HAZARDOUS]",
+          "Range": "72\"",
+          "A": "6",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "4"
+        },
+        {
+          "Name": "Twin fusion blaster [MELTA 2, TWIN-LINKED]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Twin plasma rifle [TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "3"
+        },
+        {
+          "Name": "Twin smart missile system [INDIRECT FIRE, TWIN-LINKED]",
+          "Range": "30\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Riptide fists",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "5+",
+          "S": "6",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s heavy burst cannon can be replaced with 1 ion accelerator.",
         "This model’s twin plasma rifles can be replaced with one of the following:",
@@ -9464,6 +11468,37 @@
       "Wounds": "2",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Burst cannon",
+          "Range": "18\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Fusion blaster [MELTA 2]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Battlesuit fists",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "The Stealth Shas’vre can be equipped with up to two of the following, and can take duplicates:",
         "1 gun drone",
@@ -9696,6 +11731,100 @@
       "Leadership": "7+",
       "OC": "6",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Cluster rocket system [BLAST, HEAVY]",
+          "Range": "48\"",
+          "A": "4D6",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Destroyer missiles [HEAVY]",
+          "Range": "72\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "16",
+          "Ap": "-4",
+          "D": "D6+2"
+        },
+        {
+          "Name": "Pulse blast cannon – focused [HEAVY]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "24",
+          "Ap": "-6",
+          "D": "12"
+        },
+        {
+          "Name": "Pulse blast cannon – dispersed [HEAVY]",
+          "Range": "48\"",
+          "A": "6",
+          "Bs": "4+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "4"
+        },
+        {
+          "Name": "Pulse driver cannon [BLAST, HEAVY]",
+          "Range": "72\"",
+          "A": "D6+3",
+          "Bs": "4+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "3"
+        },
+        {
+          "Name": "Twin airbursting fragmentation projector [BLAST, HEAVY, INDIRECT FIRE, TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "D6",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin burst cannon [HEAVY, TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin smart missile system [HEAVY, INDIRECT FIRE, TWIN-LINKED]",
+          "Range": "30\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin T’au flamer [IGNORES COVER, TORRENT, TWIN-LINKED]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Thunderous footfalls",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "5+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s pulse driver cannon can be replaced with 1 pulse blast cannon.",
         "This model’s twin T’au flamer can be replaced with one of the following:",
@@ -9868,6 +11997,64 @@
       "Wounds": "12",
       "Leadership": "7+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Missile pod",
+          "Range": "30\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Twin missile pod [TWIN-LINKED]",
+          "Range": "30\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Seeker missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Twin ion rifle – standard [TWIN-LINKED]",
+          "Range": "30\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Twin ion rifle – overcharge [HAZARDOUS, TWIN-LINKED]",
+          "Range": "30\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "5+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s missile pod can be replaced with 1 twin missile pod."
       ],
@@ -10035,6 +12222,73 @@
       "Leadership": "7+",
       "OC": "0",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Burst cannon",
+          "Range": "18\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Cyclic ion blaster – standard",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Cyclic ion blaster – overcharge [HAZARDOUS]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Missile pod",
+          "Range": "30\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Seeker missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Twin heavy rail cannon [DEVASTATING WOUNDS, TWIN-LINKED]",
+          "Range": "120\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "26",
+          "Ap": "-5",
+          "D": "12"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "5+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with up to 6 seeker missiles.",
         "This model’s 2 burst cannons can be replaced with 2 cyclic ion blasters."
@@ -10203,6 +12457,100 @@
       "Leadership": "7+",
       "OC": "10",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Burst cannon",
+          "Range": "18\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Fragmentation cluster shell launcher [BLAST]",
+          "Range": "24\"",
+          "A": "2D6+6",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Fusion eradicator [MELTA 3]",
+          "Range": "24\"",
+          "A": "5",
+          "Bs": "4+",
+          "S": "10",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Heavy rail cannon array [DEVASTATING WOUNDS, HEAVY]",
+          "Range": "120\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "26",
+          "Ap": "-5",
+          "D": "16"
+        },
+        {
+          "Name": "Nexus missile launcher",
+          "Range": "36\"",
+          "A": "8",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Pulse ordnance driver [ANTI-INFANTRY 2+]",
+          "Range": "60\"",
+          "A": "8",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Smart missile system [INDIRECT FIRE]",
+          "Range": "30\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Tri-axis ion cannon – standard [BLAST]",
+          "Range": "36\"",
+          "A": "D6+3",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Tri-axis ion cannon – supercharge [BLAST, HAZARDOUS]",
+          "Range": "36\"",
+          "A": "D6+3",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-3",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Crushing feet",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "5+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s tri-axis ion cannon can be replaced with 1 fusion eradicator.",
         "This model’s fusion eradicator can be replaced with 1 tri-axis ion cannon.",
@@ -10376,6 +12724,109 @@
       "Leadership": "7+",
       "OC": "0",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Burst cannon",
+          "Range": "18\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Cyclic ion blaster – standard",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Cyclic ion blaster – overcharge [HAZARDOUS]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Ion cannon – standard [BLAST]",
+          "Range": "60\"",
+          "A": "D6+3",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Ion cannon – overcharge [BLAST, HAZARDOUS]",
+          "Range": "60\"",
+          "A": "D6+3",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Missile pod",
+          "Range": "30\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Seeker missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Skyspear missile rack [ANTI-FLY 3+, BLAST]",
+          "Range": "72\"",
+          "A": "D6+1",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Swiftstrike burst cannon",
+          "Range": "36\"",
+          "A": "16",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Swiftstrike railgun [DEVASTATING WOUNDS]",
+          "Range": "72\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "20",
+          "Ap": "-5",
+          "D": "D6+6"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "5+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s 2 burst cannons can be replaced with 2 cyclic ion blasters.",
         "This model’s 2 ion cannons can be replaced with one of the following:",
@@ -10550,6 +13001,100 @@
       "Leadership": "7+",
       "OC": "0",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Cyclic ion blaster – standard",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Cyclic ion blaster – overcharge [HAZARDOUS]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Ion cannon – standard [BLAST]",
+          "Range": "60\"",
+          "A": "D6+3",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Ion cannon – overcharge [BLAST, HAZARDOUS]",
+          "Range": "60\"",
+          "A": "D6+3",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Long-barrelled burst cannon",
+          "Range": "24\"",
+          "A": "8",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Missile pod",
+          "Range": "30\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Seeker missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Swiftstrike burst cannon",
+          "Range": "36\"",
+          "A": "16",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Swiftstrike railgun [DEVASTATING WOUNDS]",
+          "Range": "72\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "20",
+          "Ap": "-5",
+          "D": "D6+6"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "5+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s 2 long-barrelled burst cannons can be replaced with 2 cyclic ion blasters.",
         "This model’s swiftstrike burst cannon can be replaced with one of the following:",
@@ -10720,6 +13265,55 @@
       "Wounds": "10",
       "Leadership": "7+",
       "OC": "3",
+      "Ranged Weapons": [
+        {
+          "Name": "Kroot bolt thrower [HOOKED]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "12",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Kroot rifle [RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin Kroot gun [TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Great Knarloc beak and talons [EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Kroot rifle",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with one of the following:",
         "1 Kroot bolt thrower and 1 Kroot rifle",
@@ -10897,6 +13491,37 @@
       "Wounds": "2",
       "Leadership": "8+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Burst cannon",
+          "Range": "18\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin burst cannon [TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "4",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "6+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their burst cannon and markerlight replaced with 1 twin burst cannon."
       ],
@@ -11066,6 +13691,37 @@
       "Wounds": "4",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Kroot rifle [RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Knarloc beak and talons [EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Kroot rifle",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -11244,6 +13900,37 @@
       "Wounds": "28",
       "Leadership": "7+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Long-barrelled burst cannon",
+          "Range": "36\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Missile pod",
+          "Range": "30\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "5+",
+          "S": "8",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -11415,6 +14102,28 @@
       "Leadership": "7+",
       "OC": "4",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Pulse submunitions cannon [BLAST]",
+          "Range": "60\"",
+          "A": "D6+2",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Battlesuit fists",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "5+",
+          "S": "6",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with up to 2 missile drones."
       ],
@@ -11624,6 +14333,28 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Twin pulse carbine [ASSAULT, TWIN-LINKED]",
+          "Range": "20\"",
+          "A": "2",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "6+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -11794,6 +14525,55 @@
       "Wounds": "7",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Fusion blaster [MELTA 2]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Missile pod",
+          "Range": "30\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Plasma rifle",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "3"
+        },
+        {
+          "Name": "Rail rifle [DEVASTATING WOUNDS]",
+          "Range": "30\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "10",
+          "Ap": "-4",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s 2 plasma rifles can be replaced with one of the following:",
         "2 fusion blasters",
@@ -11961,6 +14741,55 @@
       "Leadership": "7+",
       "OC": "4",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Flechette pod",
+          "Range": "12\"",
+          "A": "5",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Ionic discharge cannon – standard [BLAST]",
+          "Range": "18\"",
+          "A": "D6+1",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Ionic discharge cannon – overcharge [BLAST, HAZARDOUS]",
+          "Range": "18\"",
+          "A": "D6+1",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Phased plasma-flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "10",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Battlesuit fists",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "5+",
+          "S": "6",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with up to 2 missile drones."
       ],

@@ -7,6 +7,55 @@
       "Wounds": "2",
       "Leadership": "6+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma pistol – standard [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma pistol – supercharge [HAZARDOUS, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Berzerker chainblade",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Khornate eviscerator",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "The Khorne Berzerker Champion’s bolt pistol can be replaced with 1 plasma pistol.",
         "For every 5 models in this unit, 1 Khorne Berzerker’s bolt pistol can be replaced with 1 plasma pistol.",
@@ -205,6 +254,36 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Eightbound eviscerators",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Heavy chainglaive",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "3+",
+          "S": "7",
+          "Ap": "-3",
+          "D": "1"
+        },
+        {
+          "Name": "Lacerators",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
       "Wargear Options": [
         "The Eightbound Champion’s lacerators can be replaced with 1 heavy chainglaive."
       ],
@@ -399,6 +478,45 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Eightbound chainfist",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Eightbound eviscerator",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Heavy chainglaive",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "2+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "1"
+        },
+        {
+          "Name": "Paired Eightbound chainfists [TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "The Exalted Eightbound Champion’s Eightbound eviscerator and Eightbound chainfist can be replaced with one of the following:",
         "1 paired Eightbound chainfists",
@@ -597,6 +715,28 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Khârn’s plasma pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Gorechild",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "2+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -795,6 +935,37 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Coward’s Bane [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "7",
+          "Ws": "2+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Juggernaut’s bladed horn [EXTRA ATTACKS, LANCE]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -953,6 +1124,46 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Plasma pistol – standard [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma pistol – supercharge [HAZARDOUS, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Exalted chainblade",
+          "Range": "Melee",
+          "A": "7",
+          "Ws": "2+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Juggernaut’s bladed horn [EXTRA ATTACKS, LANCE]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -1110,6 +1321,28 @@
       "Wounds": "4",
       "Leadership": "6+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Axe of dismemberment [DEVASTATING WOUNDS, PRECISION]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -1300,6 +1533,82 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Combi-bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Heavy flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Reaper autocannon [DEVASTATING WOUNDS, SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Accursed weapon",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Paired accursed weapons [TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Chainfist [ANTI-VEHICLE 3+]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "9",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Power fist",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "For every 5 models in this unit, 1 World Eaters Terminator’s combi-bolter can be replaced with one of the following:",
         "1 heavy flamer",
@@ -1502,6 +1811,127 @@
       "Wounds": "8",
       "Leadership": "6+",
       "OC": "3",
+      "Ranged Weapons": [
+        {
+          "Name": "Combi-bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Heavy flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Helbrute plasma cannon [BLAST, HAZARDOUS]",
+          "Range": "36\"",
+          "A": "D3",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "3"
+        },
+        {
+          "Name": "Missile launcher – frag [BLAST]",
+          "Range": "48\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Missile launcher – krak",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Multi-melta [MELTA 2]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Twin autocannon [TWIN-LINKED]",
+          "Range": "48\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Twin lascannon [TWIN-LINKED]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Helbrute fist",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "12",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Helbrute hammer",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "4+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Power scourge",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s multi-melta can be replaced with one of the following:",
         "1 Helbrute plasma cannon",
@@ -1644,6 +2074,46 @@
       "Wounds": "10",
       "Leadership": "6+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Combi-bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Havoc launcher [BLAST]",
+          "Range": "48\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured tracks",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with one of the following:",
         "1 additional combi-bolter",
@@ -1786,6 +2256,27 @@
       "Leadership": "5+",
       "OC": "6",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Samni’arius and Spinegrinder – strike",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "2+",
+          "S": "16",
+          "Ap": "-4",
+          "D": "D6+2"
+        },
+        {
+          "Name": "Samni’arius and Spinegrinder – sweep",
+          "Range": "Melee",
+          "A": "18",
+          "Ws": "2+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -1925,6 +2416,37 @@
       "Leadership": "6+",
       "OC": "3",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Infernal cannon",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "2+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Hellforged weapons – strike",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Hellforged weapons – sweep",
+          "Range": "Melee",
+          "A": "14",
+          "Ws": "2+",
+          "S": "8",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -2078,6 +2600,37 @@
       "Leadership": "6+",
       "OC": "3",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Infernal cannon",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "2+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Hellforged weapons – strike",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Hellforged weapons – sweep",
+          "Range": "Melee",
+          "A": "14",
+          "Ws": "2+",
+          "S": "8",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -2231,6 +2784,55 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Autopistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Jakhal chainblades [SUSTAINED HITS 1]",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Dishonoured chainblades [SUSTAINED HITS 1]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Mauler chainblade [SUSTAINED HITS 1]",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "5+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Skullsmasher",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "For every 10 models in this unit, 1 Jakhal’s Jakhal chainblades can be replaced with 1 mauler chainblade.",
         "Any number of Dishonoured models can each have their Dishonoured chainblades replaced with 1 skullsmasher.",
@@ -2410,6 +3012,55 @@
       "Wounds": "14",
       "Leadership": "6+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Combi-bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Heavy flamer [TORRENT, IGNORES COVER]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Terrax melta cutter [MELTA 2]",
+          "Range": "12\"",
+          "A": "5",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Twin volkite charger [DEVASTATING WOUNDS, TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Termite drill [ANTI-VEHICLE 3+]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "14",
+          "Ap": "-2",
+          "D": "D3+3"
+        }
+      ],
       "Wargear Options": [
         "This model’s 2 combi-bolters can be replaced with one of the following",
         "2 heavy flamers",
@@ -2547,6 +3198,73 @@
       "Leadership": "6+",
       "OC": "8",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Daemongore cannon [BLAST]",
+          "Range": "18\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "14",
+          "Ap": "-4",
+          "D": "D6+2"
+        },
+        {
+          "Name": "Gorestorm cannon [BLAST]",
+          "Range": "24\"",
+          "A": "D6+3",
+          "Bs": "3+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Hades gatling cannon [SUSTAINED HITS 1]",
+          "Range": "48\"",
+          "A": "12",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Ichor cannon [BLAST]",
+          "Range": "48\"",
+          "A": "2D6",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Skullhurler",
+          "Range": "60\"",
+          "A": "2D6",
+          "Bs": "3+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Great cleaver of Khorne – strike",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "16",
+          "Ap": "-4",
+          "D": "8"
+        },
+        {
+          "Name": "Great cleaver of Khorne – sweep",
+          "Range": "Melee",
+          "A": "15",
+          "Ws": "3+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s gorestorm cannon can be replaced with one of the following:",
         "1 daemongore cannon",
@@ -2683,6 +3401,18 @@
       "Wounds": "4",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Hideous mutations",
+          "Range": "Melee",
+          "A": "D6+2",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -2829,6 +3559,100 @@
       "Leadership": "6+",
       "OC": "5",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Combi-bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Defiler cannon [BLAST]",
+          "Range": "48\"",
+          "A": "D6+3",
+          "Bs": "3+",
+          "S": "10",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Havoc launcher [BLAST]",
+          "Range": "48\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Reaper autocannon [DEVASTATING WOUNDS, SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Twin heavy flamer [IGNORES COVER, TORRENT, TWIN-LINKED]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Twin lascannon [TWIN-LINKED]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Defiler claws",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "16",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Defiler scourge [EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "12",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s twin heavy flamer can be replaced with one of the following:",
         "1 havoc launcher",
@@ -2976,6 +3800,46 @@
       "Leadership": "6+",
       "OC": "3",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Ectoplasma cannon [BLAST]",
+          "Range": "36\"",
+          "A": "D3",
+          "Bs": "3+",
+          "S": "10",
+          "Ap": "-3",
+          "D": "3"
+        },
+        {
+          "Name": "Hades autocannon",
+          "Range": "36\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Forgefiend claws",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Forgefiend jaws",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "7",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s 2 Hades autocannons can be replaced with 2 ectoplasma cannons.",
         "This model’s Forgefiend jaws can be replaced with 1 ectoplasma cannon and 1 Forgefiend claws."
@@ -3110,6 +3974,37 @@
       "Leadership": "6+",
       "OC": "0",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Baleflamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6+3",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Hades autocannon",
+          "Range": "36\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Heldrake claws [ANTI-FLY 2+, DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s Hades autocannon can be replaced with 1 baleflamer."
       ],
@@ -3243,6 +4138,64 @@
       "Wounds": "16",
       "Leadership": "6+",
       "OC": "5",
+      "Ranged Weapons": [
+        {
+          "Name": "Combi-bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Havoc launcher [BLAST]",
+          "Range": "48\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Soulshatter lascannon",
+          "Range": "48\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured tracks",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with one of the following:",
         "1 combi-bolter",
@@ -3386,6 +4339,37 @@
       "Leadership": "6+",
       "OC": "3",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Magma cutter [MELTA 2]",
+          "Range": "6\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Lasher tendrils [EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Maulerfiend fists",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "3+",
+          "S": "14",
+          "Ap": "-2",
+          "D": "D6+1"
+        }
+      ],
       "Wargear Options": [
         "This model’s lasher tendrils can be replaced with 2 magma cutters."
       ],
@@ -3518,6 +4502,73 @@
       "Wounds": "11",
       "Leadership": "6+",
       "OC": "3",
+      "Ranged Weapons": [
+        {
+          "Name": "Combi-bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Havoc launcher [BLAST]",
+          "Range": "48\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Heavy bolter [SUSTAINED HITS 1]",
+          "Range": "48\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Lascannon",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Predator twin lascannon [TWIN-LINKED]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6+1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured tracks",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with one of the following:",
         "2 heavy bolters",
@@ -3660,6 +4711,73 @@
       "Wounds": "11",
       "Leadership": "6+",
       "OC": "3",
+      "Ranged Weapons": [
+        {
+          "Name": "Combi-bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Havoc launcher [BLAST]",
+          "Range": "48\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Heavy bolter [SUSTAINED HITS 1]",
+          "Range": "48\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Lascannon",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Predator autocannon [RAPID FIRE 2]",
+          "Range": "48\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-1",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured tracks",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with one of the following:",
         "2 heavy bolters",
@@ -3803,6 +4921,37 @@
       "Leadership": "6+",
       "OC": "0",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Twin autocannon [TWIN-LINKED]",
+          "Range": "48\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-3",
+          "D": "3"
+        },
+        {
+          "Name": "Twin lascannon [TWIN-LINKED]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s 2 twin autocannons can be replaced with 2 twin lascannons."
       ],
@@ -3934,6 +5083,46 @@
       "Leadership": "6+",
       "OC": "0",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Autocannon",
+          "Range": "48\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Havoc launcher [BLAST]",
+          "Range": "48\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin lascannon [TWIN-LINKED]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s autocannon can be replaced with 1 havoc launcher."
       ],
@@ -4067,6 +5256,37 @@
       "Leadership": "6+",
       "OC": "3",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Impaler harpoon [ANTI-MONSTER 2+, ANTI-VEHICLE 2+, IMPALED]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Slaughter blade",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "3"
+        },
+        {
+          "Name": "Twin slaughter blade [TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "3"
+        }
+      ],
       "Wargear Options": [
         "This model’s impaler harpoon and slaughter blade can be replaced with 1 twin slaughter blade."
       ],
@@ -4197,6 +5417,73 @@
       "Wounds": "18",
       "Leadership": "6+",
       "OC": "6",
+      "Ranged Weapons": [
+        {
+          "Name": "Cerberus neutron pulse array [TWIN-LINKED]",
+          "Range": "48\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "16",
+          "Ap": "-4",
+          "D": "D6+3"
+        },
+        {
+          "Name": "Heavy bolter [SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Heavy flamer [TORRENT, IGNORES COVER]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Lascannon",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Multi-melta [MELTA 2]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Storm bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured tracks",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with one of the following:",
         "2 heavy bolters",
@@ -4340,6 +5627,64 @@
       "Wounds": "30",
       "Leadership": "6+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Hellstrike missile battery [ANTI-FLY 4+]",
+          "Range": "72\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Lascannon",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Thunderhawk heavy cannon [BLAST]",
+          "Range": "48\"",
+          "A": "D6+6",
+          "Bs": "3+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Turbo-laser destructor [BLAST]",
+          "Range": "96\"",
+          "A": "D3+1",
+          "Bs": "3+",
+          "S": "20",
+          "Ap": "-4",
+          "D": "D6+6"
+        },
+        {
+          "Name": "Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s Thunderhawk heavy cannon can be replaced with 1 turbo-laser destructor.",
         "This model’s Thunderhawk cluster bombs can be replaced with 1 hellstrike missile battery"
@@ -4479,6 +5824,100 @@
       "Leadership": "6+",
       "OC": "3",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Aiolos missile launcher [BLAST]",
+          "Range": "48\"",
+          "A": "D6+3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Anvilus autocannon battery [TWIN-LINKED]",
+          "Range": "48\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Arachnus heavy lascannon battery",
+          "Range": "48\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Boreas air defence missiles [ANTI-FLY 2+]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Hellfire plasma cannonade – standard",
+          "Range": "36\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Hellfire plasma cannonade – supercharge [HAZARDOUS]",
+          "Range": "36\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "3"
+        },
+        {
+          "Name": "Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Twin heavy flamer [IGNORES COVER, TORRENT, TWIN-LINKED]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Volkite falconet battery [DEVASTATING WOUNDS]",
+          "Range": "30\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured feet",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s anvilus autocannon battery can be replaced with one of the following",
         "1 arachnus heavy lascannon battery",
@@ -4624,6 +6063,100 @@
       "Wounds": "24",
       "Leadership": "6+",
       "OC": "8",
+      "Ranged Weapons": [
+        {
+          "Name": "Heavy bolter [SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Heavy flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Laser destroyer [HEAVY]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "14",
+          "Ap": "-4",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Multi-melta [MELTA 2]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Quad lascannon",
+          "Range": "48\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Storm bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin Falchion volcano cannon [BLAST, TWIN-LINKED]",
+          "Range": "120\"",
+          "A": "D3+1",
+          "Bs": "3+",
+          "S": "24",
+          "Ap": "-5",
+          "D": "12"
+        },
+        {
+          "Name": "Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Twin heavy flamer [IGNORES COVER, TORRENT, TWIN-LINKED]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured tracks",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s 2 quad lascannons can be replaced with 2 laser destroyers.",
         "This model’s twin heavy bolter can be replaced with 1 twin heavy flamer",
@@ -4767,6 +6300,118 @@
       "Wounds": "24",
       "Leadership": "6+",
       "OC": "8",
+      "Ranged Weapons": [
+        {
+          "Name": "Demolisher cannon [BLAST]",
+          "Range": "24\"",
+          "A": "D6+3",
+          "Bs": "3+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6"
+        },
+        {
+          "Name": "Fellblade accelerator cannon – AP shells",
+          "Range": "72\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "6"
+        },
+        {
+          "Name": "Fellblade accelerator cannon – HE shells [BLAST]",
+          "Range": "72\"",
+          "A": "2D6",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Heavy bolter [SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Heavy flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Laser destroyer [HEAVY]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "14",
+          "Ap": "-4",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Multi-melta [MELTA 2]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Quad lascannon",
+          "Range": "48\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Storm bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Twin heavy flamer [IGNORES COVER, TORRENT, TWIN-LINKED]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured tracks",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s 2 quad lascannons can be replaced with 2 laser destroyers.",
         "This model’s twin heavy bolter can be replaced with 1 twin heavy flamer",
@@ -4912,6 +6557,64 @@
       "Wounds": "18",
       "Leadership": "6+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Quad heavy bolter [TWIN-LINKED, SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Twin autocannon [TWIN-LINKED]",
+          "Range": "48\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Twin avenger bolt cannon [TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "10",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Twin hellstrike launcher [ANTI-FLY 2+, TWIN-LINKED]",
+          "Range": "72\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "10",
+          "Ap": "-3",
+          "D": "D6"
+        },
+        {
+          "Name": "Twin lascannon [TWIN-LINKED]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s 2 twin hellstrike missile launchers can be replaced with 2 twin lascannons",
         "This model’s 2 twin autocannons can be replaced with 2 quad heavy bolters."
@@ -5046,6 +6749,55 @@
       "Leadership": "6+",
       "OC": "10",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Demolisher cannon [BLAST]",
+          "Range": "24\"",
+          "A": "D6+3",
+          "Bs": "3+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6"
+        },
+        {
+          "Name": "Hellmaw flame cannons [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "2D6",
+          "Bs": "N/A",
+          "S": "8",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Scorpion cannon [SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "15",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Hellcrusher claws – strike",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "3+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "6"
+        },
+        {
+          "Name": "Hellcrusher claws – sweep",
+          "Range": "Melee",
+          "A": "18",
+          "Ws": "3+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -5180,6 +6932,154 @@
       "Wounds": "18",
       "Leadership": "6+",
       "OC": "6",
+      "Ranged Weapons": [
+        {
+          "Name": "Autocannon",
+          "Range": "48\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Havoc launcher [BLAST]",
+          "Range": "48\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Heavy bolter [SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Heavy flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Hunter-killer missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6"
+        },
+        {
+          "Name": "Kratos battle cannon – AP [HEAVY]",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "18",
+          "Ap": "-4",
+          "D": "D6+3"
+        },
+        {
+          "Name": "Kratos battle cannon – HE [BLAST]",
+          "Range": "36\"",
+          "A": "D6+3",
+          "Bs": "3+",
+          "S": "10",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Lascannons",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Melta blast-gun [MELTA 2]",
+          "Range": "24\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Multi-melta [MELTA 2]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Twin boltgun [TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Volkite caliver [DEVASTATING WOUNDS]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "2"
+        },
+        {
+          "Name": "Volkite cardanelle [DEVASTATING WOUNDS]",
+          "Range": "36\"",
+          "A": "9",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "0",
+          "D": "3"
+        },
+        {
+          "Name": "Volkite culverin [DEVASTATING WOUNDS]",
+          "Range": "36\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured tracks",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s Kratos battle cannon can be replaced with one of the following:",
         "1 melta blast-gun",
@@ -5335,6 +7235,37 @@
       "Leadership": "6+",
       "OC": "10",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Kytan gatling cannon",
+          "Range": "36\"",
+          "A": "18",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Kytan cleaver – strike",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "14",
+          "Ap": "-4",
+          "D": "6"
+        },
+        {
+          "Name": "Kytan cleaver – sweep",
+          "Range": "Melee",
+          "A": "12",
+          "Ws": "3+",
+          "S": "9",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -5470,6 +7401,73 @@
       "Leadership": "6+",
       "OC": "5",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Hunter-killer missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6"
+        },
+        {
+          "Name": "Quad launcher – shatter shells",
+          "Range": "24\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Quad launcher – thunderfire shells [BLAST, INDIRECT FIRE]",
+          "Range": "60\"",
+          "A": "D6+4",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Storm bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin multi-melta [MELTA 2, TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Twin volkite culverin [DEVASTATING WOUNDS, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured tracks",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s 2 twin volkite culverins can be replaced with 2 twin multi-melta",
         "This model can be equipped with 1 hunter-killer missile.",
@@ -5611,6 +7609,82 @@
       "Wounds": "16",
       "Leadership": "6+",
       "OC": "5",
+      "Ranged Weapons": [
+        {
+          "Name": "Heavy bolter [SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Hunter-killer missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6"
+        },
+        {
+          "Name": "Multi-melta [MELTA 2]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Storm bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin heavy bolter [TWIN-LINKED, SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Twin heavy flamer [IGNORES COVER, TORRENT, TWIN-LINKED]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Twin lascannon [TWIN-LINKED]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured tracks",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with one of the following:",
         "1 heavy bolter",
@@ -5760,6 +7834,100 @@
       "Leadership": "6+",
       "OC": "4",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Cyclonic melta lance [MELTA 2]",
+          "Range": "18\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Grav-flux bombard [ANTI-VEHICLE 2+, BLAST]",
+          "Range": "24\"",
+          "A": "2D3",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Heavy flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Hunter-killer missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6"
+        },
+        {
+          "Name": "Meltagun [MELTA 2]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Storm cannon [TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Twin volkite caliver [DEVASTATING WOUNDS, TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured feet",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Leviathan siege claw",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "12",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Leviathan siege drill [ANTI-VEHICLE 3+]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "12",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
       "Wargear Options": [
         "Each of this model’s grav-flux bombards can be replaced with one of the following",
         "1 cyclonic melta lance",
@@ -5904,6 +8072,73 @@
       "Wounds": "30",
       "Leadership": "6+",
       "OC": "12",
+      "Ranged Weapons": [
+        {
+          "Name": "Heavy bolter [SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Heavy flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Lascannon",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Siege melta array [MELTA 2]",
+          "Range": "24\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Skyreaper battery [ANTI-FLY 4+]",
+          "Range": "48\"",
+          "A": "8",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Volkite culverin [DEVASTATING WOUNDS]",
+          "Range": "36\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured tracks",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s 2 heavy flamers can be replaced with one of the following",
         "2 heavy bolters",
@@ -6051,6 +8286,73 @@
       "Wounds": "6",
       "Leadership": "6+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Boltgun",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Graviton cannon [ANTI-VEHICLE 2+, BLAST, HEAVY]",
+          "Range": "36\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Laser destroyer [HEAVY]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "14",
+          "Ap": "-4",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Quad heavy bolter [HEAVY, TWIN-LINKED, SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Quad launcher – shatter shells [HEAVY]",
+          "Range": "24\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Quad launcher – thunderfire shells [BLAST, HEAVY, INDIRECT FIRE]",
+          "Range": "60\"",
+          "A": "D6+4",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s quad heavy bolter can be replaced with one of the following",
         "1 graviton cannon",
@@ -6183,6 +8485,181 @@
       "Leadership": "6+",
       "OC": "3",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Combi-bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Conversion beam cannon [CONVERSION, SUSTAINED HITS D3]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Cyclone missile launcher – frag [BLAST]",
+          "Range": "36\"",
+          "A": "2D6",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Cyclone missile launcher – krak",
+          "Range": "36\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Graviton blaster [ANTI-VEHICLE 2+]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Twin autocannon [TWIN-LINKED]",
+          "Range": "48\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Twin heavy bolter [TWIN-LINKED, SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Twin lascannon [TWIN-LINKED]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Heavy flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Heavy plasma cannon – standard [BLAST]",
+          "Range": "36\"",
+          "A": "D3",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Heavy plasma cannon – supercharge [BLAST, HAZARDOUS]",
+          "Range": "36\"",
+          "A": "D3",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "3"
+        },
+        {
+          "Name": "Kheres-pattern assault cannon [DEVASTATING WOUNDS]",
+          "Range": "24\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Multi-melta [MELTA 2]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Plasma blaster – standard",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma blaster – supercharge [HAZARDOUS]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Twin volkite culverin [DEVASTATING WOUNDS, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured feet",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Dreadnought chainfist [ANTI-VEHICLE 3+]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "12",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Dreadnought combat weapon",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "12",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
       "Wargear Options": [
         "Each of this model’s heavy plasma cannons can be replaced with one of the following:",
         "1 conversion beam cannon",
@@ -6327,6 +8804,64 @@
       "Wounds": "14",
       "Leadership": "6+",
       "OC": "4",
+      "Ranged Weapons": [
+        {
+          "Name": "Heavy bolter [SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Herakles-pattern autocannon [RAPID FIRE 2]",
+          "Range": "48\"",
+          "A": "6",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Hunter-killer missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6"
+        },
+        {
+          "Name": "Lascannon",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Storm bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured tracks",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with one of the following:",
         "2 heavy bolters",
@@ -6467,6 +9002,64 @@
       "Wounds": "14",
       "Leadership": "6+",
       "OC": "4",
+      "Ranged Weapons": [
+        {
+          "Name": "Heavy bolter [SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Hunter-killer missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6"
+        },
+        {
+          "Name": "Lascannon",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Punisher rotary cannon [DEVASTATING WOUNDS]",
+          "Range": "36\"",
+          "A": "18",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Storm bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured tracks",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with one of the following:",
         "2 heavy bolters",
@@ -6607,6 +9200,64 @@
       "Wounds": "14",
       "Leadership": "6+",
       "OC": "4",
+      "Ranged Weapons": [
+        {
+          "Name": "Heavy bolter [SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Hunter-killer missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6"
+        },
+        {
+          "Name": "Lascannon",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Storm bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Venator neutron laser [HEAVY]",
+          "Range": "48\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "16",
+          "Ap": "-4",
+          "D": "D3+3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured tracks",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with one of the following:",
         "2 heavy bolters",
@@ -6747,6 +9398,46 @@
       "Wounds": "40",
       "Leadership": "6+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Hellstrike missile battery [ANTI-FLY 3+]",
+          "Range": "48\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "10",
+          "Ap": "-3",
+          "D": "D6"
+        },
+        {
+          "Name": "Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Twin lascannon [TWIN-LINKED]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "9",
+          "Ws": "4+",
+          "S": "9",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -6883,6 +9574,91 @@
       "Wounds": "18",
       "Leadership": "6+",
       "OC": "6",
+      "Ranged Weapons": [
+        {
+          "Name": "Heavy bolter [SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Heavy flamer [TORRENT, IGNORES COVER]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Laser destroyer [HEAVY]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "14",
+          "Ap": "-4",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Multi-melta [MELTA 2]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Quad lascannon",
+          "Range": "48\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Storm bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Twin heavy flamer [IGNORES COVER, TORRENT, TWIN-LINKED]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured tracks",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s 2 quad lascannons can be replaced with 2 laser destroyers.",
         "This model’s twin heavy bolter can be replaced with 1 twin heavy flamer",
@@ -7028,6 +9804,82 @@
       "Wounds": "18",
       "Leadership": "6+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Twin hellstrike launcher [ANTI-FLY 2+, TWIN-LINKED]",
+          "Range": "72\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "10",
+          "Ap": "-3",
+          "D": "D6"
+        },
+        {
+          "Name": "Twin lascannon [TWIN-LINKED]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Twin multi-melta [MELTA 2, TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Typhoon missile launcher – frag [BLAST]",
+          "Range": "48\"",
+          "A": "2D6",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Typhoon missile launcher – krak",
+          "Range": "48\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Vengeance launcher [BLAST]",
+          "Range": "48\"",
+          "A": "2D6",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s twin heavy bolter can be replaced with one of the following:",
         "1 twin multi-melta",
@@ -7166,6 +10018,73 @@
       "Wounds": "18",
       "Leadership": "6+",
       "OC": "6",
+      "Ranged Weapons": [
+        {
+          "Name": "Dreadhammer siege cannon [BLAST]",
+          "Range": "24\"",
+          "A": "D6+6",
+          "Bs": "3+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6"
+        },
+        {
+          "Name": "Heavy bolter [SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Heavy flamer [TORRENT, IGNORES COVER]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Lascannon",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Multi-melta [MELTA 2]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Storm bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured tracks",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with one of the following:",
         "2 heavy bolters",
@@ -7309,6 +10228,46 @@
       "Wounds": "11",
       "Leadership": "6+",
       "OC": "3",
+      "Ranged Weapons": [
+        {
+          "Name": "Hunter-killer missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6"
+        },
+        {
+          "Name": "Scorpius multi-launcher [BLAST, INDIRECT FIRE]",
+          "Range": "48\"",
+          "A": "2D3+3",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Storm bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured tracks",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with 1 hunter-killer missile.",
         "This model can be equipped with 1 storm bolter."
@@ -7446,6 +10405,37 @@
       "Wounds": "12",
       "Leadership": "6+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Twin lascannon [TWIN-LINKED]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Xiphon missile battery [ANTI-FLY 2+]",
+          "Range": "60\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],

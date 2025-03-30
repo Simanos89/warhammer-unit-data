@@ -8,6 +8,73 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Heavy phosphor blaster [IGNORES COVER]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Incendine combustor [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Kastelan phosphor blaster [IGNORES COVER]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Twin Kastelan phosphor blaster [IGNORES COVER, TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Kastelan fist",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "12",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Twin Kastelan fist [TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "12",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their twin Kastelan fist replaced with one of the following:",
         "1 Kastelan phosphor blaster and 1 Kastelan fist",
@@ -182,6 +249,82 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Mechanicus pistol [DEVASTATING WOUNDS, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Arc rifle [ANTI-VEHICLE 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "Range": "30\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "D3"
+        },
+        {
+          "Name": "Galvanic rifle",
+          "Range": "30\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma caliver – standard",
+          "Range": "30\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma caliver – supercharge [HAZARDOUS]",
+          "Range": "30\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Transuranic arquebus [HEAVY, PRECISION]",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "D3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Alpha combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "The Skitarii Ranger Alpha can be equipped with 1 Alpha combat weapon.",
         "The Skitarii Ranger Alpha’s galvanic rifle can be replaced with 1 Mechanicus pistol.",
@@ -426,6 +569,82 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Mechanicus pistol [DEVASTATING WOUNDS, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Arc rifle [ANTI-VEHICLE 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "Range": "30\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "D3"
+        },
+        {
+          "Name": "Plasma caliver – standard",
+          "Range": "30\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma caliver – supercharge [HAZARDOUS]",
+          "Range": "30\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Radium carbine [ANTI-INFANTRY 4+]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Transuranic arquebus [HEAVY, PRECISION]",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "D3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Alpha combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "The Skitarii Vanguard Alpha can be equipped with 1 Alpha combat weapon.",
         "The Skitarii Vanguard Alpha’s radium carbine can be replaced with 1 Mechanicus pistol.",
@@ -669,6 +888,28 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Electrostatic gauntlets [PISTOL, SUSTAINED HITS 2]",
+          "Range": "12\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Electrostatic gauntlets [SUSTAINED HITS 2]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Feel No Pain 5+",
         "FACTION: Doctrina Imperatives",
@@ -903,6 +1144,18 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Electroleech stave [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Feel No Pain 5+",
         "FACTION: Doctrina Imperatives",
@@ -1132,6 +1385,46 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Heavy arc rifle [ANTI-VEHICLE 4+, RAPID FIRE 2]",
+          "Range": "30\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Torsion cannon [ANTI-INFANTRY 2+, BLAST]",
+          "Range": "36\"",
+          "A": "D3",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Arc claw [ANTI-VEHICLE 4+]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Hydraulic claw",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their heavy arc rifle replaced with 1 torsion cannon.",
         "Any number of models can each have their arc claw replaced with 1 hydraulic claw."
@@ -1344,6 +1637,64 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Cognis flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Heavy grav-cannon [ANTI-VEHICLE 2+]",
+          "Range": "30\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Kataphron plasma culverin – standard",
+          "Range": "36\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Kataphron plasma culverin – supercharge [HAZARDOUS]",
+          "Range": "36\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Phosphor blaster [IGNORES COVER, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their heavy grav-cannon replaced with 1 Kataphron plasma culverin.",
         "Any number of models can each have their phosphor blaster replaced with 1 cognis flamer."
@@ -1556,6 +1907,28 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Mechanicus pistol [DEVASTATING WOUNDS, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Control stave",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Doctrina Imperatives",
@@ -1789,6 +2162,64 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Eradication ray – dissipated",
+          "Range": "24\"",
+          "A": "D3",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Eradication ray – focused",
+          "Range": "12\"",
+          "A": "D3",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Macrostubber [PISTOL]",
+          "Range": "12\"",
+          "A": "5",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Phosphor serpenta [IGNORES COVER, PISTOL]",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Volkite blaster [DEVASTATING WOUNDS]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Omnissian axe",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s macrostubber can be replaced with 1 phosphor serpenta.",
         "This model’s volkite blaster can be replaced with 1 eradication ray."
@@ -2031,6 +2462,37 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Mechanicus pistol [DEVASTATING WOUNDS, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Omnissian axe",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Servo-arm [EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Doctrina Imperatives",
@@ -2270,6 +2732,37 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Magnarail lance [HEAVY]",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Transonic cannon [DEVASTATING WOUNDS, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Omnissian staff",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s magnarail lance can be replaced with 1 transonic cannon."
       ],
@@ -2511,6 +3004,28 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Mechanicus pistol [DEVASTATING WOUNDS, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Servo-arc claw [ANTI-VEHICLE 4+, DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Doctrina Imperatives",
@@ -2749,6 +3264,46 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Mechanicus pistol [DEVASTATING WOUNDS, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Radium jezzail [ANTI-INFANTRY 3+, HEAVY, PRECISION]",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Skatros transuranic arquebus [ANTI-MONSTER 4+, ANTI-VEHICLE 4+, HEAVY, PRECISION]",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "D3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Sydonian feet",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s radium jezzail can be replaced with 1 Skatros transuranic arquebus."
       ],
@@ -2954,6 +3509,28 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Mechanicus pistol [DEVASTATING WOUNDS, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Power fist",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "Battle Protocols: At the start of the battle, if this model is leading a KASTELAN ROBOTS unit, that unit enters Aegis Protocols (see below). In your Command phase, if this model is leading a KASTELAN ROBOTS unit, you can select one protocol from those listed below for that unit to enter. Once a unit enters a protocol, it remains in that protocol until it enters a different one."
@@ -3151,6 +3728,46 @@
       "Leadership": "6+",
       "OC": "3",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Solar atomiser [BLAST, MELTA D3]",
+          "Range": "18\"",
+          "A": "D3",
+          "Bs": "2+",
+          "S": "14",
+          "Ap": "-4",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Arc scourge [ANTI-VEHICLE 4+, DEVASTATING WOUNDS, EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Cawl’s Omnissian axe",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Mechadendrite hive [EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "2D6",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "FACTION: Doctrina Imperatives",
         "Canticles of the Omnissiah: At the start of the battle round, select one of the abilities in the Canticles of the Omnissiah section (see left). Until the start of the next battle round, this model has that ability.",
@@ -3334,6 +3951,64 @@
       "Leadership": "8+",
       "OC": "0",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Heavy bolter [HEAVY, SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "6+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Multi-melta [HEAVY, MELTA 2]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "6+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Plasma cannon – standard [HEAVY, BLAST]",
+          "Range": "36\"",
+          "A": "D3",
+          "Bs": "6+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma cannon – supercharge [HEAVY, BLAST, HAZARDOUS]",
+          "Range": "36\"",
+          "A": "D3",
+          "Bs": "6+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Servitor’s servo-arm",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "5+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Servitor’s tools",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "5+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Up to 2 models can each have their Servitor’s servo-arm replaced with one of the following:",
         "1 heavy bolter and 1 Servitor’s tools",
@@ -3523,6 +4198,28 @@
       "Wounds": "3",
       "Leadership": "8+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Grav-gun [ANTI-VEHICLE 4+]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Hydraulic claw",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -3716,6 +4413,28 @@
       "Wounds": "11",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Cognis heavy stubber array [RAPID FIRE 9, SUSTAINED HITS 1, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "9",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D3, Firing Deck 2",
         "FACTION: Doctrina Imperatives",
@@ -3923,6 +4642,55 @@
       "Wounds": "14",
       "Leadership": "6+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Combi-bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Heavy flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Terrax melta cutter [MELTA 2]",
+          "Range": "12\"",
+          "A": "5",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Twin volkite charger [DEVASTATING WOUNDS, TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Termite drill [ANTI-VEHICLE 3+]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "14",
+          "Ap": "-2",
+          "D": "D3+3"
+        }
+      ],
       "Wargear Options": [
         "This model’s 2 combi-bolters can be replaced with one of the following",
         "2 heavy flamers",
@@ -4099,6 +4867,28 @@
       "Wounds": "10",
       "Leadership": "7+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Cognis heavy stubber array [RAPID FIRE 9, SUSTAINED HITS 1, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "9",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s command uplink can be replaced with 1 chaff launcher."
       ],
@@ -4283,6 +5073,46 @@
       "Wounds": "10",
       "Leadership": "7+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Cognis heavy stubber [RAPID FIRE 3, SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Heavy phosphor blaster [IGNORES COVER]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Twin cognis lascannon [SUSTAINED HITS 1, TWIN-LINKED]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s command uplink can be replaced with 1 chaff launcher."
       ],
@@ -4467,6 +5297,28 @@
       "Wounds": "10",
       "Leadership": "7+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Cognis heavy stubber array [RAPID FIRE 9, SUSTAINED HITS 1, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "9",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s command uplink can be replaced with 1 chaff launcher."
       ],
@@ -4665,6 +5517,37 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Twin cognis autocannon [SUSTAINED HITS 1]",
+          "Range": "48\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Twin cognis lascannon [SUSTAINED HITS 1]",
+          "Range": "48\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Ironstrider feet",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their twin cognis autocannon replaced with 1 twin cognis lascannon."
       ],
@@ -4873,6 +5756,82 @@
       "Leadership": "7+",
       "OC": "3",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Cognis heavy stubber [RAPID FIRE 3, SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Daedalus missile launcher [ANTI-FLY 2+]",
+          "Range": "48\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Eradication beamer – dissipated [BLAST, SUSTAINED HITS D3]",
+          "Range": "36\"",
+          "A": "2D3",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Eradication beamer – focused [BLAST, SUSTAINED HITS D3]",
+          "Range": "18\"",
+          "A": "2D3",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-3",
+          "D": "3"
+        },
+        {
+          "Name": "Neutron laser [HEAVY]",
+          "Range": "48\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "16",
+          "Ap": "-4",
+          "D": "D6+2"
+        },
+        {
+          "Name": "Icarus array [ANTI-FLY 4+, TWIN-LINKED]",
+          "Range": "48\"",
+          "A": "6",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Twin Onager heavy phosphor blaster [IGNORES COVER, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "12",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Dunecrawler legs",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s eradication beamer can be replaced with one of the following:",
         "1 daedalus missile launcher and 1 Icarus array",
@@ -5075,6 +6034,46 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Flechette blaster [PISTOL]",
+          "Range": "12\"",
+          "A": "5",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Flechette carbine",
+          "Range": "18\"",
+          "A": "6",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Taser goad [SUSTAINED HITS 2]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Deep Strike",
         "FACTION: Doctrina Imperatives",
@@ -5280,6 +6279,46 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Flechette blaster [PISTOL]",
+          "Range": "12\"",
+          "A": "5",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Phosphor torch [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Pteraxii talons",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Taser goad [SUSTAINED HITS 2]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Deep Strike",
         "FACTION: Doctrina Imperatives",
@@ -5479,6 +6518,37 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Mechanicus pistol [DEVASTATING WOUNDS, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Galvanic carbine [DEVASTATING WOUNDS]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Cavalry sabre and clawed limbs",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "1 Serberys Raider can be equipped with 1 enhanced data-tether."
       ],
@@ -5649,6 +6719,64 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Mechanicus pistol [PISTOL, DEVASTATING WOUNDS]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Phosphor blast carbine [BLAST, IGNORES COVER]",
+          "Range": "18\"",
+          "A": "D6",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Phosphor pistol [IGNORES COVER, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Sulphur breath [IGNORES COVER, PISTOL, TORRENT]",
+          "Range": "9\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "3",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Cavalry arc maul [ANTI-VEHICLE 4+, DEVASTATING WOUNDS, EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Clawed limbs",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "For every 3 models in this unit, 1 Serberys Sulphurhound’s 2 phosphor pistols can be replaced with 1 phosphor blast carbine and 1 phosphor pistol."
       ],
@@ -5817,6 +6945,46 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Flechette blaster [PISTOL]",
+          "Range": "12\"",
+          "A": "5",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Stubcarbine [PISTOL]",
+          "Range": "12\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Power weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Taser goad [SUSTAINED HITS 2]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their stubcarbine and power weapon replaced with 1 flechette blaster and 1 taser goad."
       ],
@@ -6060,6 +7228,36 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Transonic blades [DEVASTATING WOUNDS, PRECISION]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Transonic blades and chordclaw [ANTI-INFANTRY 3+, DEVASTATING WOUNDS, PRECISION]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Transonic razor and chordclaw [ANTI-INFANTRY 3+, PRECISION]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of Sicarian Ruststalkers can each have their transonic razor and chordclaw replaced with 1 transonic blades.",
         "The Sicarian Ruststalker Princeps’ transonic razor and chordclaw can be replaced with 1 transonic blades and chordclaw."
@@ -6297,6 +7495,55 @@
       "Wounds": "12",
       "Leadership": "7+",
       "OC": "3",
+      "Ranged Weapons": [
+        {
+          "Name": "Belleros energy cannon [BLAST, INDIRECT FIRE]",
+          "Range": "36\"",
+          "A": "2D6",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Cognis heavy stubber [RAPID FIRE 3, SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Disruptor missile launcher [TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Ferrumite cannon",
+          "Range": "48\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s belleros energy cannon can be replaced with 1 ferrumite cannon."
       ],
@@ -6491,6 +7738,37 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Phosphor serpenta [IGNORES COVER, PISTOL]",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Radium jezzail [ANTI-INFANTRY 3+, HEAVY, PRECISION]",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Ironstrider feet",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise 1, Stealth",
         "FACTION: Doctrina Imperatives",
@@ -6702,6 +7980,28 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Phosphor serpenta [IGNORES COVER, PISTOL]",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Taser lance [ANTI-WALKER 2+, LANCE, SUSTAINED HITS 2]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise 1, Stealth",
         "FACTION: Doctrina Imperatives",
@@ -6913,6 +8213,46 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Arc lance [ANTI-VEHICLE 4+, DEVASTATING WOUNDS]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Archeotech pistol [DEVASTATING WOUNDS, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Alpha close combat weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Arc lance [ANTI-VEHICLE 4+, DEVASTATING WOUNDS, LANCE]",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "The Hoplite Alpha’s arc lance can be replaced with 1 Archeotech pistol.",
         "The Hoplite Alpha can be equipped with 1 Alpha close combat weapon.",
@@ -7110,6 +8450,55 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Archeotech pistol [DEVASTATING WOUNDS, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Galvanic caster – flechette [ASSAULT]",
+          "Range": "18\"",
+          "A": "5",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Galvanic caster – hammershot [HEAVY]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Alpha close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "The Peltast Alpha’s arc lance can be replaced with 1 Archeotech pistol.",
         "The Peltast Alpha can be equipped with 1 Alpha close combat weapon.",

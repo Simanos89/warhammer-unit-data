@@ -8,6 +8,163 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Artificer-crafted storm bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "2"
+        },
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Boltgun [RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Condemnor boltgun [ANTI-PSYKER 2+, DEVASTATING WOUNDS, PRECISION, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Heavy bolter [HEAVY, SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Inferno pistol [MELTA 2, PISTOL]",
+          "Range": "6\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-4",
+          "D": "D3"
+        },
+        {
+          "Name": "Meltagun [MELTA 2]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Ministorum flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Ministorum hand flamer [IGNORES COVER, PISTOL, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Ministorum heavy flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Multi-melta [HEAVY, MELTA 2]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Plasma pistol – standard [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma pistol – supercharge [HAZARDOUS, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Chainsword",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Power weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "The Sister Superior’s boltgun can be replaced with one of the following:",
         "1 bolt pistol",
@@ -266,6 +423,82 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Inferno pistol [MELTA 2, PISTOL]",
+          "Range": "6\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-4",
+          "D": "D3"
+        },
+        {
+          "Name": "Ministorum hand flamer [IGNORES COVER, PISTOL, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma pistol – standard [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma pistol – supercharge [HAZARDOUS, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Anointed halberd [SUSTAINED HITS 1]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Hallowed mace [LETHAL HITS]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Spear of the faithful",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their hallowed mace replaced with 1 anointed halberd.",
         "The Sacresant Superior’s bolt pistol can be replaced with one of the following:",
@@ -506,6 +739,136 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Artificer-crafted storm bolter [ASSAULT, RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "2"
+        },
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Boltgun [ASSAULT, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Condemnor boltgun [ANTI-PSYKER 2+, DEVASTATING WOUNDS, PRECISION, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Inferno pistol [MELTA 2, PISTOL]",
+          "Range": "6\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-4",
+          "D": "D3"
+        },
+        {
+          "Name": "Meltagun [ASSAULT, MELTA 2]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Ministorum flamer [ASSAULT, IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Ministorum hand flamer [IGNORES COVER, PISTOL, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma pistol – standard [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma pistol – supercharge [HAZARDOUS, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Chainsword",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Power weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "The Dominion Superior’s boltgun can be replaced with one of the following:",
         "1 bolt pistol",
@@ -754,6 +1117,136 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Boltgun [RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Condemnor boltgun [ANTI-PSYKER 2+, DEVASTATING WOUNDS, PRECISION, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Heavy bolter [HEAVY, SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Inferno pistol [MELTA 2, PISTOL]",
+          "Range": "6\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-4",
+          "D": "D3"
+        },
+        {
+          "Name": "Ministorum hand flamer [IGNORES COVER, PISTOL, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Ministorum heavy flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Multi-melta [HEAVY, MELTA 2]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Plasma pistol – standard [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma pistol – supercharge [HAZARDOUS, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Chainsword",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Power weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "The Retributor Superior’s boltgun can be replaced with one of the following:",
         "1 bolt pistol",
@@ -972,6 +1465,100 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Autopistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Autogun [RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Boltgun [RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Ministorum flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma pistol – standard [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma pistol – supercharge [HAZARDOUS, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Novitiate melee weapons",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Power weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "The Novitiate Superior’s bolt pistol and boltgun can be replaced with one of the following:",
         "1 bolt pistol and 1 power weapon",
@@ -1205,6 +1792,18 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Power weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -1405,6 +2004,82 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Inferno pistol [MELTA 2, PISTOL]",
+          "Range": "6\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-4",
+          "D": "D3"
+        },
+        {
+          "Name": "Ministorum hand flamer [IGNORES COVER, PISTOL, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma pistol – standard [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma pistol – supercharge [HAZARDOUS, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Chainsword",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Power weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "For every 5 models in the unit, up to 2 Seraphim can each have their 2 bolt pistols replaced with one of the following:",
         "2 inferno pistols",
@@ -1645,6 +2320,46 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma pistol – standard [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma pistol – supercharge [HAZARDOUS, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Power weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "The Zephyrim Superior can be equipped with 1 sacred banner.",
         "The Zephyrim Superior’s bolt pistol can be replaced with 1 plasma pistol."
@@ -1878,6 +2593,46 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma pistol – standard [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma pistol – supercharge [HAZARDOUS, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Palatine blade",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s bolt pistol can be replaced with 1 plasma pistol."
       ],
@@ -2112,6 +2867,28 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Twin Ministorum heavy flamer [IGNORES COVER, TORRENT, TWIN-LINKED]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Mace of Castigation",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise 1, Leader",
         "FACTION: Acts of Faith",
@@ -2309,6 +3086,37 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Blade of Vigil",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Scribe’s staff",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Acts of Faith",
@@ -2540,6 +3348,18 @@
       "Leadership": "8+",
       "OC": "1",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Arco-flails [SUSTAINED HITS 1]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Feel No Pain 5+",
         "FACTION: Acts of Faith",
@@ -2787,6 +3607,82 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Heavy bolter [SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Ministorum heavy flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Multi-melta [MELTA 2]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Paragon grenade launchers [TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D3"
+        },
+        {
+          "Name": "Paragon storm bolters [RAPID FIRE 2, TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Paragon war blade",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Paragon war mace",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "12",
+          "Ap": "-1",
+          "D": "3"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their Paragon storm bolters replaced with 1 Paragon grenade launchers.",
         "Any number of models can each have their Paragon war blade replaced with 1 Paragon war mace.",
@@ -2993,6 +3889,91 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Brazier of holy fire [IGNORES COVER, ONE SHOT, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Condemnor boltgun [ANTI-PSYKER 2+, DEVASTATING WOUNDS, PRECISION, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Inferno pistol [MELTA 2, PISTOL]",
+          "Range": "6\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "8",
+          "Ap": "-4",
+          "D": "D3"
+        },
+        {
+          "Name": "Plasma pistol – standard [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma pistol – supercharge [HAZARDOUS, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Blessed blade [LETHAL HITS]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Hallowed Chainsword",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "3",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Power weapon",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s bolt pistol can be replaced with one of the following:",
         "1 condemnor boltgun",
@@ -3241,6 +4222,28 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Dialogus staff",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Acts of Faith",
@@ -3467,6 +4470,28 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Mace of the righteous",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Acts of Faith",
@@ -3698,6 +4723,28 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Chirurgeon’s tools",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Acts of Faith",
@@ -3924,6 +4971,37 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Boltgun [RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Acts of Faith",
@@ -4155,6 +5233,46 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Holy pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Zealot’s vindictor [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Power Weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Zealot’s vindictor",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s zealot’s vindictor can be replaced with 1 holy pistol and 1 power weapon."
       ],
@@ -4425,6 +5543,37 @@
       "Leadership": "6+",
       "OC": "6",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Bolt pistols [PISTOL]",
+          "Range": "12\"",
+          "A": "6",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Relic weapons",
+          "Range": "Melee",
+          "A": "18",
+          "Ws": "2+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "RELICS OF THE MATRIARCHS",
+          "Range": "The Fiery Heart (Aura): While a friendly ADEPTA SORORITAS unit is within 6\" of this model, add 2\" to that unit's Move characteristic and add 1 to Advance and Charge rolls made for that unit.",
+          "A": "Censer of the Sacred Rose (Aura): While a friendly ADEPTA SORORITAS unit is within 6\" of this model, you can re-roll Battle-shock tests taken for that unit.",
+          "Ws": "Simulacrum of the Ebon Chalice (Aura): While a friendly ADEPTA SORORITAS unit is within 6\" of this model, that unit can perform up to two Acts of Faith per phase, instead of only one.",
+          "S": "Simulacrum of the Argent Shroud (Aura): While a friendly ADEPTA SORORITAS unit is within 6\" of this model, each time a model in that unit makes a ranged attack, re-roll a Wound roll of 1.",
+          "Ap": "Icon of the Valorous Heart (Aura): While a friendly ADEPTA SORORITAS unit is within 6\" of this model, models in that unit have the Feel No Pain 6+ ability.",
+          "D": "Petals of the Bloody Rose (Aura): While a friendly ADEPTA SORORITAS unit is within 6\" of this model, improve the Armour Penetration characteristic of melee weapons equipped by models in that unit by 1."
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Acts of Faith",
@@ -4634,6 +5783,8 @@
       "Wounds": "20",
       "Leadership": "7+",
       "OC": "0",
+      "Ranged Weapons": [],
+      "Melee Weapons": [],
       "Abilities": [
         "CORE: Deadly Demise D6",
         "FACTION: Acts of Faith",
@@ -4792,6 +5943,55 @@
       "Leadership": "6+",
       "OC": "3",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Fidelis [SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "2+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Paragon missile launcher – prioris",
+          "Range": "36\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Paragon missile launcher – sanctorum [BLAST]",
+          "Range": "36\"",
+          "A": "2D6",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Lance of Illumination – strike [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Lance of Illumination – sweep [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "10",
+          "Ws": "2+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise 1, Leader",
         "FACTION: Acts of Faith",
@@ -5002,6 +6202,46 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Ministorum hand flamer [IGNORES COVER, PISTOL, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Blessed halberd",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Holy Eviscerator [SUSTAINED HITS 1]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "2+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Power weapon",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s blessed halberd can be replaced with one of the following:",
         "1 holy eviscerator",
@@ -5242,6 +6482,46 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "The Ardent Blade [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Power weapon",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "The Ardent Blade [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "6",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Deep Strike, Leader",
         "FACTION: Acts of Faith",
@@ -5445,6 +6725,37 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Sanctity [ANTI-CHAOS 2+, PRECISION]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "The Outcast’s Weapons [PRECISION]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Deep Strike, Fights First, Lone Operative",
         "FACTION: Acts of Faith",
@@ -5675,6 +6986,28 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Ministorum hand flamer [IGNORES COVER, PISTOL, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "The Thorn of the White Rose",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -5883,6 +7216,64 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Heavy bolter [SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Hunter-killer missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6"
+        },
+        {
+          "Name": "Immolation flamers [IGNORES COVER, TORRENT]",
+          "Range": "18\"",
+          "A": "2D6",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Twin heavy bolter [SUSTAINED HITS 2, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Twin multi-melta [MELTA 2, TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured tracks",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with 1 hunter-killer missile.",
         "This model’s immolation flamers can be replaced with one of the following:",
@@ -6090,6 +7481,37 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Hunter-killer missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6"
+        },
+        {
+          "Name": "Storm bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured tracks",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with 1 hunter-killer missile."
       ],
@@ -6294,6 +7716,55 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Heavy flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Hunter-killer missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6"
+        },
+        {
+          "Name": "Repressor twin heavy flamer [IGNORES COVER, TORRENT, TWIN-LINKED]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Storm bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Dozer ram",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "7",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with 1 hunter-killer missile.",
         "This model can be equipped with one of the following:",
@@ -6503,6 +7974,64 @@
       "Leadership": "7+",
       "OC": "3",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Castigator autocannons [RAPID FIRE 4, TWIN-LINKED]",
+          "Range": "48\"",
+          "A": "4",
+          "Bs": "3+",
+          "S": "9",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Castigator battle cannon [BLAST, IGNORES COVER]",
+          "Range": "48\"",
+          "A": "D6+3",
+          "Bs": "3+",
+          "S": "10",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Heavy bolter [SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Hunter-killer missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6"
+        },
+        {
+          "Name": "Storm bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured tracks",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s Castigator autocannons can be replaced with 1 Castigator battle cannon.",
         "This model can be equipped with 1 hunter-killer missile.",
@@ -6697,6 +8226,55 @@
       "Leadership": "7+",
       "OC": "3",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Exorcist conflagration rockets [BLAST, IGNORES COVER, INDIRECT FIRE]",
+          "Range": "36\"",
+          "A": "3D6",
+          "Bs": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Exorcist missile launcher [INDIRECT FIRE]",
+          "Range": "36\"",
+          "A": "D6+2",
+          "Bs": "3+",
+          "S": "10",
+          "Ap": "-3",
+          "D": "D6"
+        },
+        {
+          "Name": "Heavy bolter [SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Hunter-killer missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured tracks",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with 1 hunter-killer missile.",
         "This model’s Exorcist missile launcher can be replaced with 1 Exorcist conflagration rockets."
@@ -6890,6 +8468,64 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Heavy bolter [SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Mortifier flamer [IGNORES COVER, TORRENT, TWIN-LINKED]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Penitent buzz-blade [SUSTAINED HITS 1]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "10",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Penitent flail [SUSTAINED HITS 1]",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Twin penitent buzz-blades [SUSTAINED HITS 1, TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "10",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Twin penitent flails [SUSTAINED HITS 1, TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "1 model can be equipped with 1 anchorite sarcophagus.",
         "Any number of models can each have their 2 heavy bolters replaced with one of the following:",
@@ -7120,6 +8756,55 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Penitent flamers [ASSAULT, IGNORES COVER, TORRENT, TWIN-LINKED]",
+          "Range": "12\"",
+          "A": "2D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Penitent buzz-blade [SUSTAINED HITS 1]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "10",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Penitent flail [SUSTAINED HITS 1]",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Twin penitent buzz-blades [SUSTAINED HITS 1, TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "10",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Twin penitent flails [SUSTAINED HITS 1, TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their twin penitent buzz-blades replaced with one of the following:",
         "1 penitent buzz-blade and 1 penitent flail",
@@ -7344,6 +9029,37 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Neural whips [ANTI-INFANTRY 4+]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Penitent eviscerator [SUSTAINED HITS 1]",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Feel No Pain 5+",
         "FACTION: Acts of Faith",
@@ -7601,6 +9317,18 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Death Cult power blades [PRECISION]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],

@@ -1,5 +1,237 @@
 {
   "leagues-of-votann": {
+    "Br%C3%B4khyr-Iron-master": {
+      "Movement": "5\"",
+      "Toughness": "5",
+      "Save": "4+",
+      "Wounds": "4",
+      "Leadership": "7+",
+      "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Autoch-pattern bolt pistol",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Graviton rifle [ANTI-VEHICLE 2+]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Las-beam cutter",
+          "Range": "6\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-3",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Graviton hammer [ANTI-VEHICLE 2+]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "9",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Manipulator arms",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma torch",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Leader",
+        "FACTION: Eye of the Ancestors",
+        "Multispectral Visor: While this model is leading a unit, each time a model in that unit makes a ranged attack, add 1 to the Hit roll.",
+        "Brôkhyr’s Guild: At the end of your Movement phase, this unit can repair one friendly LEAGUES OF VOTANN VEHICLE or EXO-FRAME model within 3\" of it. That model regains up to D3 lost wounds, or up to 3 lost wounds instead if this unit contains an Ironkyn Assistant. Each model can only be repaired once per turn."
+      ],
+      "Unit Composition": [
+        "1 Brôkhyr Iron-master",
+        "1 Ironkin Assistant*",
+        "3 E-COGs*",
+        "* If this unit’s Iron-master is ever destroyed, this unit’s Ironkyn Assistant and all remaining E-COGs are also destroyed."
+      ],
+      "Faction Keywords": [
+        "LEAGUES OF VOTANN"
+      ],
+      "Points": [
+        {
+          "Models": "5",
+          "Cost": "65"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "MATERIALISATION MATRICES",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNYIELDING AGGRESSION",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SUPERIOR CRAFTSMANSHIP",
+          "CP": "2CP",
+          "Source": "HEARTHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "SURE OF PURPOSE",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ORDERED RETREAT",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ANCESTRAL SENTENCE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "NEWFOUND NEMESIS",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "REACTIVE REPRISAL",
+          "CP": "2CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "VOID ARMOUR",
+          "CP": "1CP",
+          "Source": "OATHBAND – WARGEAR"
+        },
+        {
+          "Name": "WARRIOR PRIDE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "RELIC CYPHER",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "CORRIDOR COVERED",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – BATTLE TACTIC"
+        },
+        {
+          "Name": "JUDGED AND PUNISHED",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Ruthless Efficiency"
+    },
     "Einhyr-Champion": {
       "Movement": "5\"",
       "Toughness": "6",
@@ -7,6 +239,37 @@
       "Wounds": "5",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Autoch-pattern combi-bolter",
+          "Range": "24\"",
+          "A": "4",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Darkstar axe",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Mass hammer",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "12",
+          "Ap": "-2",
+          "D": "D6+1"
+        }
+      ],
       "Wargear Options": [
         "This model’s mass hammer can be replaced with 1 darkstar axe.",
         "This model’s weavefield crest can be replaced with 1 teleport crest."
@@ -195,6 +458,55 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Autoch-pattern bolter",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Ancestral Wrath – witchfire [PSYCHIC]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "2+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "D3"
+        },
+        {
+          "Name": "Ancestral Wrath – focused witchfire [HAZARDOUS, PSYCHIC]",
+          "Range": "24\"",
+          "A": "6",
+          "Bs": "2+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "D3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Ancestral ward stave [PSYCHIC]",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "D3"
+        },
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -352,6 +664,425 @@
       ],
       "Detachment Ability": "Ruthless Efficiency"
     },
+    "K-hl": {
+      "Movement": "5\"",
+      "Toughness": "5",
+      "Save": "3+",
+      "Wounds": "4",
+      "Leadership": "7+",
+      "OC": "1",
+      "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Autoch-pattern combi-bolter",
+          "Range": "24\"",
+          "A": "4",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Volkanite disintegrator [DEVASTATING WOUNDS]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "2+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Forgewrought plasma axe",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Mass gauntlet",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
+      "Wargear Options": [
+        "This model’s Autoch-pattern combi-bolter can be replaced with 1 volkanite disintegrator.",
+        "This model’s forgewrought plasma axe can be replaced with 1 mass gauntlet.",
+        "This model’s rampart crest can be replaced with 1 teleport crest."
+      ],
+      "Abilities": [
+        "CORE: Leader",
+        "FACTION: Eye of the Ancestors",
+        "Kindred Hero: While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability.",
+        "Grim Efficiency: Once per battle round, in your Command phase, you can select one model from your army with this ability, then select one enemy unit that is visible to that model. That enemy unit gains 1 Judgement token.",
+        "WARGEAR ABILITIES",
+        "Rampart Crest: While this model is leading a unit, models in that unit have a 5+ invulnerable save.",
+        "Teleport Crest: While this model is leading a unit, models in that unit have the Deep Strike ability."
+      ],
+      "Unit Composition": [
+        "1 Kâhl",
+        "This model is equipped with: Autoch-pattern combi-bolter; forgewrought plasma axe; rampart crest.",
+        "1 model",
+        "70",
+        "LEADER",
+        "This model can be attached to the following units:",
+        "Einhyr Hearthguard",
+        "Hearthkyn Warriors"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "KÂHL"
+      ],
+      "Faction Keywords": [
+        "LEAGUES OF VOTANN"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "MATERIALISATION MATRICES",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNYIELDING AGGRESSION",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BRËKKEKNOTS",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "SUPERIOR CRAFTSMANSHIP",
+          "CP": "2CP",
+          "Source": "HEARTHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "SURE OF PURPOSE",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ORDERED RETREAT",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ANCESTRAL SENTENCE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "NEWFOUND NEMESIS",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "REACTIVE REPRISAL",
+          "CP": "2CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "VOID ARMOUR",
+          "CP": "1CP",
+          "Source": "OATHBAND – WARGEAR"
+        },
+        {
+          "Name": "WARRIOR PRIDE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "RELIC CYPHER",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "CORRIDOR COVERED",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – BATTLE TACTIC"
+        },
+        {
+          "Name": "JUDGED AND PUNISHED",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Ruthless Efficiency"
+    },
+    "%C3%9Bthar-the-Destined": {
+      "Movement": "5\"",
+      "Toughness": "5",
+      "Save": "3+",
+      "Wounds": "5",
+      "Leadership": "7+",
+      "OC": "1",
+      "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Volkanite disintegrator [DEVASTATING WOUNDS]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "2+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Blade of the Ancestors [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "6",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
+      "Wargear Options": [
+        "None"
+      ],
+      "Abilities": [
+        "CORE: Leader",
+        "FACTION: Eye of the Ancestors",
+        "Ancestral Fortune: Once per turn, you can change one Hit roll or one Wound roll made for this model to an unmodified 6.",
+        "The Destined: Each time an attack is allocated to this model, change the Damage characteristic of that attack to 1.",
+        "Grim Efficiency: Once per battle round, in your Command phase, you can select one model from your army with this ability, then select one enemy unit that is visible to that model. That enemy unit gains 1 Judgement token.",
+        "WARGEAR ABILITIES",
+        "Rampart Crest: While the bearer is leading a unit, models in that unit have a 5+ invulnerable save."
+      ],
+      "Unit Composition": [
+        "1 Ûthar the Destined – EPIC HERO",
+        "This model is equipped with: volkanite disintegrator; Blade of the Ancestors; rampart crest.",
+        "1 model",
+        "80",
+        "LEADER",
+        "This model can be attached to the following units:",
+        "Einhyr Hearthguard",
+        "Hearthkyn Warriors"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "CHARACTER",
+        "EPIC HERO",
+        "ÛTHAR THE DESTINED"
+      ],
+      "Faction Keywords": [
+        "LEAGUES OF VOTANN"
+      ],
+      "Stratagems": [
+        {
+          "Name": "BATTLEFIELD COMMAND",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EPIC CHALLENGE",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "MATERIALISATION MATRICES",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNYIELDING AGGRESSION",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "BRËKKEKNOTS",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "SUPERIOR CRAFTSMANSHIP",
+          "CP": "2CP",
+          "Source": "HEARTHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "SURE OF PURPOSE",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ORDERED RETREAT",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ANCESTRAL SENTENCE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "NEWFOUND NEMESIS",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "REACTIVE REPRISAL",
+          "CP": "2CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "VOID ARMOUR",
+          "CP": "1CP",
+          "Source": "OATHBAND – WARGEAR"
+        },
+        {
+          "Name": "WARRIOR PRIDE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "RELIC CYPHER",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "CORRIDOR COVERED",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – BATTLE TACTIC"
+        },
+        {
+          "Name": "JUDGED AND PUNISHED",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Ruthless Efficiency"
+    },
     "Hearthkyn-Warriors": {
       "Movement": "5\"",
       "Toughness": "5",
@@ -359,6 +1090,127 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Autoch-pattern bolt pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Autoch-pattern bolter",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "EtaCarn plasma beamer [SUSTAINED HITS D3]",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "EtaCarn plasma pistol [PISTOL]",
+          "Range": "6\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "HYLas auto rifle [ASSAULT, RAPID FIRE 3]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "HYLas rotary cannon [HEAVY, SUSTAINED HITS 1]",
+          "Range": "24\"",
+          "A": "6",
+          "Bs": "5+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Ion blaster",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Ion pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "L7 missile launcher – focused",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "L7 missile launcher – blast [BLAST]",
+          "Range": "24\"",
+          "A": "D6",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Magna-rail rifle [DEVASTATING WOUNDS, HEAVY]",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D3+3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Kin melee weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "All models in this unit can each have their Autoch-pattern bolter replaced with 1 ion blaster.",
         "Up to 2 Hearthkyn Warriors can each have their Autoch-pattern bolter or ion blaster replaced with one of the following:",
@@ -553,6 +1405,73 @@
       "Wounds": "9",
       "Leadership": "7+",
       "OC": "3",
+      "Ranged Weapons": [
+        {
+          "Name": "HYLas beam cannon [SUSTAINED HITS D3]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6"
+        },
+        {
+          "Name": "L7 missile launcher – blast [BLAST]",
+          "Range": "24\"",
+          "A": "D6",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "L7 missile launcher – focused",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "MATR autocannon",
+          "Range": "24\"",
+          "A": "6",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Sagitaur missile launcher",
+          "Range": "36\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "3"
+        },
+        {
+          "Name": "Twin bolt cannon [SUSTAINED HITS 1, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured wheels",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s HYLas beam cannon can be replaced with one of the following:",
         "1 L7 missile launcher and 1 Sagitaur missile launcher",
@@ -679,6 +1598,209 @@
       ],
       "Detachment Ability": "Ruthless Efficiency"
     },
+    "Br%C3%B4khyr-Thunderkyn": {
+      "Movement": "5\"",
+      "Toughness": "6",
+      "Save": "3+",
+      "Wounds": "3",
+      "Leadership": "7+",
+      "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Bolt cannon [SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Graviton blast cannon [ANTI-VEHICLE 2+, BLAST]",
+          "Range": "18\"",
+          "A": "D6",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "SP conversion beamer [CONVERSION, SUSTAINED HITS D3]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Wargear Options": [
+        "All models in this unit can each have their bolt cannon replaced with 1 SP conversion beamer.",
+        "All models in this unit can each have their bolt cannon replaced with 1 graviton blast cannon."
+      ],
+      "Abilities": [
+        "FACTION: Eye of the Ancestors",
+        "Oathband Covering Fire: Each time you target this unit with the Fire Overwatch Stratagem, hits are scored on unmodified Hit rolls of 5+ when resolving that Stratagem."
+      ],
+      "Unit Composition": [
+        "3-6 Brôkhyr Thunderkyn",
+        "Every model is equipped with: bolt cannon; close combat weapon.",
+        "3 models",
+        "80"
+      ],
+      "Keywords": [
+        "INFANTRY",
+        "EXO-FRAME",
+        "BRÔKHYR THUNDERKYN"
+      ],
+      "Faction Keywords": [
+        "LEAGUES OF VOTANN"
+      ],
+      "Points": [
+        {
+          "Models": "3",
+          "Cost": "80"
+        },
+        {
+          "Models": "6",
+          "Cost": "160"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "GO TO GROUND",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "MATERIALISATION MATRICES",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNYIELDING AGGRESSION",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SUPERIOR CRAFTSMANSHIP",
+          "CP": "2CP",
+          "Source": "HEARTHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "SURE OF PURPOSE",
+          "CP": "1CP",
+          "Source": "HEARTHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ORDERED RETREAT",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ANCESTRAL SENTENCE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "NEWFOUND NEMESIS",
+          "CP": "1CP",
+          "Source": "OATHBAND – STRATEGIC PLOY"
+        },
+        {
+          "Name": "REACTIVE REPRISAL",
+          "CP": "2CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "VOID ARMOUR",
+          "CP": "1CP",
+          "Source": "OATHBAND – WARGEAR"
+        },
+        {
+          "Name": "WARRIOR PRIDE",
+          "CP": "1CP",
+          "Source": "OATHBAND – BATTLE TACTIC"
+        },
+        {
+          "Name": "RELIC CYPHER",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "CORRIDOR COVERED",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – BATTLE TACTIC"
+        },
+        {
+          "Name": "JUDGED AND PUNISHED",
+          "CP": "1CP",
+          "Source": "VOID SALVAGERS – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Ruthless Efficiency"
+    },
     "Cthonian-Beserks": {
       "Movement": "5\"",
       "Toughness": "5",
@@ -686,6 +1808,55 @@
       "Wounds": "2",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Mole grenade launcher [BLAST, INDIRECT FIRE]",
+          "Range": "24\"",
+          "A": "D6",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Concussion maul",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Heavy plasma axe – strike",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Heavy plasma axe – sweep",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Twin concussion gauntlet [TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "9",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "All models in this unit can each have their heavy plasma axe replaced with 1 concussion maul.",
         "For every 5 models in this unit, 1 model that is not equipped with a mole grenade launcher can have its heavy plasma axe or concussion maul replaced with 1 twin concussion gauntlet.",
@@ -851,6 +2022,64 @@
       "Wounds": "2",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "EtaCarn plasma gun",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Exo-armour grenade launcher [BLAST]",
+          "Range": "18\"",
+          "A": "D6",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Volkanite disintegrator [DEVASTATING WOUNDS]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Concussion gauntlet",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Concussion hammer",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "9",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Plasma blade gauntlet",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "All models in this unit can each have their EtaCarn plasma gun replaced with 1 volkanite disintegrator.",
         "All models in this unit can each have their concussion gauntlet replaced with 1 plasma blade gauntlet.",
@@ -1053,6 +2282,82 @@
       "Wounds": "16",
       "Leadership": "7+",
       "OC": "5",
+      "Ranged Weapons": [
+        {
+          "Name": "Cyclic ion cannon [BLAST]",
+          "Range": "24\"",
+          "A": "D6+3",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Heavy magna-rail cannon [DEVASTATING WOUNDS, HEAVY]",
+          "Range": "30\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "18",
+          "Ap": "-4",
+          "D": "D6+6"
+        },
+        {
+          "Name": "Hekaton warhead [BLAST, INDIRECT FIRE, ONE SHOT]",
+          "Range": "36\"",
+          "A": "D6+3",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "SP heavy conversion beamer [CONVERSION, SUSTAINED HITS D3]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "4"
+        },
+        {
+          "Name": "MATR autocannon",
+          "Range": "24\"",
+          "A": "6",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Twin bolt cannon [SUSTAINED HITS 1, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Twin ion beamer [SUSTAINED HITS D3, TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured wheels",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can do one of the following:",
         "Replace 1 twin bolt cannon with 1 twin ion beamer",
@@ -1193,6 +2498,64 @@
       "Wounds": "3",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Bolt revolver [PISTOL]",
+          "Range": "9\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Bolt shotgun [ASSAULT]",
+          "Range": "12\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "HYLas rotary cannon [SUSTAINED HITS 1]",
+          "Range": "24\"",
+          "A": "6",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Ion beamer [SUSTAINED HITS D3]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Magna-coil autocannon",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Plasma knife",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "For every 3 models in this unit, 1 model can be equipped with one of the following (if a model is equipped with any of these weapons, add 1 to its Wounds characteristic):",
         "1 HYLas rotary cannon",
@@ -1347,6 +2710,64 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "APM launcher [ANTI-MONSTER 3+, ANTI-VEHICLE 3+]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Bolt revolver [PISTOL]",
+          "Range": "9\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Bolt shotgun [ASSAULT]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Magna-coil rifle [IGNORES COVER, PRECISION]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Plasma knife",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "All models in this unit can each have their bolt shotgun replaced with 1 bolt revolver and 1 plasma knife.",
         "1 Hernkyn Yaegir can have its bolt revolver and plasma knife or its bolt shotgun replaced with 1 magna-coil rifle.",
@@ -1423,691 +2844,6 @@
           "Name": "GRENADE",
           "CP": "1CP",
           "Source": "CORE – WARGEAR"
-        },
-        {
-          "Name": "GO TO GROUND",
-          "CP": "1CP",
-          "Source": "CORE – BATTLE TACTIC"
-        },
-        {
-          "Name": "HEROIC INTERVENTION",
-          "CP": "1CP",
-          "Source": "CORE – STRATEGIC PLOY"
-        },
-        {
-          "Name": "COUNTER-OFFENSIVE",
-          "CP": "2CP",
-          "Source": "CORE – STRATEGIC PLOY"
-        },
-        {
-          "Name": "MATERIALISATION MATRICES",
-          "CP": "1CP",
-          "Source": "HEARTHBAND – STRATEGIC PLOY"
-        },
-        {
-          "Name": "UNYIELDING AGGRESSION",
-          "CP": "1CP",
-          "Source": "HEARTHBAND – STRATEGIC PLOY"
-        },
-        {
-          "Name": "SUPERIOR CRAFTSMANSHIP",
-          "CP": "2CP",
-          "Source": "HEARTHBAND – BATTLE TACTIC"
-        },
-        {
-          "Name": "SURE OF PURPOSE",
-          "CP": "1CP",
-          "Source": "HEARTHBAND – STRATEGIC PLOY"
-        },
-        {
-          "Name": "ORDERED RETREAT",
-          "CP": "1CP",
-          "Source": "OATHBAND – STRATEGIC PLOY"
-        },
-        {
-          "Name": "ANCESTRAL SENTENCE",
-          "CP": "1CP",
-          "Source": "OATHBAND – BATTLE TACTIC"
-        },
-        {
-          "Name": "NEWFOUND NEMESIS",
-          "CP": "1CP",
-          "Source": "OATHBAND – STRATEGIC PLOY"
-        },
-        {
-          "Name": "REACTIVE REPRISAL",
-          "CP": "2CP",
-          "Source": "OATHBAND – BATTLE TACTIC"
-        },
-        {
-          "Name": "VOID ARMOUR",
-          "CP": "1CP",
-          "Source": "OATHBAND – WARGEAR"
-        },
-        {
-          "Name": "WARRIOR PRIDE",
-          "CP": "1CP",
-          "Source": "OATHBAND – BATTLE TACTIC"
-        },
-        {
-          "Name": "RELIC CYPHER",
-          "CP": "1CP",
-          "Source": "VOID SALVAGERS – STRATEGIC PLOY"
-        },
-        {
-          "Name": "CORRIDOR COVERED",
-          "CP": "1CP",
-          "Source": "VOID SALVAGERS – BATTLE TACTIC"
-        },
-        {
-          "Name": "JUDGED AND PUNISHED",
-          "CP": "1CP",
-          "Source": "VOID SALVAGERS – BATTLE TACTIC"
-        }
-      ],
-      "Detachment Ability": "Ruthless Efficiency"
-    },
-    "Br%C3%B4khyr-Iron-master": {
-      "Movement": "5\"",
-      "Toughness": "5",
-      "Save": "4+",
-      "Wounds": "4",
-      "Leadership": "7+",
-      "OC": "1",
-      "Wargear Options": [
-        "None"
-      ],
-      "Abilities": [
-        "CORE: Leader",
-        "FACTION: Eye of the Ancestors",
-        "Multispectral Visor: While this model is leading a unit, each time a model in that unit makes a ranged attack, add 1 to the Hit roll.",
-        "Brôkhyr’s Guild: At the end of your Movement phase, this unit can repair one friendly LEAGUES OF VOTANN VEHICLE or EXO-FRAME model within 3\" of it. That model regains up to D3 lost wounds, or up to 3 lost wounds instead if this unit contains an Ironkyn Assistant. Each model can only be repaired once per turn."
-      ],
-      "Unit Composition": [
-        "1 Brôkhyr Iron-master",
-        "1 Ironkin Assistant*",
-        "3 E-COGs*",
-        "* If this unit’s Iron-master is ever destroyed, this unit’s Ironkyn Assistant and all remaining E-COGs are also destroyed."
-      ],
-      "Faction Keywords": [
-        "LEAGUES OF VOTANN"
-      ],
-      "Points": [
-        {
-          "Models": "5",
-          "Cost": "65"
-        }
-      ],
-      "Stratagems": [
-        {
-          "Name": "BATTLEFIELD COMMAND",
-          "CP": "1CP",
-          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
-        },
-        {
-          "Name": "COMMAND RE-ROLL",
-          "CP": "1CP",
-          "Source": "BOARDING ACTIONS – EPIC DEED"
-        },
-        {
-          "Name": "INSANE BRAVERY",
-          "CP": "1CP",
-          "Source": "BOARDING ACTIONS – EPIC DEED"
-        },
-        {
-          "Name": "EXPLOSIVE CLEARANCE",
-          "CP": "1CP",
-          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
-        },
-        {
-          "Name": "COUNTER-OFFENSIVE",
-          "CP": "2CP",
-          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
-        },
-        {
-          "Name": "COMMAND RE-ROLL",
-          "CP": "1CP",
-          "Source": "CORE – BATTLE TACTIC"
-        },
-        {
-          "Name": "INSANE BRAVERY",
-          "CP": "1CP",
-          "Source": "CORE – EPIC DEED"
-        },
-        {
-          "Name": "FIRE OVERWATCH",
-          "CP": "1CP",
-          "Source": "CORE – STRATEGIC PLOY"
-        },
-        {
-          "Name": "RAPID INGRESS",
-          "CP": "1CP",
-          "Source": "CORE – STRATEGIC PLOY"
-        },
-        {
-          "Name": "GO TO GROUND",
-          "CP": "1CP",
-          "Source": "CORE – BATTLE TACTIC"
-        },
-        {
-          "Name": "HEROIC INTERVENTION",
-          "CP": "1CP",
-          "Source": "CORE – STRATEGIC PLOY"
-        },
-        {
-          "Name": "COUNTER-OFFENSIVE",
-          "CP": "2CP",
-          "Source": "CORE – STRATEGIC PLOY"
-        },
-        {
-          "Name": "EPIC CHALLENGE",
-          "CP": "1CP",
-          "Source": "CORE – EPIC DEED"
-        },
-        {
-          "Name": "MATERIALISATION MATRICES",
-          "CP": "1CP",
-          "Source": "HEARTHBAND – STRATEGIC PLOY"
-        },
-        {
-          "Name": "UNYIELDING AGGRESSION",
-          "CP": "1CP",
-          "Source": "HEARTHBAND – STRATEGIC PLOY"
-        },
-        {
-          "Name": "SUPERIOR CRAFTSMANSHIP",
-          "CP": "2CP",
-          "Source": "HEARTHBAND – BATTLE TACTIC"
-        },
-        {
-          "Name": "SURE OF PURPOSE",
-          "CP": "1CP",
-          "Source": "HEARTHBAND – STRATEGIC PLOY"
-        },
-        {
-          "Name": "ORDERED RETREAT",
-          "CP": "1CP",
-          "Source": "OATHBAND – STRATEGIC PLOY"
-        },
-        {
-          "Name": "ANCESTRAL SENTENCE",
-          "CP": "1CP",
-          "Source": "OATHBAND – BATTLE TACTIC"
-        },
-        {
-          "Name": "NEWFOUND NEMESIS",
-          "CP": "1CP",
-          "Source": "OATHBAND – STRATEGIC PLOY"
-        },
-        {
-          "Name": "REACTIVE REPRISAL",
-          "CP": "2CP",
-          "Source": "OATHBAND – BATTLE TACTIC"
-        },
-        {
-          "Name": "VOID ARMOUR",
-          "CP": "1CP",
-          "Source": "OATHBAND – WARGEAR"
-        },
-        {
-          "Name": "WARRIOR PRIDE",
-          "CP": "1CP",
-          "Source": "OATHBAND – BATTLE TACTIC"
-        },
-        {
-          "Name": "RELIC CYPHER",
-          "CP": "1CP",
-          "Source": "VOID SALVAGERS – STRATEGIC PLOY"
-        },
-        {
-          "Name": "CORRIDOR COVERED",
-          "CP": "1CP",
-          "Source": "VOID SALVAGERS – BATTLE TACTIC"
-        },
-        {
-          "Name": "JUDGED AND PUNISHED",
-          "CP": "1CP",
-          "Source": "VOID SALVAGERS – BATTLE TACTIC"
-        }
-      ],
-      "Detachment Ability": "Ruthless Efficiency"
-    },
-    "K-hl": {
-      "Movement": "5\"",
-      "Toughness": "5",
-      "Save": "3+",
-      "Wounds": "4",
-      "Leadership": "7+",
-      "OC": "1",
-      "Invulnerable Save": "4+",
-      "Wargear Options": [
-        "This model’s Autoch-pattern combi-bolter can be replaced with 1 volkanite disintegrator.",
-        "This model’s forgewrought plasma axe can be replaced with 1 mass gauntlet.",
-        "This model’s rampart crest can be replaced with 1 teleport crest."
-      ],
-      "Abilities": [
-        "CORE: Leader",
-        "FACTION: Eye of the Ancestors",
-        "Kindred Hero: While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability.",
-        "Grim Efficiency: Once per battle round, in your Command phase, you can select one model from your army with this ability, then select one enemy unit that is visible to that model. That enemy unit gains 1 Judgement token.",
-        "WARGEAR ABILITIES",
-        "Rampart Crest: While this model is leading a unit, models in that unit have a 5+ invulnerable save.",
-        "Teleport Crest: While this model is leading a unit, models in that unit have the Deep Strike ability."
-      ],
-      "Unit Composition": [
-        "1 Kâhl",
-        "This model is equipped with: Autoch-pattern combi-bolter; forgewrought plasma axe; rampart crest.",
-        "1 model",
-        "70",
-        "LEADER",
-        "This model can be attached to the following units:",
-        "Einhyr Hearthguard",
-        "Hearthkyn Warriors"
-      ],
-      "Keywords": [
-        "INFANTRY",
-        "CHARACTER",
-        "KÂHL"
-      ],
-      "Faction Keywords": [
-        "LEAGUES OF VOTANN"
-      ],
-      "Stratagems": [
-        {
-          "Name": "BATTLEFIELD COMMAND",
-          "CP": "1CP",
-          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
-        },
-        {
-          "Name": "COMMAND RE-ROLL",
-          "CP": "1CP",
-          "Source": "BOARDING ACTIONS – EPIC DEED"
-        },
-        {
-          "Name": "INSANE BRAVERY",
-          "CP": "1CP",
-          "Source": "BOARDING ACTIONS – EPIC DEED"
-        },
-        {
-          "Name": "EXPLOSIVE CLEARANCE",
-          "CP": "1CP",
-          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
-        },
-        {
-          "Name": "COUNTER-OFFENSIVE",
-          "CP": "2CP",
-          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
-        },
-        {
-          "Name": "COMMAND RE-ROLL",
-          "CP": "1CP",
-          "Source": "CORE – BATTLE TACTIC"
-        },
-        {
-          "Name": "INSANE BRAVERY",
-          "CP": "1CP",
-          "Source": "CORE – EPIC DEED"
-        },
-        {
-          "Name": "FIRE OVERWATCH",
-          "CP": "1CP",
-          "Source": "CORE – STRATEGIC PLOY"
-        },
-        {
-          "Name": "RAPID INGRESS",
-          "CP": "1CP",
-          "Source": "CORE – STRATEGIC PLOY"
-        },
-        {
-          "Name": "GO TO GROUND",
-          "CP": "1CP",
-          "Source": "CORE – BATTLE TACTIC"
-        },
-        {
-          "Name": "HEROIC INTERVENTION",
-          "CP": "1CP",
-          "Source": "CORE – STRATEGIC PLOY"
-        },
-        {
-          "Name": "COUNTER-OFFENSIVE",
-          "CP": "2CP",
-          "Source": "CORE – STRATEGIC PLOY"
-        },
-        {
-          "Name": "EPIC CHALLENGE",
-          "CP": "1CP",
-          "Source": "CORE – EPIC DEED"
-        },
-        {
-          "Name": "MATERIALISATION MATRICES",
-          "CP": "1CP",
-          "Source": "HEARTHBAND – STRATEGIC PLOY"
-        },
-        {
-          "Name": "UNYIELDING AGGRESSION",
-          "CP": "1CP",
-          "Source": "HEARTHBAND – STRATEGIC PLOY"
-        },
-        {
-          "Name": "BRËKKEKNOTS",
-          "CP": "1CP",
-          "Source": "HEARTHBAND – BATTLE TACTIC"
-        },
-        {
-          "Name": "SUPERIOR CRAFTSMANSHIP",
-          "CP": "2CP",
-          "Source": "HEARTHBAND – BATTLE TACTIC"
-        },
-        {
-          "Name": "SURE OF PURPOSE",
-          "CP": "1CP",
-          "Source": "HEARTHBAND – STRATEGIC PLOY"
-        },
-        {
-          "Name": "ORDERED RETREAT",
-          "CP": "1CP",
-          "Source": "OATHBAND – STRATEGIC PLOY"
-        },
-        {
-          "Name": "ANCESTRAL SENTENCE",
-          "CP": "1CP",
-          "Source": "OATHBAND – BATTLE TACTIC"
-        },
-        {
-          "Name": "NEWFOUND NEMESIS",
-          "CP": "1CP",
-          "Source": "OATHBAND – STRATEGIC PLOY"
-        },
-        {
-          "Name": "REACTIVE REPRISAL",
-          "CP": "2CP",
-          "Source": "OATHBAND – BATTLE TACTIC"
-        },
-        {
-          "Name": "VOID ARMOUR",
-          "CP": "1CP",
-          "Source": "OATHBAND – WARGEAR"
-        },
-        {
-          "Name": "WARRIOR PRIDE",
-          "CP": "1CP",
-          "Source": "OATHBAND – BATTLE TACTIC"
-        },
-        {
-          "Name": "RELIC CYPHER",
-          "CP": "1CP",
-          "Source": "VOID SALVAGERS – STRATEGIC PLOY"
-        },
-        {
-          "Name": "CORRIDOR COVERED",
-          "CP": "1CP",
-          "Source": "VOID SALVAGERS – BATTLE TACTIC"
-        },
-        {
-          "Name": "JUDGED AND PUNISHED",
-          "CP": "1CP",
-          "Source": "VOID SALVAGERS – BATTLE TACTIC"
-        }
-      ],
-      "Detachment Ability": "Ruthless Efficiency"
-    },
-    "%C3%9Bthar-the-Destined": {
-      "Movement": "5\"",
-      "Toughness": "5",
-      "Save": "3+",
-      "Wounds": "5",
-      "Leadership": "7+",
-      "OC": "1",
-      "Invulnerable Save": "4+",
-      "Wargear Options": [
-        "None"
-      ],
-      "Abilities": [
-        "CORE: Leader",
-        "FACTION: Eye of the Ancestors",
-        "Ancestral Fortune: Once per turn, you can change one Hit roll or one Wound roll made for this model to an unmodified 6.",
-        "The Destined: Each time an attack is allocated to this model, change the Damage characteristic of that attack to 1.",
-        "Grim Efficiency: Once per battle round, in your Command phase, you can select one model from your army with this ability, then select one enemy unit that is visible to that model. That enemy unit gains 1 Judgement token.",
-        "WARGEAR ABILITIES",
-        "Rampart Crest: While the bearer is leading a unit, models in that unit have a 5+ invulnerable save."
-      ],
-      "Unit Composition": [
-        "1 Ûthar the Destined – EPIC HERO",
-        "This model is equipped with: volkanite disintegrator; Blade of the Ancestors; rampart crest.",
-        "1 model",
-        "80",
-        "LEADER",
-        "This model can be attached to the following units:",
-        "Einhyr Hearthguard",
-        "Hearthkyn Warriors"
-      ],
-      "Keywords": [
-        "INFANTRY",
-        "CHARACTER",
-        "EPIC HERO",
-        "ÛTHAR THE DESTINED"
-      ],
-      "Faction Keywords": [
-        "LEAGUES OF VOTANN"
-      ],
-      "Stratagems": [
-        {
-          "Name": "BATTLEFIELD COMMAND",
-          "CP": "1CP",
-          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
-        },
-        {
-          "Name": "COMMAND RE-ROLL",
-          "CP": "1CP",
-          "Source": "BOARDING ACTIONS – EPIC DEED"
-        },
-        {
-          "Name": "INSANE BRAVERY",
-          "CP": "1CP",
-          "Source": "BOARDING ACTIONS – EPIC DEED"
-        },
-        {
-          "Name": "EXPLOSIVE CLEARANCE",
-          "CP": "1CP",
-          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
-        },
-        {
-          "Name": "COUNTER-OFFENSIVE",
-          "CP": "2CP",
-          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
-        },
-        {
-          "Name": "COMMAND RE-ROLL",
-          "CP": "1CP",
-          "Source": "CORE – BATTLE TACTIC"
-        },
-        {
-          "Name": "INSANE BRAVERY",
-          "CP": "1CP",
-          "Source": "CORE – EPIC DEED"
-        },
-        {
-          "Name": "FIRE OVERWATCH",
-          "CP": "1CP",
-          "Source": "CORE – STRATEGIC PLOY"
-        },
-        {
-          "Name": "RAPID INGRESS",
-          "CP": "1CP",
-          "Source": "CORE – STRATEGIC PLOY"
-        },
-        {
-          "Name": "GO TO GROUND",
-          "CP": "1CP",
-          "Source": "CORE – BATTLE TACTIC"
-        },
-        {
-          "Name": "HEROIC INTERVENTION",
-          "CP": "1CP",
-          "Source": "CORE – STRATEGIC PLOY"
-        },
-        {
-          "Name": "COUNTER-OFFENSIVE",
-          "CP": "2CP",
-          "Source": "CORE – STRATEGIC PLOY"
-        },
-        {
-          "Name": "EPIC CHALLENGE",
-          "CP": "1CP",
-          "Source": "CORE – EPIC DEED"
-        },
-        {
-          "Name": "MATERIALISATION MATRICES",
-          "CP": "1CP",
-          "Source": "HEARTHBAND – STRATEGIC PLOY"
-        },
-        {
-          "Name": "UNYIELDING AGGRESSION",
-          "CP": "1CP",
-          "Source": "HEARTHBAND – STRATEGIC PLOY"
-        },
-        {
-          "Name": "BRËKKEKNOTS",
-          "CP": "1CP",
-          "Source": "HEARTHBAND – BATTLE TACTIC"
-        },
-        {
-          "Name": "SUPERIOR CRAFTSMANSHIP",
-          "CP": "2CP",
-          "Source": "HEARTHBAND – BATTLE TACTIC"
-        },
-        {
-          "Name": "SURE OF PURPOSE",
-          "CP": "1CP",
-          "Source": "HEARTHBAND – STRATEGIC PLOY"
-        },
-        {
-          "Name": "ORDERED RETREAT",
-          "CP": "1CP",
-          "Source": "OATHBAND – STRATEGIC PLOY"
-        },
-        {
-          "Name": "ANCESTRAL SENTENCE",
-          "CP": "1CP",
-          "Source": "OATHBAND – BATTLE TACTIC"
-        },
-        {
-          "Name": "NEWFOUND NEMESIS",
-          "CP": "1CP",
-          "Source": "OATHBAND – STRATEGIC PLOY"
-        },
-        {
-          "Name": "REACTIVE REPRISAL",
-          "CP": "2CP",
-          "Source": "OATHBAND – BATTLE TACTIC"
-        },
-        {
-          "Name": "VOID ARMOUR",
-          "CP": "1CP",
-          "Source": "OATHBAND – WARGEAR"
-        },
-        {
-          "Name": "WARRIOR PRIDE",
-          "CP": "1CP",
-          "Source": "OATHBAND – BATTLE TACTIC"
-        },
-        {
-          "Name": "RELIC CYPHER",
-          "CP": "1CP",
-          "Source": "VOID SALVAGERS – STRATEGIC PLOY"
-        },
-        {
-          "Name": "CORRIDOR COVERED",
-          "CP": "1CP",
-          "Source": "VOID SALVAGERS – BATTLE TACTIC"
-        },
-        {
-          "Name": "JUDGED AND PUNISHED",
-          "CP": "1CP",
-          "Source": "VOID SALVAGERS – BATTLE TACTIC"
-        }
-      ],
-      "Detachment Ability": "Ruthless Efficiency"
-    },
-    "Br%C3%B4khyr-Thunderkyn": {
-      "Movement": "5\"",
-      "Toughness": "6",
-      "Save": "3+",
-      "Wounds": "3",
-      "Leadership": "7+",
-      "OC": "1",
-      "Wargear Options": [
-        "All models in this unit can each have their bolt cannon replaced with 1 SP conversion beamer.",
-        "All models in this unit can each have their bolt cannon replaced with 1 graviton blast cannon."
-      ],
-      "Abilities": [
-        "FACTION: Eye of the Ancestors",
-        "Oathband Covering Fire: Each time you target this unit with the Fire Overwatch Stratagem, hits are scored on unmodified Hit rolls of 5+ when resolving that Stratagem."
-      ],
-      "Unit Composition": [
-        "3-6 Brôkhyr Thunderkyn",
-        "Every model is equipped with: bolt cannon; close combat weapon.",
-        "3 models",
-        "80"
-      ],
-      "Keywords": [
-        "INFANTRY",
-        "EXO-FRAME",
-        "BRÔKHYR THUNDERKYN"
-      ],
-      "Faction Keywords": [
-        "LEAGUES OF VOTANN"
-      ],
-      "Points": [
-        {
-          "Models": "3",
-          "Cost": "80"
-        },
-        {
-          "Models": "6",
-          "Cost": "160"
-        }
-      ],
-      "Stratagems": [
-        {
-          "Name": "COMMAND RE-ROLL",
-          "CP": "1CP",
-          "Source": "BOARDING ACTIONS – EPIC DEED"
-        },
-        {
-          "Name": "INSANE BRAVERY",
-          "CP": "1CP",
-          "Source": "BOARDING ACTIONS – EPIC DEED"
-        },
-        {
-          "Name": "EXPLOSIVE CLEARANCE",
-          "CP": "1CP",
-          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
-        },
-        {
-          "Name": "COUNTER-OFFENSIVE",
-          "CP": "2CP",
-          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
-        },
-        {
-          "Name": "COMMAND RE-ROLL",
-          "CP": "1CP",
-          "Source": "CORE – BATTLE TACTIC"
-        },
-        {
-          "Name": "INSANE BRAVERY",
-          "CP": "1CP",
-          "Source": "CORE – EPIC DEED"
-        },
-        {
-          "Name": "FIRE OVERWATCH",
-          "CP": "1CP",
-          "Source": "CORE – STRATEGIC PLOY"
-        },
-        {
-          "Name": "RAPID INGRESS",
-          "CP": "1CP",
-          "Source": "CORE – STRATEGIC PLOY"
         },
         {
           "Name": "GO TO GROUND",

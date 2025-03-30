@@ -7,6 +7,28 @@
       "Wounds": "1",
       "Leadership": "6+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Boltgun [RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "Daughters of the Abyss: Models in this unit have the Feel No Pain 3+ ability against Psychic Attacks and mortal wounds.",
         "Purity of Execution: Each time a model in this unit makes a ranged attack that targets a PSYKER unit, that attack has the [PRECISION] and [DEVASTATING WOUNDS] abilities."
@@ -225,6 +247,18 @@
       "Wounds": "1",
       "Leadership": "6+",
       "OC": "1",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Executioner greatblade [ANTI-PSYKER 5+, DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "Daughters of the Abyss: Models in this unit have the Feel No Pain 3+ ability against Psychic Attacks and mortal wounds.",
         "Deft Parry: Each time a melee attack targets this unit, subtract 1 from the Hit roll."
@@ -438,6 +472,28 @@
       "Wounds": "1",
       "Leadership": "6+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Witchseeker flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -656,6 +712,55 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Guardian spear [ASSAULT]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Sentinel blade [ASSAULT, PISTOL]",
+          "Range": "12\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Guardian spear",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Misericordia",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Sentinel blade",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their guardian spear replaced with 1 sentinel blade and 1 praesidium shield.",
         "1 model’s guardian spear can be replaced with one of the following:",
@@ -883,6 +988,46 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Castellan axe [ASSAULT]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Guardian spear [ASSAULT]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Castellan axe",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "9",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Guardian spear",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their guardian spear replaced with 1 castellan axe.",
         "1 model can be equipped with 1 vexilla."
@@ -1097,6 +1242,64 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Balistus grenade launcher [BLAST]",
+          "Range": "18\"",
+          "A": "D6",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Castellan axe [ASSAULT]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Guardian spear [ASSAULT]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Castellan axe",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "9",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Guardian spear",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Misericordia",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their guardian spear replaced with 1 castellan axe.",
         "1 model’s guardian spear can be replaced with 1 vexilla and 1 misericordia."
@@ -1316,186 +1519,6 @@
       ],
       "Detachment Ability": "Martial Mastery"
     },
-    "Vertus-Praetors": {
-      "Movement": "12\"",
-      "Toughness": "7",
-      "Save": "2+",
-      "Wounds": "5",
-      "Leadership": "6+",
-      "OC": "2",
-      "Invulnerable Save": "4+",
-      "Wargear Options": [
-        "Any number of models can each have their salvo launcher replaced with 1 Vertus hurricane bolter."
-      ],
-      "Abilities": [
-        "FACTION: Martial Ka’tah",
-        "Turbo-boost: Each time this unit Advances, do not make an Advance roll. Instead, until the end of the phase, add 6\" to the Move characteristic of models in this unit.",
-        "Quicksilver Execution: Once per battle, after this unit ends a Normal Move or Advance move, you can select one enemy unit (excluding MONSTER and VEHICLE units) that it moved over during that move, then roll one D6 for each model in this unit: for each 2+, that enemy unit suffers 2 mortal wounds."
-      ],
-      "Unit Composition": [
-        "2-3 Vertus Praetors",
-        "Every model is equipped with: salvo launcher; interceptor lance.",
-        "2 models",
-        "150"
-      ],
-      "Keywords": [
-        "MOUNTED",
-        "FLY",
-        "IMPERIUM",
-        "VERTUS PRAETORS"
-      ],
-      "Faction Keywords": [
-        "ADEPTUS CUSTODES"
-      ],
-      "Points": [
-        {
-          "Models": "2",
-          "Cost": "150"
-        },
-        {
-          "Models": "3",
-          "Cost": "225"
-        }
-      ],
-      "Stratagems": [
-        {
-          "Name": "COMMAND RE-ROLL",
-          "CP": "1CP",
-          "Source": "BOARDING ACTIONS – EPIC DEED"
-        },
-        {
-          "Name": "INSANE BRAVERY",
-          "CP": "1CP",
-          "Source": "BOARDING ACTIONS – EPIC DEED"
-        },
-        {
-          "Name": "EXPLOSIVE CLEARANCE",
-          "CP": "1CP",
-          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
-        },
-        {
-          "Name": "COUNTER-OFFENSIVE",
-          "CP": "2CP",
-          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
-        },
-        {
-          "Name": "COMMAND RE-ROLL",
-          "CP": "1CP",
-          "Source": "CORE – BATTLE TACTIC"
-        },
-        {
-          "Name": "INSANE BRAVERY",
-          "CP": "1CP",
-          "Source": "CORE – EPIC DEED"
-        },
-        {
-          "Name": "FIRE OVERWATCH",
-          "CP": "1CP",
-          "Source": "CORE – STRATEGIC PLOY"
-        },
-        {
-          "Name": "RAPID INGRESS",
-          "CP": "1CP",
-          "Source": "CORE – STRATEGIC PLOY"
-        },
-        {
-          "Name": "HEROIC INTERVENTION",
-          "CP": "1CP",
-          "Source": "CORE – STRATEGIC PLOY"
-        },
-        {
-          "Name": "COUNTER-OFFENSIVE",
-          "CP": "2CP",
-          "Source": "CORE – STRATEGIC PLOY"
-        },
-        {
-          "Name": "MANOEUVRE AND FIRE",
-          "CP": "1CP",
-          "Source": "LIONS OF THE EMPEROR – STRATEGIC PLOY"
-        },
-        {
-          "Name": "SWIFT AS THE EAGLE",
-          "CP": "1CP",
-          "Source": "LIONS OF THE EMPEROR – STRATEGIC PLOY"
-        },
-        {
-          "Name": "DEFIANT TO THE LAST",
-          "CP": "1CP",
-          "Source": "LIONS OF THE EMPEROR – STRATEGIC PLOY"
-        },
-        {
-          "Name": "PEERLESS WARRIOR",
-          "CP": "1CP",
-          "Source": "LIONS OF THE EMPEROR – BATTLE TACTIC"
-        },
-        {
-          "Name": "ARCANE GENETIC ALCHEMY",
-          "CP": "1CP",
-          "Source": "SHIELD HOST – BATTLE TACTIC"
-        },
-        {
-          "Name": "MULTIPOTENTIALITY",
-          "CP": "1CP",
-          "Source": "SHIELD HOST – STRATEGIC PLOY"
-        },
-        {
-          "Name": "ARCHEOTECH MUNITIONS",
-          "CP": "1CP",
-          "Source": "SHIELD HOST – WARGEAR"
-        },
-        {
-          "Name": "AVENGE THE FALLEN",
-          "CP": "1CP",
-          "Source": "SHIELD HOST – STRATEGIC PLOY"
-        },
-        {
-          "Name": "UNWAVERING SENTINELS",
-          "CP": "1CP",
-          "Source": "SHIELD HOST – STRATEGIC PLOY"
-        },
-        {
-          "Name": "UNSTOPPABLE",
-          "CP": "1CP",
-          "Source": "SOLAR SPEARHEAD – STRATEGIC PLOY"
-        },
-        {
-          "Name": "PUNISHMENT INESCAPABLE",
-          "CP": "1CP",
-          "Source": "SOLAR SPEARHEAD – STRATEGIC PLOY"
-        },
-        {
-          "Name": "EMPEROR’S VENGEANCE",
-          "CP": "1CP",
-          "Source": "SOLAR SPEARHEAD – BATTLE TACTIC"
-        },
-        {
-          "Name": "WRATHFUL ADVANCE",
-          "CP": "1CP",
-          "Source": "SOLAR SPEARHEAD – BATTLE TACTIC"
-        },
-        {
-          "Name": "HUNT AS ONE",
-          "CP": "1CP",
-          "Source": "TALONS OF THE EMPEROR – STRATEGIC PLOY"
-        },
-        {
-          "Name": "TALONED PINCER",
-          "CP": "1CP",
-          "Source": "TALONS OF THE EMPEROR – BATTLE TACTIC"
-        },
-        {
-          "Name": "EMPYRIC SEVERANCE",
-          "CP": "1CP",
-          "Source": "TALONS OF THE EMPEROR – BATTLE TACTIC"
-        },
-        {
-          "Name": "EMPEROR’S EXECUTIONERS",
-          "CP": "2CP",
-          "Source": "TALONS OF THE EMPEROR – BATTLE TACTIC"
-        }
-      ],
-      "Detachment Ability": "Martial Mastery"
-    },
     "Blade-Champion": {
       "Movement": "6\"",
       "Toughness": "6",
@@ -1504,6 +1527,36 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Vaultswords – Behemor [PRECISION]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Vaultswords – Hurricanus [SUSTAINED HITS 1]",
+          "Range": "Melee",
+          "A": "9",
+          "Ws": "2+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Vaultswords – Victus [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "6",
+          "Ap": "-3",
+          "D": "3"
+        }
+      ],
       "Abilities": [
         "CORE: Deep Strike, Leader",
         "FACTION: Martial Ka’tah",
@@ -1741,6 +1794,82 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Castellan axe [ASSAULT]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Guardian spear [ASSAULT]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Pyrithite spear [MELTA 2]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Sentinel blade [ASSAULT, PISTOL]",
+          "Range": "12\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Castellan axe",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "9",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Guardian spear",
+          "Range": "Melee",
+          "A": "7",
+          "Ws": "2+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Pyrithite spear",
+          "Range": "Melee",
+          "A": "7",
+          "Ws": "2+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Sentinel blade",
+          "Range": "Melee",
+          "A": "7",
+          "Ws": "2+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s guardian spear can be replaced with one of the following:"
       ],
@@ -1988,6 +2117,28 @@
       "Leadership": "5+",
       "OC": "2",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Eagle's Scream [ASSAULT]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Watcher’s Axe",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
       "Abilities": [
         "CORE: Deep Strike, Feel No Pain 5+, Leader",
         "FACTION: Martial Ka’tah",
@@ -2233,6 +2384,28 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Gnosis [ASSAULT]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Gnosis",
+          "Range": "Melee",
+          "A": "7",
+          "Ws": "2+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Deep Strike, Feel No Pain 6+, Leader",
         "FACTION: Martial Ka’tah",
@@ -2477,6 +2650,55 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Balistus grenade launcher [BLAST]",
+          "Range": "18\"",
+          "A": "D6",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Castellan axe [ASSAULT]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Guardian spear [ASSAULT]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Castellan axe",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "9",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Guardian spear",
+          "Range": "Melee",
+          "A": "7",
+          "Ws": "2+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s guardian spear can be replaced with 1 castellan axe."
       ],
@@ -2722,6 +2944,18 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Somnus [ANTI-PSYKER 5+, DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "6",
+          "Ap": "-3",
+          "D": "3"
+        }
+      ],
       "Abilities": [
         "CORE: Feel No Pain 5+, Leader, Scouts 6\"",
         "Tactical Perception: While this model is leading a unit, models in that unit have the Fights First ability.",
@@ -2957,6 +3191,46 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Master-crafted boltgun [RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "0",
+          "D": "2"
+        },
+        {
+          "Name": "Witchseeker flamer [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "2+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Executioner greatblade [ANTI-PSYKER 5+, DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "2+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s executioner greatblade can be replaced with one of the following:",
         "1 master-crafted boltgun and 1 close combat weapon",
@@ -3201,6 +3475,37 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Vertus hurricane bolter [RAPID FIRE 3, TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Salvo launcher [TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "10",
+          "Ap": "-3",
+          "D": "D6+1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Interceptor lance [LANCE]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s salvo launcher can be replaced with 1 Vertus hurricane bolter."
       ],
@@ -3422,6 +3727,46 @@
       "Leadership": "6+",
       "OC": "3",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Combi-bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Kheres-pattern assault cannon [DEVASTATING WOUNDS]",
+          "Range": "24\"",
+          "A": "6",
+          "Bs": "2+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Multi-melta [MELTA 2]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Contemptor combat weapon",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "12",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
       "Wargear Options": [
         "This model’s multi-melta can be replaced with 1 Kheres-pattern assault cannon."
       ],
@@ -3602,6 +3947,55 @@
       "Leadership": "6+",
       "OC": "3",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Achillus dreadspear",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Infernus incinerator [TORRENT, IGNORES COVER]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Lastrum storm bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Twin adrathic destructor [TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Achillus dreadspear [LANCE]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "12",
+          "Ap": "-2",
+          "D": "D6+1"
+        }
+      ],
       "Wargear Options": [
         "This model’s 2 lastrum storm bolters can be replaced with one of the following:",
         "2 infernus incinerators",
@@ -3787,6 +4181,28 @@
       "Leadership": "6+",
       "OC": "3",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Galatus warblade [IGNORES COVER, TORRENT, TWIN-LINKED]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Galatus warblade",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "2+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -3966,6 +4382,55 @@
       "Wounds": "16",
       "Leadership": "6+",
       "OC": "5",
+      "Ranged Weapons": [
+        {
+          "Name": "Godhammer lascannon",
+          "Range": "48\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Hunter-killer missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6"
+        },
+        {
+          "Name": "Storm bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "2+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured tracks",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with 1 hunter-killer missile.",
         "This model can be equipped with 1 storm bolter."
@@ -4156,6 +4621,37 @@
       "Wounds": "10",
       "Leadership": "6+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Hunter-killer missile [ONE SHOT]",
+          "Range": "48\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6"
+        },
+        {
+          "Name": "Storm bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured tracks",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with 1 hunter-killer missile."
       ],
@@ -4336,6 +4832,46 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Adrathic devastator",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Lastrum bolt cannon [SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "2+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Twin las-pulsar [TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "9",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Interceptor lance [LANCE]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their lastrum bolt cannon replaced with one of the following:",
         "1 adrathic devastator",
@@ -4518,6 +5054,55 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Infernus firepike [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Lastrum storm bolter [RAPID FIRE 2]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Twin adrathic destructor [TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Solerite power gauntlet",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Solerite power talon",
+          "Range": "Melee",
+          "A": "7",
+          "Ws": "2+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their lastrum storm bolter replaced with one of the following:",
         "1 infernus firepike",
@@ -4717,6 +5302,37 @@
       "Leadership": "6+",
       "OC": "0",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Arachnus heavy blaze cannon",
+          "Range": "36\"",
+          "A": "4",
+          "Bs": "2+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Arachnus magna-blaze cannon",
+          "Range": "48\"",
+          "A": "3",
+          "Bs": "2+",
+          "S": "18",
+          "Ap": "-4",
+          "D": "D6+6"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "9",
+          "Ws": "4+",
+          "S": "9",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -4900,6 +5516,46 @@
       "Leadership": "6+",
       "OC": "4",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Twin arachnus heavy blaze cannon [TWIN-LINKED]",
+          "Range": "48\"",
+          "A": "4",
+          "Bs": "2+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+2"
+        },
+        {
+          "Name": "Twin iliastus accelerator cannon [RAPID FIRE 4, TWIN-LINKED]",
+          "Range": "48\"",
+          "A": "4",
+          "Bs": "2+",
+          "S": "10",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Twin lastrum bolt cannon [SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "2+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s twin iliastus accelerator cannon can be replaced with 1 twin arachnus heavy blaze cannon."
       ],
@@ -5082,6 +5738,37 @@
       "Leadership": "6+",
       "OC": "5",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Twin arachnus blaze cannon [DEVASTATING WOUNDS, TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "8",
+          "Bs": "2+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Twin lastrum bolt cannon [SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "2+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -5267,6 +5954,46 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Adrasite spear",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Pyrithite spear [MELTA 2]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Adrasite spear",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Pyrithite spear",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their adrasite spear replaced with 1 pyrithite spear."
       ],
@@ -5455,6 +6182,46 @@
       "Leadership": "6+",
       "OC": "0",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Arachnus heavy blaze cannon",
+          "Range": "36\"",
+          "A": "4",
+          "Bs": "2+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Spiculus heavy bolt launcher [BLAST]",
+          "Range": "36\"",
+          "A": "D6+6",
+          "Bs": "2+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Twin lastrum bolt cannon [SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "2+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "9",
+          "Ws": "4+",
+          "S": "9",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -5641,6 +6408,28 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Twin arachnus blaze cannon [DEVASTATING WOUNDS, TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "8",
+          "Bs": "2+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -5821,6 +6610,28 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Adrastus bolt caliver [SUSTAINED HITS 1]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "2+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Misericordia",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -6009,6 +6820,64 @@
       "Leadership": "6+",
       "OC": "4",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Arachnus storm cannon [DEVASTATING WOUNDS]",
+          "Range": "24\"",
+          "A": "12",
+          "Bs": "2+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Iliastus accelerator culverin",
+          "Range": "48\"",
+          "A": "4",
+          "Bs": "2+",
+          "S": "9",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Spiculus bolt launcher [BLAST]",
+          "Range": "36\"",
+          "A": "D6+3",
+          "Bs": "2+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin plasma projector [TORRENT, TWIN-LINKED]",
+          "Range": "12\"",
+          "A": "D3",
+          "Bs": "N/A",
+          "S": "7",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured feet",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "7",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Telemon caestus",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "12",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
       "Wargear Options": [
         "This model’s 2 iliastus accelerator culverins can be replaced with one of the following:",
         "2 arachnus storm cannons",
@@ -6197,6 +7066,46 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Kinetic destroyer [PISTOL, SUSTAINED HITS 1]",
+          "Range": "12\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Venatari lance [ASSAULT]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Tarsis buckler",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "5",
+          "Ap": "-2",
+          "D": "1"
+        },
+        {
+          "Name": "Venatari lance [LANCE]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their Venatari lance replaced with 1 kinetic destroyer and 1 tarsus buckler."
       ],
@@ -6374,6 +7283,217 @@
           "Name": "SHIELD OF HONOUR",
           "CP": "1CP",
           "Source": "TALONS OF THE EMPEROR – EPIC DEED"
+        },
+        {
+          "Name": "EMPEROR’S EXECUTIONERS",
+          "CP": "2CP",
+          "Source": "TALONS OF THE EMPEROR – BATTLE TACTIC"
+        }
+      ],
+      "Detachment Ability": "Martial Mastery"
+    },
+    "Vertus-Praetors": {
+      "Movement": "12\"",
+      "Toughness": "7",
+      "Save": "2+",
+      "Wounds": "5",
+      "Leadership": "6+",
+      "OC": "2",
+      "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Salvo launcher [TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "2+",
+          "S": "10",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Vertus hurricane bolter [RAPID FIRE 3, TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "2+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Interceptor lance [LANCE]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
+      "Wargear Options": [
+        "Any number of models can each have their salvo launcher replaced with 1 Vertus hurricane bolter."
+      ],
+      "Abilities": [
+        "FACTION: Martial Ka’tah",
+        "Turbo-boost: Each time this unit Advances, do not make an Advance roll. Instead, until the end of the phase, add 6\" to the Move characteristic of models in this unit.",
+        "Quicksilver Execution: Once per battle, after this unit ends a Normal Move or Advance move, you can select one enemy unit (excluding MONSTER and VEHICLE units) that it moved over during that move, then roll one D6 for each model in this unit: for each 2+, that enemy unit suffers 2 mortal wounds."
+      ],
+      "Unit Composition": [
+        "2-3 Vertus Praetors",
+        "Every model is equipped with: salvo launcher; interceptor lance.",
+        "2 models",
+        "150"
+      ],
+      "Keywords": [
+        "MOUNTED",
+        "FLY",
+        "IMPERIUM",
+        "VERTUS PRAETORS"
+      ],
+      "Faction Keywords": [
+        "ADEPTUS CUSTODES"
+      ],
+      "Points": [
+        {
+          "Models": "2",
+          "Cost": "150"
+        },
+        {
+          "Models": "3",
+          "Cost": "225"
+        }
+      ],
+      "Stratagems": [
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – EPIC DEED"
+        },
+        {
+          "Name": "EXPLOSIVE CLEARANCE",
+          "CP": "1CP",
+          "Source": "BOARDING ACTIONS – BATTLE TACTIC"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "BOARDING ACTIONS – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COMMAND RE-ROLL",
+          "CP": "1CP",
+          "Source": "CORE – BATTLE TACTIC"
+        },
+        {
+          "Name": "INSANE BRAVERY",
+          "CP": "1CP",
+          "Source": "CORE – EPIC DEED"
+        },
+        {
+          "Name": "FIRE OVERWATCH",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "RAPID INGRESS",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "HEROIC INTERVENTION",
+          "CP": "1CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "COUNTER-OFFENSIVE",
+          "CP": "2CP",
+          "Source": "CORE – STRATEGIC PLOY"
+        },
+        {
+          "Name": "MANOEUVRE AND FIRE",
+          "CP": "1CP",
+          "Source": "LIONS OF THE EMPEROR – STRATEGIC PLOY"
+        },
+        {
+          "Name": "SWIFT AS THE EAGLE",
+          "CP": "1CP",
+          "Source": "LIONS OF THE EMPEROR – STRATEGIC PLOY"
+        },
+        {
+          "Name": "DEFIANT TO THE LAST",
+          "CP": "1CP",
+          "Source": "LIONS OF THE EMPEROR – STRATEGIC PLOY"
+        },
+        {
+          "Name": "PEERLESS WARRIOR",
+          "CP": "1CP",
+          "Source": "LIONS OF THE EMPEROR – BATTLE TACTIC"
+        },
+        {
+          "Name": "ARCANE GENETIC ALCHEMY",
+          "CP": "1CP",
+          "Source": "SHIELD HOST – BATTLE TACTIC"
+        },
+        {
+          "Name": "MULTIPOTENTIALITY",
+          "CP": "1CP",
+          "Source": "SHIELD HOST – STRATEGIC PLOY"
+        },
+        {
+          "Name": "ARCHEOTECH MUNITIONS",
+          "CP": "1CP",
+          "Source": "SHIELD HOST – WARGEAR"
+        },
+        {
+          "Name": "AVENGE THE FALLEN",
+          "CP": "1CP",
+          "Source": "SHIELD HOST – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNWAVERING SENTINELS",
+          "CP": "1CP",
+          "Source": "SHIELD HOST – STRATEGIC PLOY"
+        },
+        {
+          "Name": "UNSTOPPABLE",
+          "CP": "1CP",
+          "Source": "SOLAR SPEARHEAD – STRATEGIC PLOY"
+        },
+        {
+          "Name": "PUNISHMENT INESCAPABLE",
+          "CP": "1CP",
+          "Source": "SOLAR SPEARHEAD – STRATEGIC PLOY"
+        },
+        {
+          "Name": "EMPEROR’S VENGEANCE",
+          "CP": "1CP",
+          "Source": "SOLAR SPEARHEAD – BATTLE TACTIC"
+        },
+        {
+          "Name": "WRATHFUL ADVANCE",
+          "CP": "1CP",
+          "Source": "SOLAR SPEARHEAD – BATTLE TACTIC"
+        },
+        {
+          "Name": "HUNT AS ONE",
+          "CP": "1CP",
+          "Source": "TALONS OF THE EMPEROR – STRATEGIC PLOY"
+        },
+        {
+          "Name": "TALONED PINCER",
+          "CP": "1CP",
+          "Source": "TALONS OF THE EMPEROR – BATTLE TACTIC"
+        },
+        {
+          "Name": "EMPYRIC SEVERANCE",
+          "CP": "1CP",
+          "Source": "TALONS OF THE EMPEROR – BATTLE TACTIC"
         },
         {
           "Name": "EMPEROR’S EXECUTIONERS",

@@ -7,6 +7,55 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Slugga [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Thump gun [BLAST]",
+          "Range": "18\"",
+          "A": "D3",
+          "Bs": "5+",
+          "S": "6",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Choppa",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Power snappa",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "For every 10 models in this unit, 1 Beast Snagga Boy’s slugga and choppa can be replaced with 1 thump gun and 1 close combat weapon."
       ],
@@ -216,6 +265,64 @@
       "Wounds": "3",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Saddlegit weapons [ASSAULT]",
+          "Range": "9\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Slugga [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Stikka [ASSAULT, ANTI-MONSTER 4+, ANTI-VEHICLE 4+]",
+          "Range": "9\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Big Choppa [ANTI-MONSTER 4+, ANTI-VEHICLE 4+]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Stikka [ANTI-MONSTER 4+, ANTI-VEHICLE 4+, LANCE]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Squighog jaws and saddlegits [EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "For every 3 models in this unit, this unit can be equipped with 1 bomb squig."
       ],
@@ -405,6 +512,91 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Big shoota [RAPID FIRE 2]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Kombi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Rokkit launcha [BLAST]",
+          "Range": "24\"",
+          "A": "D3",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Shoota [RAPID FIRE 1]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Slugga [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Big choppa",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Choppa",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Power klaw",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "The Boss Nob’s big choppa can be replaced with 1 power klaw.",
         "The Boss Nob’s big choppa and slugga can be replaced with 1 kombi-weapon and 1 close combat weapon.",
@@ -636,6 +828,55 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Big shoota [RAPID FIRE 2]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Deffgun [HEAVY, RAPID FIRE 1]",
+          "Range": "48\"",
+          "A": "2",
+          "Bs": "6+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Kustom mega-blasta [HAZARDOUS]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Rokkit launcha [BLAST]",
+          "Range": "24\"",
+          "A": "D3",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of Spanners can each have their big shoota replaced with one of the following:",
         "1 kustom mega-blasta",
@@ -795,6 +1036,91 @@
       "Leadership": "8+",
       "OC": "2",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "1-2",
+          "Range": "Bubblechukka – big bubble [BUBBLECHUKKA, BLAST]",
+          "A": "48\"",
+          "Bs": "2D6",
+          "S": "4+",
+          "Ap": "6",
+          "D": "-1"
+        },
+        {
+          "Name": "1",
+          "Range": "3-4",
+          "A": "Bubblechukka – wobbly bubble [BUBBLECHUKKA, BLAST]",
+          "Bs": "48\"",
+          "S": "D6",
+          "Ap": "4+",
+          "D": "9"
+        },
+        {
+          "Name": "-2",
+          "Range": "3",
+          "A": "5-6",
+          "Bs": "Bubblechukka – dense bubble [BUBBLECHUKKA, BLAST]",
+          "S": "48\"",
+          "Ap": "D3",
+          "D": "4+"
+        },
+        {
+          "Name": "12",
+          "Range": "-3",
+          "A": "D6+3",
+          "Bs": "Kustom mega-kannon [BLAST, HAZARDOUS]",
+          "S": "36\"",
+          "Ap": "D6",
+          "D": "4+"
+        },
+        {
+          "Name": "12",
+          "Range": "-1",
+          "A": "D6",
+          "Bs": "Smasha gun [BLAST]",
+          "S": "48\"",
+          "Ap": "D3+1",
+          "D": "4+"
+        },
+        {
+          "Name": "9",
+          "Range": "-3",
+          "A": "3",
+          "Bs": "Traktor kannon [ANTI-FLY 2+, DEVASTATING WOUNDS]",
+          "S": "48\"",
+          "Ap": "1",
+          "D": "4+"
+        },
+        {
+          "Name": "10",
+          "Range": "-2",
+          "A": "D6+1",
+          "Bs": "MELEE WEAPONS",
+          "S": "RANGE",
+          "Ap": "A",
+          "D": "WS"
+        },
+        {
+          "Name": "S",
+          "Range": "AP",
+          "A": "D",
+          "Bs": "Grot crew",
+          "S": "Melee",
+          "Ap": "6",
+          "D": "5+"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Grot crew",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "5+",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Each model’s smasha gun can be replaced with one of the following:",
         "1 bubblechukka",
@@ -963,6 +1289,55 @@
       "Wounds": "2",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Kombi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Slugga [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Big choppa",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Power klaw",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their big choppa replaced with 1 power klaw.",
         "Any number of models can each have their slugga and big choppa replaced with 1 kombi-weapon and 1 close combat weapon.",
@@ -1197,6 +1572,55 @@
       "Wounds": "2",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Rokkit pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Choppa",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Knucklebustas [ANTI-MONSTER 4+, ANTI-VEHICLE 4+, TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Smash hammer [ANTI-MONSTER 4+, ANTI-VEHICLE 4+]",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Tankhammer [ANTI-MONSTER 4+, ANTI-VEHICLE 4+, DEVASTATING WOUNDS, HAZARDOUS]",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
       "Wargear Options": [
         "The Boss Nob’s smash hammer can be replaced with 1 rokkit pistol.",
         "One Breaka Boy’s smash hammer can be replaced with 1 knucklebustas.",
@@ -1370,6 +1794,55 @@
       "Wounds": "2",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Rokkit launcha [BLAST]",
+          "Range": "24\"",
+          "A": "D3",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Rokkit pistol [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Choppa",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Smash hammer [ANTI-MONSTER 4+, ANTI-VEHICLE 4+]",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "6",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
       "Wargear Options": [
         "1 of the Boss Nob’s rokkit pistols can be replaced with 1 smash hammer.",
         "One Tankbusta can be equipped with one of the following:",
@@ -1542,6 +2015,55 @@
       "Wounds": "3",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Kombi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Kustom shoota [RAPID FIRE 2]",
+          "Range": "18\"",
+          "A": "4",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Killsaw",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Power klaw",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Twin killsaw [TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their kustom shoota and power klaw replaced with one of the following:",
         "1 kombi-weapon and 1 power klaw",
@@ -1773,6 +2295,91 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Burna [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Speshul Kommando shoota [RAPID FIRE 2]",
+          "Range": "18\"",
+          "A": "4",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Rokkit launcha [BLAST]",
+          "Range": "24\"",
+          "A": "D3",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Slugga [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Big choppa",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Breacha ram",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Choppa",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Power klaw",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "The Boss Nob’s choppa can be replaced with one of the following:",
         "1 big choppa",
@@ -1970,6 +2577,64 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Slugga [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin dakkagun [ASSAULT, RAPID FIRE 2, TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Big choppa",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Choppa",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Power klaw",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "Each Warbiker can be equipped with one of the following:",
         "1 slugga",
@@ -2163,6 +2828,64 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Big shoota [RAPID FIRE 2]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Burna [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Kustom mega-blasta [HAZARDOUS]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Rokkit launcha [BLAST]",
+          "Range": "24\"",
+          "A": "D3",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Cuttin’ flames",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of Spanners can each have their big shoota replaced with one of the following:",
         "1 kustom mega-blasta",
@@ -2328,6 +3051,46 @@
       "Wounds": "1",
       "Leadership": "8+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Grot blasta [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Slugga [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "5+",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Runtherd tools",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "FACTION: Waaagh!",
         "Runtherd: While this unit contains one or more Gretchin models, each time an attack targets this unit, Runtherd models in this unit have a Toughness characteristic of 2.",
@@ -2502,6 +3265,28 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Kustom grot blasta [PISTOL]",
+          "Range": "12\"",
+          "A": "D3",
+          "Bs": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Deep Strike, Lone Operative",
         "FACTION: Waaagh!",
@@ -2694,6 +3479,27 @@
       "Wounds": "5",
       "Leadership": "7+",
       "OC": "2",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Bludgeoning bag of gifts",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Massive gift-filled gob [EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Feel No Pain 5+, Lone Operative, Scouts D6+4\"",
         "FACTION: Waaagh!",
@@ -2861,6 +3667,28 @@
       "Wounds": "5",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Slugga [ANTI-MONSTER 4+, PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Da Grabzappa",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Feel No Pain 6+, Leader",
         "FACTION: Waaagh!",
@@ -3040,6 +3868,28 @@
       "Wounds": "3",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Kustom grot blasta [DEVASTATING WOUNDS, PISTOL]",
+          "Range": "12\"",
+          "A": "D3",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Icon of da Revolushun [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -3215,6 +4065,37 @@
       "Wounds": "1",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Slugga [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Choppa",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Power klaw",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "The Boss Nob’s choppa can be replaced with 1 power klaw."
       ],
@@ -3406,6 +4287,28 @@
       "Wounds": "2",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Snazzgun [HEAVY, SUSTAINED HITS 1]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Choppa",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This unit can be equipped with 1 ammo runt."
       ],
@@ -3587,6 +4490,82 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Slugga [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin dakkagun [ASSAULT, RAPID FIRE 2, TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Big choppa",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Choppa",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Killsaw",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Power klaw",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Power stabba [LANCE]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each be equipped with 1 slugga.",
         "Any number of models can each have their choppa replaced with one of the following:",
@@ -3775,6 +4754,37 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Shoota [RAPID FIRE 1]",
+          "Range": "18\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Beast Snagga klaw [ANTI-MONSTER 4+, ANTI-VEHICLE 4+]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Beastchoppa [ANTI-MONSTER 4+, ANTI-VEHICLE 4+]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Feel No Pain 6+, Leader",
         "FACTION: Waaagh!",
@@ -4006,6 +5016,18 @@
       "Wounds": "4",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Beast Snagga klaw [ANTI-MONSTER 4+, ANTI-VEHICLE 4+]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with 1 grot orderly."
       ],
@@ -4216,6 +5238,28 @@
       "Wounds": "4",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Eyez of Mork [PSYCHIC]",
+          "Range": "18\"",
+          "A": "D6",
+          "Bs": "5+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D3, Feel No Pain 6+, Leader",
         "FACTION: Waaagh!",
@@ -4427,6 +5471,46 @@
       "Wounds": "6",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Kustom mega-blasta [HAZARDOUS]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Traktor blasta [ANTI-FLY 3+, DEVASTATING WOUNDS]",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "D6+1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Drilla",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "3"
+        },
+        {
+          "Name": "Power klaw",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s kustom mega-blasta can be replaced with 1 traktor blasta.",
         "This model’s power klaw can be replaced with 1 drilla."
@@ -4627,6 +5711,28 @@
       "Wounds": "5",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Shokk attack gun [BLAST, HEAVY]",
+          "Range": "60\"",
+          "A": "D6+1",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with 1 grot assistant."
       ],
@@ -4828,6 +5934,37 @@
       "Wounds": "4",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Kustom mega-slugga [BLAST, HAZARDOUS]",
+          "Range": "12\"",
+          "A": "D3",
+          "Bs": "5+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "D6"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Killsaw",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Wrench",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s wrench can be replaced with 1 killsaw."
       ],
@@ -5020,6 +6157,27 @@
       "Wounds": "3",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [],
+      "Melee Weapons": [
+        {
+          "Name": "Power klaw",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "’Urty syringe [ANTI-INFANTRY 4+, EXTRA ATTACKS, PRECISION]",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "3+",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with 1 grot orderly."
       ],
@@ -5205,6 +6363,55 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Kombi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin slugga [PISTOL, TWIN-LINKED]",
+          "Range": "12\"",
+          "A": "2",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Attack squig [EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Big choppa",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Power klaw",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s big choppa can be replaced with 1 power klaw.",
         "This model can be equipped with 1 attack squig."
@@ -5416,6 +6623,28 @@
       "Wounds": "4",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "’Eadbanger [PRECISION, PSYCHIC]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-3",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Weirdboy staff [PSYCHIC]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "D3"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D3, Leader",
         "FACTION: Waaagh!",
@@ -5597,6 +6826,28 @@
       "Wounds": "4",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Slugga [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Choppa",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with 1 grot helper."
       ],
@@ -5800,6 +7051,37 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Slugga [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Power klaw [SUSTAINED HITS 1]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "’Urty syringe [ANTI-INFANTRY 4+, EXTRA ATTACKS, PRECISION]",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "3+",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -5989,6 +7271,28 @@
       "Wounds": "3",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Kustom shoota [RAPID FIRE 2]",
+          "Range": "18\"",
+          "A": "4",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Waaagh! banner",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -6164,6 +7468,37 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Shokk rifle [DEVASTATING WOUNDS, HAZARDOUS, PRECISION]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "D6+1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Princess’ jaws [EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Snazzhammer [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -6377,6 +7712,46 @@
       "Leadership": "6+",
       "OC": "4",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Mork’s Roar [RAPID FIRE 4]",
+          "Range": "36\"",
+          "A": "12",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Gork’s Klaw - strike",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "4"
+        },
+        {
+          "Name": "Gork’s Klaw - sweep",
+          "Range": "Melee",
+          "A": "12",
+          "Ws": "2+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Makari’s stabba [DEVASTATING WOUNDS]",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Waaagh!",
@@ -6574,6 +7949,46 @@
       "Leadership": "7+",
       "OC": "1",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Da Rippa – standard [HEAVY, SUSTAINED HITS 1]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Da Rippa – supercharge [HAZARDOUS, HEAVY, SUSTAINED HITS 1]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "8",
+          "Ap": "-3",
+          "D": "3"
+        },
+        {
+          "Name": "Slugga [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Choppa",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -6748,6 +8163,28 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Slugga [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Mork’s Teeth [PRECISION, TWIN-LINKED]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Infiltrators, Leader, Lone Operative, Stealth",
         "FACTION: Waaagh!",
@@ -6940,6 +8377,64 @@
       "Wounds": "5",
       "Leadership": "7+",
       "OC": "1",
+      "Ranged Weapons": [
+        {
+          "Name": "Kombi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Kustom mega-blasta [HAZARDOUS]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Kustom shoota [RAPID FIRE 2]",
+          "Range": "18\"",
+          "A": "4",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Tellyport blasta [BLAST]",
+          "Range": "12\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Killsaw",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Power klaw",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s kustom-mega blasta can be replaced with one of the following:",
         "1 killsaw",
@@ -7155,6 +8650,28 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Big shoota [RAPID FIRE 2]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "’Uge choppa",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "2+",
+          "S": "12",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Leader",
         "FACTION: Waaagh!",
@@ -7357,6 +8874,46 @@
       "Leadership": "6+",
       "OC": "3",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Slugga [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Thump gun [BLAST]",
+          "Range": "18\"",
+          "A": "D3",
+          "Bs": "5+",
+          "S": "6",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Beastchoppa [ANTI-MONSTER 4+, ANTI-VEHICLE 4+]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Squigosaur’s jaws [DEVASTATING WOUNDS, EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with 1 thump gun."
       ],
@@ -7547,6 +9104,37 @@
       "Leadership": "6+",
       "OC": "3",
       "Invulnerable Save": "4+",
+      "Ranged Weapons": [
+        {
+          "Name": "Thump gun [BLAST]",
+          "Range": "18\"",
+          "A": "D3",
+          "Bs": "5+",
+          "S": "6",
+          "Ap": "0",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Big Chompa’s jaws [DEVASTATING WOUNDS, EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "3+",
+          "S": "7",
+          "Ap": "-2",
+          "D": "4"
+        },
+        {
+          "Name": "Gutrippa [ANTI-MONSTER 4+, ANTI-VEHICLE 4+]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "3"
+        }
+      ],
       "Abilities": [
         "CORE: Feel No Pain 5+, Leader",
         "FACTION: Waaagh!",
@@ -7735,6 +9323,28 @@
       "Leadership": "6+",
       "OC": "1",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Slugga [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Da Vulcha’s Klaws and choppa",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "2+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -7911,6 +9521,46 @@
       "Leadership": "6+",
       "OC": "3",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Boomstikks [ASSAULT]",
+          "Range": "12\"",
+          "A": "6",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Killa jet – burna [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Killa jet – cutta [MELTA 2]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Snagga klaw",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise 1, Leader",
         "FACTION: Waaagh!",
@@ -8098,6 +9748,118 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Kombi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Kustom mega-blasta [HAZARDOUS]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Kustom mega-slugga [BLAST, HAZARDOUS]",
+          "Range": "12\"",
+          "A": "D3",
+          "Bs": "5+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Rokkit launcha [BLAST]",
+          "Range": "24\"",
+          "A": "D3",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Shokk attack gun [BLAST, HEAVY]",
+          "Range": "60\"",
+          "A": "D6+1",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-4",
+          "D": "D6"
+        },
+        {
+          "Name": "Slugga [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin dakkagun [ASSAULT, RAPID FIRE 2, TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Big choppa",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Choppa",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Close combat weapon",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Killsaw",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Power klaw",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s slugga can be replaced with one of the following:",
         "1 shokk attack gun",
@@ -8322,6 +10084,46 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Twin dakkagun [ASSAULT, RAPID FIRE 2, TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Killsaw",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Power klaw",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "’Urty syringe [ANTI-INFANTRY 4+, EXTRA ATTACKS, PRECISION]",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "3+",
+          "S": "2",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s power klaw can be replaced with 1 killsaw."
       ],
@@ -8511,6 +10313,46 @@
       "Leadership": "6+",
       "OC": "2",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Twin dakkagun [ASSAULT, RAPID FIRE 2, TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Big choppa",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "2+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Killsaw",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Power klaw",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s killsaw can be replaced with one of the following:",
         "1 big choppa",
@@ -8708,6 +10550,37 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Big shoota [RAPID FIRE 2]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Spiked wheels",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Wreckin’ ball [EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "10",
+          "Ap": "0",
+          "D": "D6"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with 1 wreckin’ ball."
       ],
@@ -8858,6 +10731,36 @@
       "Wounds": "12",
       "Leadership": "7+",
       "OC": "0",
+      "Ranged Weapons": [
+        {
+          "Name": "Big shoota [RAPID FIRE 2]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Gaze of Gork – glare [BLAST, SUSTAINED HITS D3]",
+          "Range": "24\"",
+          "A": "D6",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Gaze of Gork – squint [SUSTAINED HITS D3]",
+          "Range": "18\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "12",
+          "Ap": "-4",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [],
       "Wargear Options": [
         "This model can be equipped with up to 3 additional big shootas."
       ],
@@ -8985,6 +10888,8 @@
       "Wounds": "10",
       "Leadership": "7+",
       "OC": "0",
+      "Ranged Weapons": [],
+      "Melee Weapons": [],
       "Wargear Options": [
         "None"
       ],
@@ -9104,6 +11009,100 @@
       "Leadership": "7+",
       "OC": "5",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Big shoota [RAPID FIRE 2]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Kannon – frag [BLAST]",
+          "Range": "36\"",
+          "A": "D6+3",
+          "Bs": "5+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Kannon – shell",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Killkannon",
+          "Range": "24\"",
+          "A": "D6+1",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Lobba [BLAST, INDIRECT FIRE]",
+          "Range": "48\"",
+          "A": "D6",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Zzap gun [ANTI-VEHICLE 4+]",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "D6+6",
+          "Ap": "-3",
+          "D": "5"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Deff rolla",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "3+",
+          "S": "9",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Grabbin’ klaw [EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Tracks and wheels",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Wreckin’ ball [EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "10",
+          "Ap": "0",
+          "D": "D6"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with one of the following:",
         "1 kannon",
@@ -9259,6 +11258,37 @@
       "Leadership": "7+",
       "OC": "0",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Big shoota [RAPID FIRE 2]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin supa-shoota [RAPID FIRE 2, SUSTAINED HITS 1, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "4",
+          "Bs": "5+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D3",
         "FACTION: Waaagh!",
@@ -9429,6 +11459,46 @@
       "Leadership": "7+",
       "OC": "3",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Big shoota [RAPID FIRE 2]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Grot blasta [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Mek speshul [ASSAULT, RAPID FIRE 4, SUSTAINED HITS 1]",
+          "Range": "24\"",
+          "A": "12",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Spiked wheels",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise 1",
         "FACTION: Waaagh!",
@@ -9601,6 +11671,46 @@
       "Leadership": "7+",
       "OC": "0",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Twin big shoota [RAPID FIRE 2, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin supa-shoota [RAPID FIRE 2, SUSTAINED HITS 1, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "4",
+          "Bs": "5+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Skorcha missile rack [BLAST, IGNORES COVER]",
+          "Range": "36\"",
+          "A": "2D6",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with 1 skorcha missile rack."
       ],
@@ -9774,6 +11884,28 @@
       "Leadership": "7+",
       "OC": "0",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Twin supa-shoota [RAPID FIRE 2, SUSTAINED HITS 1, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "4",
+          "Bs": "5+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with 1 additional twin supa-shoota."
       ],
@@ -9947,6 +12079,64 @@
       "Leadership": "7+",
       "OC": "3",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Big shoota [RAPID FIRE 2]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Kustom mega-blasta [HAZARDOUS]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Rokkit launcha [BLAST]",
+          "Range": "24\"",
+          "A": "D3",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Skorcha [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Dread klaw [DEAD CHOPPY]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "12",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Stompy feet",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s big shootas can each be replaced with one of the following:",
         "1 dread klaw",
@@ -10125,6 +12315,46 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Kopta rokkits [BLAST, TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "D3",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Kustom mega-blasta [HAZARDOUS]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Slugga [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Spinnin’ blades",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "For every 3 models in this unit, 1 Deffkopta can have its kopta rokkits replaced with 1 kustom mega-blasta."
       ],
@@ -10311,6 +12541,64 @@
       "Leadership": "7+",
       "OC": "8",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Deffstorm mega-shoota [RAPID FIRE 10]",
+          "Range": "36\"",
+          "A": "20",
+          "Bs": "5+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Rokkit launcha [BLAST]",
+          "Range": "24\"",
+          "A": "D3",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Skorcha [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Twin big shoota [RAPID FIRE 2, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Klaw of Gork – strike",
+          "Range": "Melee",
+          "A": "5",
+          "Ws": "3+",
+          "S": "18",
+          "Ap": "-3",
+          "D": "6"
+        },
+        {
+          "Name": "Klaw of Gork – sweep",
+          "Range": "Melee",
+          "A": "15",
+          "Ws": "3+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D6",
         "FACTION: Waaagh!",
@@ -10484,6 +12772,55 @@
       "Wounds": "16",
       "Leadership": "7+",
       "OC": "5",
+      "Ranged Weapons": [
+        {
+          "Name": "’Eavy lobba [BLAST, INDIRECT FIRE]",
+          "Range": "48\"",
+          "A": "D6",
+          "Bs": "5+",
+          "S": "6",
+          "Ap": "0",
+          "D": "2"
+        },
+        {
+          "Name": "Stikka kannon [ANTI-MONSTER 2+, ANTI-VEHICLE 2+, SNAGGED]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "12",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Butcha boyz [EXTRA ATTACKS, ANTI-MONSTER 4+, ANTI-VEHICLE 4+]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Savage horns and hooves [EXTRA ATTACKS, LANCE]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Saw blades",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "3+",
+          "S": "10",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D6, Feel No Pain 6+, Firing Deck 11",
         "FACTION: Waaagh!",
@@ -10644,6 +12981,64 @@
       "Wounds": "16",
       "Leadership": "7+",
       "OC": "5",
+      "Ranged Weapons": [
+        {
+          "Name": "’Eavy lobba [BLAST, INDIRECT FIRE]",
+          "Range": "48\"",
+          "A": "D6",
+          "Bs": "5+",
+          "S": "6",
+          "Ap": "0",
+          "D": "2"
+        },
+        {
+          "Name": "Stikka kannon [ANTI-MONSTER 2+, ANTI-VEHICLE 2+, SNAGGED]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "12",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Wurrtower [HAZARDOUS, PSYCHIC, TORRENT]",
+          "Range": "24\"",
+          "A": "D3",
+          "Bs": "N/A",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Butcha boyz [ANTI-MONSTER 4+, ANTI-VEHICLE 4+, EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Savage horns and hooves [EXTRA ATTACKS, LANCE]",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "3"
+        },
+        {
+          "Name": "Saw blades",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "3+",
+          "S": "10",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D6, Feel No Pain 6+",
         "FACTION: Waaagh!",
@@ -10806,6 +13201,55 @@
       "Leadership": "8+",
       "OC": "2",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Kan shoota [DEVASTATING WOUNDS, RAPID FIRE 2]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Grotzooka [BLAST, IGNORES COVER]",
+          "Range": "18\"",
+          "A": "D3+3",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Rokkit launcha [BLAST]",
+          "Range": "24\"",
+          "A": "D3",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Skorcha [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Kan klaw",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
       "Wargear Options": [
         "Each Killa Kan’s Kan shoota can be replaced with one of the following:",
         "1 grotzooka",
@@ -10984,6 +13428,46 @@
       "Leadership": "7+",
       "OC": "3",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Burna exhausts [IGNORES COVER, TORRENT, TWIN-LINKED]",
+          "Range": "6\"",
+          "A": "2D6",
+          "Bs": "N/A",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Grot blasta [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "4+",
+          "S": "3",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Rivet kannon [ASSAULT, RAPID FIRE 3]",
+          "Range": "36\"",
+          "A": "6",
+          "Bs": "5+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Spiked ram",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise 1",
         "FACTION: Waaagh!",
@@ -11156,6 +13640,46 @@
       "Leadership": "7+",
       "OC": "3",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Rokkit kannon [BLAST]",
+          "Range": "24\"",
+          "A": "D6+1",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Twin big shoota [RAPID FIRE 2, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Wing missiles",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Nose drill",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise 1",
         "FACTION: Waaagh!",
@@ -11322,6 +13846,64 @@
       "Leadership": "7+",
       "OC": "8",
       "Invulnerable Save": "5+",
+      "Ranged Weapons": [
+        {
+          "Name": "Kustom mega-blasta [HAZARDOUS]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Kustom mega-zappa [BLAST, HAZARDOUS]",
+          "Range": "36\"",
+          "A": "D6+3",
+          "Bs": "5+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Rokkit launcha [BLAST]",
+          "Range": "24\"",
+          "A": "D3",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Twin big shoota [RAPID FIRE 2, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Klaw of Mork – strike",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "18",
+          "Ap": "-3",
+          "D": "6"
+        },
+        {
+          "Name": "Klaw of Mork – sweep",
+          "Range": "Melee",
+          "A": "12",
+          "Ws": "3+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise D6",
         "FACTION: Waaagh!",
@@ -11496,6 +14078,37 @@
       "Leadership": "7+",
       "OC": "3",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Sawn-off shotgun [ASSAULT]",
+          "Range": "12\"",
+          "A": "2",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Squig launchas [BLAST, IGNORES COVER, INDIRECT FIRE]",
+          "Range": "36\"",
+          "A": "D6+6",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Saw blades",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise 1",
         "FACTION: Waaagh!",
@@ -11663,6 +14276,37 @@
       "Leadership": "7+",
       "OC": "3",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Kustom shokk rifle [DEVASTATING WOUNDS, HAZARDOUS, PRECISION]",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "3+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Rokkit launcha [BLAST]",
+          "Range": "24\"",
+          "A": "D3",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Saw blades",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "4+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise 1",
         "FACTION: Waaagh!",
@@ -11829,6 +14473,82 @@
       "Leadership": "6+",
       "OC": "12",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Big shoota [RAPID FIRE 2]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Deffkannon [BLAST]",
+          "Range": "72\"",
+          "A": "3D6",
+          "Bs": "5+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "D6"
+        },
+        {
+          "Name": "Skorcha [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Supa-gatler [SUSTAINED HITS 1]",
+          "Range": "24\"",
+          "A": "20",
+          "Bs": "5+",
+          "S": "7",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Supa-rokkits [BLAST]",
+          "Range": "100\"",
+          "A": "D6",
+          "Bs": "5+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "D6+2"
+        },
+        {
+          "Name": "Twin big shoota [RAPID FIRE 2, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Mega-choppa – strike",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "3+",
+          "S": "24",
+          "Ap": "-5",
+          "D": "10"
+        },
+        {
+          "Name": "Mega-choppa – sweep",
+          "Range": "Melee",
+          "A": "18",
+          "Ws": "3+",
+          "S": "10",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
       "Abilities": [
         "CORE: Deadly Demise 2D6",
         "FACTION: Waaagh!",
@@ -12003,6 +14723,55 @@
       "Leadership": "7+",
       "OC": "0",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Smasha gun [BLAST]",
+          "Range": "48\"",
+          "A": "D3",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-3",
+          "D": "4"
+        },
+        {
+          "Name": "Twin wazbom mega-kannon [BLAST, HAZARDOUS, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "D3",
+          "Bs": "4+",
+          "S": "12",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Twin supa-shoota [RAPID FIRE 2, SUSTAINED HITS 1, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "4",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Twin tellyport mega-blasta [BLAST, TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-1",
+          "D": "D6+1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s twin wazbom mega-kannon can be replaced with 1 twin tellyport mega-blasta.",
         "This model can be equipped with 1 blastajet force field.",
@@ -12185,6 +14954,55 @@
       "Wounds": "30",
       "Leadership": "7+",
       "OC": "12",
+      "Ranged Weapons": [
+        {
+          "Name": "Kannon – frag [BLAST]",
+          "Range": "36\"",
+          "A": "D6",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Kannon – shell",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Supa-kannon [BLAST]",
+          "Range": "60\"",
+          "A": "2D6",
+          "Bs": "5+",
+          "S": "12",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Huge tusks – strike [LANCE]",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "3+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "12"
+        },
+        {
+          "Name": "Huge tusks – sweep",
+          "Range": "Melee",
+          "A": "18",
+          "Ws": "3+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with one of the following:",
         "1 kannon",
@@ -12322,6 +15140,28 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Grot-guided bomms [BLAST, ONE SHOT, INDIRECT FIRE]",
+          "Range": "72\"",
+          "A": "D6",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Spiked wheel",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -12486,6 +15326,28 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Skorcha [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Spiked wheel",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "None"
       ],
@@ -12660,6 +15522,37 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Rack of rokkits [BLAST]",
+          "Range": "24\"",
+          "A": "D3+1",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Twin big shoota [RAPID FIRE 2, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Spiked wheels",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their twin big shoota replaced with 1 rack of rokkits."
       ],
@@ -12834,6 +15727,37 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Rack of rokkits [BLAST]",
+          "Range": "24\"",
+          "A": "D3+1",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Twin big shoota [RAPID FIRE 2, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Spiked wheel",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their twin big shoota replaced with 1 rack of rokkits."
       ],
@@ -13008,6 +15932,55 @@
       "Leadership": "8+",
       "OC": "1",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Kannon – frag [BLAST, HEAVY]",
+          "Range": "36\"",
+          "A": "D6",
+          "Bs": "6+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Kannon – shell [HEAVY]",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "6+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Lobba [BLAST, HEAVY, INDIRECT FIRE]",
+          "Range": "48\"",
+          "A": "D6",
+          "Bs": "6+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Zzap gun [DEVASTATING WOUNDS, HEAVY]",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "6+",
+          "S": "2D6",
+          "Ap": "-3",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Close combat weapons",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their kannon replaced with one of the following:",
         "1 lobba",
@@ -13169,6 +16142,73 @@
       "Wounds": "12",
       "Leadership": "8+",
       "OC": "4",
+      "Ranged Weapons": [
+        {
+          "Name": "Mega-tank weapons [RAPID FIRE 10]",
+          "Range": "18\"",
+          "A": "10",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin big shoota [RAPID FIRE 2, TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin grotzooka [BLAST, TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "D3+3",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin kustom mega-blasta [HAZARDOUS, TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Twin rokkit launcha [BLAST, TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "D3",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Twin skorcha [IGNORES COVER, TORRENT, TWIN-LINKED]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s twin big shoota can be replaced with one of the following:",
         "1 twin grotzooka",
@@ -13333,6 +16373,64 @@
       "Wounds": "5",
       "Leadership": "8+",
       "OC": "2",
+      "Ranged Weapons": [
+        {
+          "Name": "Big shoota [RAPID FIRE 2]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "4+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Grotzooka [BLAST]",
+          "Range": "18\"",
+          "A": "D3+3",
+          "Bs": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Kustom mega-blasta [HAZARDOUS]",
+          "Range": "24\"",
+          "A": "2",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Rokkit launcha [BLAST]",
+          "Range": "24\"",
+          "A": "D3",
+          "Bs": "4+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Skorcha [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Ramshackle hull",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "5+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their big shoota replaced with one of the following:",
         "1 grotzooka",
@@ -13506,6 +16604,46 @@
       "Wounds": "18",
       "Leadership": "7+",
       "OC": "5",
+      "Ranged Weapons": [
+        {
+          "Name": "Kannon – frag [BLAST]",
+          "Range": "36\"",
+          "A": "D6",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Kannon – shell",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D6"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Gorin’ horns – strike",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "12",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Gorin’ horns – sweep",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "3+",
+          "S": "9",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with 1 kannon."
       ],
@@ -13638,6 +16776,37 @@
       "Leadership": "7+",
       "OC": "0",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Twin big shoota [RAPID FIRE 2, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Wing missiles",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with 1 wing missiles."
       ],
@@ -13811,6 +16980,64 @@
       "Leadership": "7+",
       "OC": "3",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Big shoota [RAPID FIRE 2]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Kannon – frag [BLAST]",
+          "Range": "36\"",
+          "A": "D6",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Kannon – shell",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Supa-kannon – frag [BLAST]",
+          "Range": "36\"",
+          "A": "D6+3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Supa-kannon – shell",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D3+3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with one of the following:",
         "1 kannon",
@@ -13955,6 +17182,73 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Big shoota [RAPID FIRE 2]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Deffgun [RAPID FIRE 1]",
+          "Range": "48\"",
+          "A": "2",
+          "Bs": "5+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Kustom mega-blasta [HAZARDOUS]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Rattler kannon",
+          "Range": "24\"",
+          "A": "6",
+          "Bs": "5+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Rokkit launcha [BLAST]",
+          "Range": "24\"",
+          "A": "D3",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Skorcha [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with up to 2 big bomms.",
         "This model’s big shoota can be replaced with one of the following:",
@@ -14135,6 +17429,91 @@
       "Leadership": "7+",
       "OC": "8",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Big shoota [RAPID FIRE 2]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Kannon – frag [BLAST]",
+          "Range": "36\"",
+          "A": "D6",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Kannon – shell",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Lobba [BLAST, INDIRECT FIRE]",
+          "Range": "48\"",
+          "A": "D6",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Rokkit launcha [BLAST]",
+          "Range": "24\"",
+          "A": "D3",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Skorcha [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Twin big shoota [RAPID FIRE 2, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Zzap gun [DEVASTATING WOUNDS]",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "2D6",
+          "Ap": "-3",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Deff rolla",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "3+",
+          "S": "9",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with up to 5 big shootas.",
         "Each of this model’s zzap guns can be replaced with one of the following:",
@@ -14287,6 +17666,64 @@
       "Leadership": "7+",
       "OC": "2",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Kopta rokkits [BLAST, TWIN-LINKED]",
+          "Range": "24\"",
+          "A": "D3",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Kustom mega-blasta [HAZARDOUS]",
+          "Range": "24\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D6"
+        },
+        {
+          "Name": "Slugga [PISTOL]",
+          "Range": "12\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "4",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Twin big shoota [RAPID FIRE 2, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Killsaw",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "12",
+          "Ap": "-3",
+          "D": "2"
+        },
+        {
+          "Name": "Spinnin’ blades",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "3+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "Any number of models can each have their twin big shoota replaced with one of the following:",
         "1 kopta rockets",
@@ -14440,6 +17877,46 @@
       "Leadership": "7+",
       "OC": "0",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Grot-guided bomm [BLAST, ONE SHOT, INDIRECT FIRE]",
+          "Range": "72\"",
+          "A": "D6",
+          "Bs": "4+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Twin big shoota [RAPID FIRE 2, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Wing missiles",
+          "Range": "24\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Armoured hull",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "6",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with one of the following:",
         "2 Grot-guided bomms",
@@ -14618,6 +18095,46 @@
       "Leadership": "7+",
       "OC": "4",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Big shoota [RAPID FIRE 2]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Supa-kannon – frag [BLAST]",
+          "Range": "36\"",
+          "A": "D6+3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Supa-kannon – shell",
+          "Range": "36\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "D3+3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Spiked ram",
+          "Range": "Melee",
+          "A": "3",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with up to 3 big shootas."
       ],
@@ -14760,6 +18277,64 @@
       "Leadership": "7+",
       "OC": "8",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Krusha kannon – blast burna [BLAST]",
+          "Range": "48\"",
+          "A": "3D6",
+          "Bs": "5+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Krusha kannon – tankhamma shell [HEAVY]",
+          "Range": "60\"",
+          "A": "1",
+          "Bs": "5+",
+          "S": "16",
+          "Ap": "-3",
+          "D": "6"
+        },
+        {
+          "Name": "Rokkit launcha [BLAST]",
+          "Range": "24\"",
+          "A": "D3",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Skorcha [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Twin big shoota [RAPID FIRE 2, TWIN-LINKED]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Tracks and wheels",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "-1",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model can be equipped with one of the following:",
         "1 twin big shoota",
@@ -14909,6 +18484,55 @@
       "Wounds": "24",
       "Leadership": "6+",
       "OC": "10",
+      "Ranged Weapons": [
+        {
+          "Name": "Bursta kannon [BLAST]",
+          "Range": "36\"",
+          "A": "3D6",
+          "Bs": "5+",
+          "S": "14",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Giga shoota [SUSTAINED HITS 1]",
+          "Range": "48\"",
+          "A": "30",
+          "Bs": "5+",
+          "S": "6",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Skorcha [IGNORES COVER, TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "-1",
+          "D": "1"
+        },
+        {
+          "Name": "Twin big shoota [RAPID FIRE 2, TWIN-LINKED]",
+          "Range": "18\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Reinforced ram",
+          "Range": "Melee",
+          "A": "8",
+          "Ws": "4+",
+          "S": "9",
+          "Ap": "-1",
+          "D": "2"
+        }
+      ],
       "Wargear Options": [
         "This model’s bursta kannon can be replaced with 1 giga shoota."
       ],
@@ -15052,6 +18676,73 @@
       "Leadership": "7+",
       "OC": "5",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Big shoota [RAPID FIRE 2]",
+          "Range": "36\"",
+          "A": "3",
+          "Bs": "5+",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Lifta-droppa [ANTI-VEHICLE 3+]",
+          "Range": "36\"",
+          "A": "4",
+          "Bs": "5+",
+          "S": "6",
+          "Ap": "-3",
+          "D": "D6+1"
+        },
+        {
+          "Name": "Rokkit launcha [BLAST]",
+          "Range": "24\"",
+          "A": "D3",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "3"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Deff rolla",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "3+",
+          "S": "9",
+          "Ap": "-1",
+          "D": "2"
+        },
+        {
+          "Name": "Grabbin’ klaw [EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "2",
+          "Ws": "3+",
+          "S": "8",
+          "Ap": "-2",
+          "D": "2"
+        },
+        {
+          "Name": "Tracks and wheels",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "4+",
+          "S": "8",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Wreckin’ ball [EXTRA ATTACKS]",
+          "Range": "Melee",
+          "A": "1",
+          "Ws": "4+",
+          "S": "10",
+          "Ap": "0",
+          "D": "D6"
+        }
+      ],
       "Wargear Options": [
         "This model’s tracks and wheels can be replaced with 1 deff rolla.",
         "This model can be equipped with 1 grabbin’ klaw.",
@@ -15199,6 +18890,55 @@
       "Leadership": "7+",
       "OC": "5",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Boombits [TORRENT]",
+          "Range": "12\"",
+          "A": "D6",
+          "Bs": "N/A",
+          "S": "5",
+          "Ap": "0",
+          "D": "1"
+        },
+        {
+          "Name": "Killkannon",
+          "Range": "24\"",
+          "A": "D6+3",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Dread killsaw",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "4"
+        },
+        {
+          "Name": "Dread rippa klaw",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "3+",
+          "S": "12",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Stompy feet",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "7",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s killkannon can be replaced with one of the following:",
         "1 dread killsaw",
@@ -15376,6 +19116,46 @@
       "Leadership": "7+",
       "OC": "5",
       "Invulnerable Save": "6+",
+      "Ranged Weapons": [
+        {
+          "Name": "Killkannon",
+          "Range": "24\"",
+          "A": "D6+3",
+          "Bs": "5+",
+          "S": "9",
+          "Ap": "-2",
+          "D": "2"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "Name": "Dread killsaw",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "14",
+          "Ap": "-3",
+          "D": "4"
+        },
+        {
+          "Name": "Dread rippa klaw",
+          "Range": "Melee",
+          "A": "6",
+          "Ws": "3+",
+          "S": "12",
+          "Ap": "-2",
+          "D": "3"
+        },
+        {
+          "Name": "Stompy feet",
+          "Range": "Melee",
+          "A": "4",
+          "Ws": "3+",
+          "S": "7",
+          "Ap": "0",
+          "D": "1"
+        }
+      ],
       "Wargear Options": [
         "This model’s killkannon can be replaced with one of the following:",
         "1 dread killsaw",
